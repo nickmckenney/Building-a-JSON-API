@@ -9,7 +9,7 @@
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
 
-* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrated that you thought through alternative implementations? _(Note that this part of your feedback evaluation will take place during your one-on-one code review with your instructors, after you've completed the project.)_
+* __Deployment and Functionality__: Is your application deployed and operable at a public URL? Are inoperable features hidden?
 
 * __Total__: Your instructors will give you a total score on your project between:
 
