@@ -35,7 +35,7 @@ Your app must:
 
 ---
 
-### Suggested Ways to Get Started
+### Tips
 
 * **Begin with the end in mind.** Know where you want to go by planning with wireframes & user stories, so you don't waste time building things you don't need
 * **Don’t hesitate to write throwaway code to solve short term problems**
