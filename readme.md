@@ -16,7 +16,7 @@ Your app must:
 
 * **Have at _least_ 2 models** (more if they make sense) – one representing someone using your application, and one that represents the main functional idea for your app
 * **Include sign up/log in functionality**, with encrypted passwords & an authorization flow
-* **Have complete RESTful routes** for at least one of your resources with GET, POST, PUT, PATCH, and DELETE
+* **Have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE
 * **Utilize an ORM to create a database table structure** and interact with your relationally-stored data
 * **Include wireframes** that you designed during the planning process
 * Have **semantically clean HTML and CSS**
