@@ -7,7 +7,7 @@
 
 * __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
+* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class -- keeping only the comments necessary to document what is happening in your code?
 
 * __Deployment and Functionality__: Is your application deployed and operable at a public URL? Are inoperable features hidden?
 

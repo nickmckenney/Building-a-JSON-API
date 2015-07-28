@@ -20,7 +20,7 @@ Your app must:
 * **Include sign up/log in functionality**, with encrypted passwords & an authorization flow.
 * **Have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
 * **Utilize an ORM to create a database table structure** and interact with your relationally-stored data.
-* Have **validating HTML and CSS**. (See "Resources" below)
+* Have **semantically-clean and validating HTML and CSS**. (See "Resources" below)
 * **Be deployed online** and accessible to the public.
 
 ---
@@ -33,7 +33,7 @@ Your app must:
 * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 * **A `planning` folder** in the root of your repo, inside of which is...
   * A `wireframes` directory, inside of which are *at least* 2 photos or drawings of wireframes
-  * A `user_stories.md` file, containing at least 7 user stories.
+  * A `user_stories.md` file, containing at least 7 user stories, *or* a link to Trello with at least 7 user stories.
 
 ---
 
@@ -61,7 +61,7 @@ You will create an application where users can bookmark links they want to keep.
 But what if users could trade bookmarks for other bookmarks? Or sell bookmarks for points? Or send bookmarks to your friends. Or something even crazier.
 
 ##### Photo sharing app
-Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please do *not* actually have users upload videos to your server -- except as a major bonus -- as this is difficult and memory-intensive. Use Imgur or another file hosting service instead.)
+Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading is *difficult* and memory-intensive. We encourage you to use a separate image uploading service -- Imgur, Flickr, etc -- and for your app to store only the URLs of those images, rather than the images themselves.)
 
 ##### Anything Else!
 
