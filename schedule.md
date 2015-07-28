@@ -6,7 +6,7 @@ Homework:
 
 - Submit a Project 2 idea.
 - Include wireframes, ERD, and user stories in a Readme.md
-- Create an issue on this repository with a link to the above by **Monday, August 3rd**.
+- Create an issue on this repository with a link to the above by **9am Monday, August 3rd**.
 
 ## Friday 8/7
 
