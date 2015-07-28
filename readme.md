@@ -61,6 +61,10 @@ But what if users could trade bookmarks for other bookmarks? Or sell bookmarks f
 ##### Photo sharing app
 Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them.
 
+##### Anything Else!
+
+You're not limited to the above ideas, feel free to come up with your own idea. Just make sure to run it by your instructor to make sure the idea is feasable to finish during project week.
+
 ---
 
 ### Useful Resources
