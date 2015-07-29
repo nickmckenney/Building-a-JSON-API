@@ -8,7 +8,10 @@ This second project is your first foray into **building a full-stack application
 
 **You will be working individually for this project**, and you'll be designing the app yourself. You may work from home, except for mandatory one-on-ones with your pod instructor.
 
-We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code! Remember to keep things small and focus on mastering the fundamentals - scope creep/feature creep is the biggest pitfall for any project!
+We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. 
+Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code! 
+**Please reference the [schedule](schedule.md)** to know what is due when!
+Remember to keep things small and focus on mastering the fundamentals - scope creep/feature creep is the biggest pitfall for any project!
 
 ---
 
