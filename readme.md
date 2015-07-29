@@ -77,5 +77,5 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 * **[Heroku](http://www.heroku.com)** _(for hosting your back-end)_
 * **[Writing Good User Stories](http://www.mariaemerson.com/user-stories/)** _(for a few user story tips)_
 * **[Presenting Information Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)** _(for more insight into wireframing)_
-* **[W3 Validator](http://validator.w3.org)
+* **[W3 Validator](http://validator.w3.org)_
 
