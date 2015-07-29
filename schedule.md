@@ -4,17 +4,30 @@
 
 Homework: 
 
-- Submit a Project 2 idea.
-- Include wireframes, ERD, and user stories in a Readme.md
-- Create an issue on this repository with a link to the above by **9am Monday, August 3rd**.
+- Create a repository on GitHub. 
+  - Include wireframes, ERD, and user stories in a Readme.md
+- Submit a Project 2 idea by creating an issue on this repository with a link to the above by **9am Monday, August 3rd**.
 
-## Monday - Thursday 
+## Monday 8/3
 
-- Attendance will not be taken, **except** on Tuesday at 9am, when you will meet and scrum with your squad and meet with your instructor.
-- Mini lessons will be offered, schedule to be included here as they are added.
+No attendance taken.
+
+## Tuesday 8/4
+
+**Attendance will be taken at 9am**. 
+
+You will meet and scrum with your squad and meet with your instructor.
+
+## Wednesday 8/5
+
+No attendance taken.
+
+## Thursday 8/6
+
+No attendance taken.
 
 ## Friday 8/7
 
-- Project presentations begin at 9:30am
+- [Project presentations](presentations.md) begin at 9:30am
 - 1:30 - 4:30
-  - Refactor!
+  - Retro!
