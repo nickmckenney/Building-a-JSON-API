@@ -26,6 +26,8 @@ No attendance taken.
 
 No attendance taken.
 
+**[Presentation Submission](./presentations.md) is due @ 11pm**
+
 ## Friday 8/7
 
 - [Project presentations](presentations.md) begin at 9:30am
