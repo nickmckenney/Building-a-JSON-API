@@ -30,6 +30,8 @@ No attendance taken.
 
 ## Friday 8/7
 
+**Attendance will be taken at 9am**. 
+
 - [Project presentations](presentations.md) begin at 9:30am
 - 1:30 - 4:30
   - Retro!
