@@ -4,13 +4,15 @@ In place of doing science-fair-style or one-by-one presentations, you will prepa
 
 ### Hard Requirements
 
-Your video must include:
+Your video must be uploaded to YouTube, Vimeo, or some other service. Please do not e-mail us your video or put it in a Github repository since it will probably be at least 500MB.
+
+**Your video must include:**
 
 - A website or e-mail address through which you can be contacted. This can be included either in the video itself or as the video description (the text beneath YouTube videos).
 - A description and demo of your app
-- A code sample explaining one thing you’re proud of
-- One thing you’d do differently next time
-- The next feature you’d implement if you had more time
+- A code sample explaining one thing you're proud of
+- One thing you'd do differently next time
+- The next feature you would like to implement
 
 ### Submission deadline: Thursday, August 6th, 11:00pm
 
@@ -20,11 +22,11 @@ That's OK! The people viewing your video don't have to know that. Show off what 
 
 ### Recording a video
 
-You may use any video-recording mechanism you wish. QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save the movie to your desktop and e-mail it.
+You may use any video-recording mechanism you wish. QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save your video to your computer and upload it to YouTube.
 
-If you're feeling really fancy, you can use iMove -- also in your Applications folder -- to doctor your movie. However, this is should be a priority far below actually completing your project -- having a swanky-looking video isn't on the rubric!
+If you're feeling really fancy you can use iMovie -- also in your Applications folder -- to doctor your movie. However, this should be a priority far below actually completing your project. Having a swanky-looking video isn't on the rubric!
 
-Alternatively, you can also create a video using YouTube's own built-in recorder, which also makes it easy to add basic effects, background music, and text to your videos. If you have a GMail account you also have a YouTube account. Just go to https://www.youtube.com/dashboard
+Alternatively, you can also create a video using YouTube's own built-in recorder, which makes it easy to add basic effects, background music, and text to your videos. If you have a GMail account you also have a YouTube account. Just go to https://www.youtube.com/dashboard
 
 ### How to submit
 
