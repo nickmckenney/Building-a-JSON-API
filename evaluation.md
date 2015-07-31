@@ -20,3 +20,16 @@
     **2** | _Exceeds expectations, you wonderful creature, you!_
 
  This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+
+## Completeness Checklist
+
+- At least 2 models
+- At least 1 association
+- GET, POST, PUT, and DELETE routes for at least 1 model
+- For any page, copying its source code as it appears in the **browser** and pasting it into the W3 Validator yields 0 errors
+- Deployed to Heroku (or another hosting service)
+- The contents of the Github repository is identical to that of the Heroku repository
+- The "URL" field of the Github repository contains a link to the deployed version of the app
+- The "readme.md" file contains any necessary installation instructions
+- The "planning" folder contains a "wireframes" directory, which in turn contains at least 2 drawings or photos of wireframes
+- The "planning" folder contains a "user_stories.md" file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
