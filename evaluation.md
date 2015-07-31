@@ -13,9 +13,9 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
 | **2** | _Exceeds expectations_ |
 
 - __Project Workflow__: 
-  - The "readme.md" file contains any necessary installation instructions
-  - The "planning" folder contains a "wireframes" directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
-  - The "planning" folder contains a "user_stories.md" file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
+  - The `readme.md` file contains any necessary installation instructions
+  - The `planning` folder contains a `wireframes` directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
+  - The `planning` folder contains a `user_stories.md` file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
   - A Github issue was submitted to the `pbj-project2` repository **by 11:00pm on Thursday, August 13th,** containing a link to a YouTube video
   - The video itself and/or the site on which it can be found contains a website or e-mail address through which the creator can be contacted
   - The video is at least 3 minutes long, but **no more than** 5 minutes
@@ -29,7 +29,7 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
   - The app is reasonably complex, given what the class has covered so far
   - The app contains at least 2 models
   - The app contains at least 1 association
-  - At least 1 model incorporates GET, POST, PUT, and DELETE routes 
+  - At least 1 model incorporates `GET`, `POST`, `PUT`, and `DELETE` routes 
 
 - __Creativity / Interface__:
   - The app displays a personal spin or creative element
@@ -44,6 +44,6 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
   - The app is deployed to Heroku (or another hosting service)
   - A Github issue containing a link to the Github repository and comfort and completeness scores was submitted to the `pbj-project2` repository **by 9:00am on Monday, August 10th**
   - The contents of the creator's Github repository is identical to that of the Heroku repository
-  - The "URL" field of the Github repository contains a link to the deployed version of the app
+  - The `URL` field of the Github repository contains a link to the deployed version of the app
   - The app loads and functions without "breaking" the app
 
