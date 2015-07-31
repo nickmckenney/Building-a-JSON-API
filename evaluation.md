@@ -1,35 +1,49 @@
-
 ### Project Feedback + Evaluation
 
-* __Project Workflow__: Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
+Your instructors will be grading you using this rubric.
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+For each criterion below, instructors will give you a score according to the following guidelines.
 
-* __Creativity / Interface__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
+They will also assign a **Total Score**, to serve as an overall gauge of whether you met the project goals. However, __the more important scores are the individual ones__, which can help you identify where to focus your efforts for the next project!
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class -- keeping only the comments necessary to document what is happening in your code?
+| Score | Expectations |
+| :---- | :----------- |
+| **0** | _Does not meet expectations_ |
+| **1** | _Meets expectactions_ |
+| **2** | _Exceeds expectations_ |
 
-* __Deployment and Functionality__: Is your application deployed and functional at a public URL? Is your application free of errors and incomplete functionality?
+- __Project Workflow__: 
+  - The "readme.md" file contains any necessary installation instructions
+  - The "planning" folder contains a "wireframes" directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
+  - The "planning" folder contains a "user_stories.md" file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
+  - A Github issue was submitted to the `pbj-project2` repository **by 11:00pm on Thursday, August 13th,** containing a link to a YouTube video
+  - The video itself and/or the site on which it can be found contains a website or e-mail address through which the creator can be contacted
+  - The video is at least 3 minutes long, but **no more than** 5 minutes
+  - The video's content contains:
+    - A description and demo of the app
+    - A code sample explaining one thing of which the creator is proud
+    - One thing the creator would do differently next time
+    - The next feature the creator would like to implement
 
-* __Total__: Your instructors will give you a total score on your project between:
+- __Technical Requirements__:
+  - The app is reasonably complex, given what the class has covered so far
+  - The app contains at least 2 models
+  - The app contains at least 1 association
+  - At least 1 model incorporates GET, POST, PUT, and DELETE routes 
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations._
-    **1** | _Meets expectactions, good job!_
-    **2** | _Exceeds expectations, you wonderful creature, you!_
+- __Creativity / Interface__:
+  - The app displays a personal spin or creative element
+  - The app delivers something of value to the end user: it is not just a login button and an index page
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+- __Code Quality__:
+  - The code follows style guidance and best practices covered in class, such as spacing, indenting, modularity, and semantic naming
+  - The code is commented only with what is necessary to document what is happening in the code
+  - For any page, copying its source code as it appears in the **browser** and pasting it into the W3 Validator yields 0 errors
 
-## Completeness Checklist
+- __Deployment and Functionality__: 
+  - The app is deployed to Heroku (or another hosting service)
+  - A Github issue containing a link to the Github repository and comfort and completeness scores was submitted to the `pbj-project2` repository **by 9:00am on Monday, August 10th**
+  - The contents of the creator's Github repository is identical to that of the Heroku repository
+  - The "URL" field of the Github repository contains a link to the deployed version of the app
+  - The app loads and functions without "breaking" the app
 
-- At least 2 models
-- At least 1 association
-- GET, POST, PUT, and DELETE routes for at least 1 model
-- For any page, copying its source code as it appears in the **browser** and pasting it into the W3 Validator yields 0 errors
-- Deployed to Heroku (or another hosting service)
-- The contents of the Github repository is identical to that of the Heroku repository
-- The "URL" field of the Github repository contains a link to the deployed version of the app
-- The "readme.md" file contains any necessary installation instructions
-- The "planning" folder contains a "wireframes" directory, which in turn contains at least 2 drawings or photos of wireframes
-- The "planning" folder contains a "user_stories.md" file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
