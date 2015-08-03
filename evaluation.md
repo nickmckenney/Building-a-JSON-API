@@ -26,7 +26,6 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
     - The next feature the creator would like to implement
 
 - __Technical Requirements__:
-  - The app is reasonably complex, given what the class has covered so far
   - The app contains at least 2 models
   - The app contains at least 1 association
   - At least 1 model incorporates `GET`, `POST`, `PUT`, and `DELETE` routes 
@@ -38,7 +37,7 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
 - __Code Quality__:
   - The code follows style guidance and best practices covered in class, such as spacing, indenting, modularity, and semantic naming
   - The code is commented only with what is necessary to document what is happening in the code
-  - For any page, copying its source code as it appears in the **browser** and pasting it into the W3 Validator yields 0 errors
+  - For any page, copying its source code as it appears in the **browser** and pasting it into the [W3 Validator](http://validator.w3.org) yields 0 errors
 
 - __Deployment and Functionality__: 
   - The app is deployed to Heroku (or another hosting service)
@@ -46,4 +45,3 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
   - The contents of the creator's Github repository is identical to that of the Heroku repository
   - The `URL` field of the Github repository contains a link to the deployed version of the app
   - The app loads and functions without "breaking" the app
-
