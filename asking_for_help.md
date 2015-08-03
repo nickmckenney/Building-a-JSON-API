@@ -1,7 +1,7 @@
 # How to Ask Questions
 
 ## TLDR (Too Long; Didn't Read)
-The instructors won't be answering questions in-person this week. Please ask for help by submitting an issue to the `pbj-project2` repository:
+The instructors won't be answering questions in-person this week. Instead, we'll be answering Github questions during business hours. Please ask for help by submitting an issue to the `pbj-project2` repository:
 
 https://github.com/ga-dc/pbj-project2/issues
 
@@ -34,6 +34,9 @@ What would you like help with specifically?
 Try explaining what you did, what you were expecting, and what happened.
 
 For an example: [sample issue](https://github.com/ga-dc/pbj-project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
+
+## Can students respond to other students' issues?
+**YES!**
 
 ## So when *should* I seek out an instructor in-person?
 When you've submitted an issue, and have spent more than 15 minutes trying to solve the problem yourself, 15 minutes Googling, and 15 minutes asking others for help in-person.
