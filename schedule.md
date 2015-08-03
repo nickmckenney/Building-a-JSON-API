@@ -2,9 +2,11 @@
 
 ## Friday 7/31
 
-Homework: 
+> NOTE: the mini lessons are optional during the week. However, you will have to watch the screencast of the lesson over the weekend if you didn't attend the lesson during the week.
 
-- Create a repository on GitHub. 
+Homework:
+
+- Create a repository on GitHub.
   - Include wireframes, ERD, and user stories in a Readme.md
 - Submit a Project 2 idea by creating an issue on this repository with a link to the above by **9am Monday, August 3rd**.
 
@@ -14,23 +16,28 @@ No attendance taken.
 
 ## Tuesday 8/4
 
-**Attendance will be taken at 9am**. 
+**Attendance will be taken at 9am**.
 
 You will meet and scrum with your squad and meet with your instructor.
 
+mini lesson - has many through associations
 ## Wednesday 8/5
 
 No attendance taken.
+
+mini lesson - User auth using the devise gem
 
 ## Thursday 8/6
 
 No attendance taken.
 
+mini lesson - AR Validations
+
 **[Presentation Submission](./presentations.md) is due @ 11pm**
 
 ## Friday 8/7
 
-**Attendance will be taken at 9am**. 
+**Attendance will be taken at 9am**.
 
 - [Project presentations](presentations.md) begin at 9:30am
 - 1:30 - 4:30
