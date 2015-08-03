@@ -20,18 +20,19 @@ No attendance taken.
 
 You will meet and scrum with your squad and meet with your instructor.
 
-mini lesson - has many through associations
+### Mini-lesson, 2-3pm: `has_many_through` associations
+
 ## Wednesday 8/5
 
 No attendance taken.
 
-mini lesson - User auth using the devise gem
+### Mini-lesson, 2-3pm: User auth using the Devise gem
 
 ## Thursday 8/6
 
 No attendance taken.
 
-mini lesson - AR Validations
+### Mini-lesson, 2-3pm: ActiveRecord Validations
 
 **[Presentation Submission](./presentations.md) is due @ 11pm**
 
