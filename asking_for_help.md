@@ -38,6 +38,6 @@ Give information about what you have done to solve the problem. Including but no
 **YES!**
 
 ## So when *should* I seek out an instructor in-person?
-When you've submitted an issue, and have spent more than 15 minutes trying to solve the problem yourself, 15 minutes Googling, and 15 minutes asking others for help in-person.
+When you've submitted an issue, and have spent more than 15 minutes trying to solve the problem yourself, 15 minutes Googling, and 15 minutes asking other students for help (in-person, on Slack, etc).
 
-We really want to talk to you when it's an emotional or mental issue, more than a technical issue.
+We really want to talk to you when it's an emotional issue, more than a technical issue.
