@@ -20,7 +20,7 @@ No attendance taken.
 
 You will meet and scrum with your squad and meet with your instructor.
 
-#### Mini-lesson, 2-3pm: `has_many_through` associations
+#### Mini-lesson, 1:30-2:45pm: `has_many_through` associations
 
 ## Wednesday 8/5
 
