@@ -10,7 +10,7 @@ I expected ___ to happen.
 ___ happened instead.
 ```
 
-[Just click this handy link to create an issue with these blanks inserted for you!](For an example: [sample issue](https://github.com/ga-dc/pbj-project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
+[Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/pbj-project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
