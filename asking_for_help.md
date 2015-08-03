@@ -12,7 +12,7 @@ ___ happened instead.
 
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/pbj-project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
-*Please close your issues when you've received a satisfactory answer!* We'll close issues that have gone more than 3 hours without any updates.
+*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
 
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
