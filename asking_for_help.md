@@ -1,9 +1,14 @@
 # How to Ask Questions
 
 ## TLDR (Too Long; Didn't Read)
-The instructors won't be answering questions in-person this week. Instead, we'll be answering Github questions during business hours. Please ask for help by submitting an issue to the `pbj-project2` repository:
+The instructors won't be answering questions in-person this week. Instead, we'll be responding to Github issues on the `pbj-project2` repository during business hours.
 
-https://github.com/ga-dc/pbj-project2/issues
+Issues should follow this format:
+I tried ___.
+I expected ___ to happen.
+___ happened instead.
+
+[Just click this handy link to create an issue with these blanks inserted for you!](For an example: [sample issue](https://github.com/ga-dc/pbj-project2/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
@@ -26,14 +31,6 @@ Give information about what you have done to solve the problem. Including but no
 - Documentation you have looked at
 - Steps you have taken to solve the problem
 - Resources you have used
-
-## How to phrase it:
-
-What would you like help with specifically?
-
-Try explaining what you did, what you were expecting, and what happened.
-
-For an example: [sample issue](https://github.com/ga-dc/pbj-project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
 ## Can students respond to other students' issues?
 **YES!**
