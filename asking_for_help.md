@@ -14,6 +14,8 @@ ___ happened instead.
 
 *Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
 
+**Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
+
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
 
