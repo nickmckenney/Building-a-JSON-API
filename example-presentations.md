@@ -1,3 +1,7 @@
+# Example Presentations
+
+These were recorded during the last cohort's final project.
+
 - Diana J
   - BestFesties
   - http://youtu.be/OR7pv4Rgw-A
