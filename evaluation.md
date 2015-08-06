@@ -17,7 +17,7 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
 - The `readme.md` file contains any necessary installation instructions
 - The `planning` folder contains a `wireframes` directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
 - The `planning` folder contains a `user_stories.md` file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
-- A Github issue was submitted to the `pbj-project2` repository **by 11:00pm on Thursday, August 13th,** containing a link to a YouTube video
+- A Github issue was submitted to the `pbj-project2` repository **by 11:00pm on Thursday, August 7th,** containing a link to a YouTube video
 - The video itself and/or the site on which it can be found contains a website or e-mail address through which the creator can be contacted
 - The video is at least 3 minutes long, but **no more than** 5 minutes
 - The video's content contains:
