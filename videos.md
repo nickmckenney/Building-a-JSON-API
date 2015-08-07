@@ -41,7 +41,7 @@
   - [Justin P](https://youtu.be/aGlaDFQvXtg)
   - [Eddie P](https://www.youtube.com/watch?v=fCVe31G_Kto&feature=youtu.be)
   - [Rosel P](https://youtu.be/i0762LK9AR8)
-  - [Lon P](http://youtu.be/YUlpFcEy9n0*)
+  - [Lon P](http://youtu.be/YUlpFcEy9n0)
   - [Malissa R](https://youtu.be/OQrEs_U3jhc)
   - [Laura N](http://youtu.be/6xT5tiIZNJ4)
 - Fortran
