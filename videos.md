@@ -19,7 +19,7 @@ In order by turn-in time...
 - [Karl D](https://www.youtube.com/watch?v=UKYUaxkQbW4)
 - [Paul D](https://www.youtube.com/watch?v=jMIVmezM8kk&feature=youtu.be)
 - [Kristin G](http://youtu.be/Bi270ZJkjUQ)
-- [Silvia B](http://youtu.be/RDp_kwA2Rkg)
+- [Silvia B](https://www.youtube.com/watch?v=Nva1N6kCIN8&feature=youtu.be)
 - [Eddie P](https://www.youtube.com/watch?v=fCVe31G_Kto&feature=youtu.be)
 - [Tom B](https://vimeo.com/135632893)
 - [Taewan K](https://www.youtube.com/watch?v=OZfAQVGgBfQ)
