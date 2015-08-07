@@ -1,5 +1,7 @@
 # Videos
 
+In order by turn-in time...
+
 1. [Mike D](https://youtu.be/cHL-dTYmMoA)
 - [Matt C](https://www.youtube.com/watch?v=r2Z1wb13WoI&feature=youtu.be)
 - [Jeff J](https://www.youtube.com/watch?v=pxgspBMolk0&feature=youtu.be)
@@ -46,3 +48,4 @@
 - [Lon P](http://youtu.be/YUlpFcEy9n0)*
 - [Leigh V](https://youtu.be/Ov3rY2EtU5w)
 - [Lana K](http://youtu.be/uXQMQLqlzH8)
+- [Kevin C](https://vimeo.com/135631139)
