@@ -1,5 +1,7 @@
 # How to Ask Questions
 
+https://wdidc7.hackpad.com/Instructor-Scrum-1029-5pm-lKTSL4z7NV2
+
 ## TLDR (Too Long; Didn't Read)
 The instructors won't be answering questions in-person this week. Instead, we'll be responding to Github issues on the `pbj-project2` repository during business hours.
 
