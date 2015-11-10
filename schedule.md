@@ -1,45 +1,53 @@
 # Project 2 Schedule
 
-## Friday 7/31
+## Friday 11/13
 
-> NOTE: the mini lessons are optional during the week. However, you will have to watch the screencast of the lesson over the weekend if you didn't attend the lesson during the week.
+> NOTE: the minilessons are optional during the week; however, your weekend homework for 11/21-22 will be to watch the screencasts of any minilessons you choose not to attend during the week.
 
 Homework:
 
-- Create a repository on GitHub.
-  - Include wireframes, ERD, and user stories in a Readme.md
-- Submit a Project 2 idea by creating an issue on this repository with a link to the above by **9am Monday, August 3rd**.
+- Create a new repository on GitHub for your project.
+  - Include wireframes, ERD, user stories, and a 1-2 summary of your project idea in a README.md
+- Create an issue on this repository with a link to the above by **9am on Monday, November 16<sup>th</sup>**.
 
-## Monday 8/3
+## Monday 11/16
 
 No attendance taken.
 
-## Tuesday 8/4
+1:30-2:30pm: Instructor AMA (Nick, Matt & Adrian)
+
+## Tuesday 11/17
 
 **Attendance will be taken at 9am**.
 
-You will meet and scrum with your squad and meet with your instructor.
+#### 9:00am: Squad Scrum
 
-#### Mini-lesson, 1:30-2:45pm: `has_many_through` associations
+#### 12:30-2:30pm: Outcomes (Studio Tours)
 
-## Wednesday 8/5
+#### 3:00-4:00pm: Minilesson, [SUBJECT]
 
-No attendance taken.
-
-#### Mini-lesson, 2-3pm: User auth using the Devise gem
-
-## Thursday 8/6
+## Wednesday 11/18
 
 No attendance taken.
 
-#### Mini-lesson, 2-3pm: ActiveRecord Validations
+#### 1:30-2:30pm: Instructor AMA (John, Jesse & Andy)
+
+#### 3:00-4:00pm: Minilesson, [SUBJECT]
+
+## Thursday 11/19
+
+No attendance taken.
+
+#### 1:30-2:30pm: Instructor AMA (Erica, Adam & Robin)
+
+#### 3:00-4:00pm: Minilesson, [SUBJECT]
 
 #### [Presentation Submission](./presentations.md) is due @ 11pm
 
-## Friday 8/7
+## Friday 11/20
 
 **Attendance will be taken at 9am**.
 
-- [Project presentations](presentations.md) begin at 9:30am
+- [Project Presentations](presentations.md) begin at 9:30am
 - 1:30 - 4:30
   - Retro!
