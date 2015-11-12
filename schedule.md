@@ -14,16 +14,16 @@
 
 
 ## Monday 11/16
-**No attendance taken.**
+**Attendance will be taken at one-on-ones.**
 
 | Time | Event |
 |------|-------|
-| 1:30-2:30pm  | [Instructor AMA (Nick, Matt & Adrian)](./amas.md)|
+| 1:30-2:30pm  | [Instructor AMA (Nick, Adam & Adrian)](./amas.md)|
 
 
 ## Tuesday 11/17
 
-**Attendance will be taken at 9:00am**
+**Attendance will be taken at Outcomes (12:30pm).**
 
 | Time | Event |
 |------|-------|
@@ -34,7 +34,7 @@
 
 ## Wednesday 11/18
 
-**No attendance taken.**
+**Attendance will be taken at any scheduled one-on-ones.**
 
 | Time | Event |
 |------|-------|
@@ -44,20 +44,24 @@
 
 ## Thursday 11/19
 
-**No attendance taken.**
+**Attendance will be taken at Peer Code Review (11:00am) AND any scheduled one-on-ones.**
 
 | Time | Event |
 |------|-------|
-| 1:30-2:30pm  | [Instructor AMA (Erica, Adam & Robin)](./amas.md)|
+| 11:00am-12:30pm | Peer Code Review |
+| 1:30-2:30pm  | [Instructor AMA (Erica, Matt & Robin)](./amas.md)|
 | 3:00-4:00pm | Mini-lesson |
-| 11:00pm | **[Presentation Video](./presentations.md) due** |
+
 
 
 ## Friday 11/20
 
-**Attendance will be taken at 9:00am**
+**Attendance will be taken at Presentations (1:00pm).**
 
 | Time | Event |
 |------|-------|
-| 9:30am  | [Project Presentations](presentations.md)|
-| 1:30-4:30pm | Squad Retro! |
+| 11:00am | **[Presentation Video](./presentations.md) due** |
+| 12:30-1:00pm | Catered Lunch |
+| 1:00-4:00pm  | [Project Presentations](presentations.md)|
+| 4:00-4:30pm | Feedback Survey |
+| 4:30-5:00pm | Squad Retro! |

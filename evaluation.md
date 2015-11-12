@@ -17,7 +17,7 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
 - The `readme.md` file contains any necessary installation instructions
 - The `planning` folder contains a `wireframes` directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
 - The `planning` folder contains a `user_stories.md` file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
-- A Github issue was submitted to the `pbj-project2` repository **by 11:00pm on Thursday, August 7th,** containing a link to a YouTube video
+- A Github issue was submitted to the `project2` repository **by 11:00am on Friday, November 20th,** containing a link to a hosted video
 - The video itself and/or the site on which it can be found contains a website or e-mail address through which the creator can be contacted
 - The video is at least 3 minutes long, but **no more than** 5 minutes
 - The video's content contains:
@@ -25,13 +25,12 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
   - A code sample explaining one thing of which the creator is proud
   - One thing the creator would do differently next time
   - The next feature the creator would like to implement
-- A Github issue containing a link to the Github repository and comfort and completeness scores was submitted to the `pbj-project2` repository **by 9:00am on Monday, August 10th**
 
 ## Technical Requirements
-##### How well does your app demonstrate a grasp of the technologies introduced in class? 
+##### How well does your app demonstrate a grasp of the technologies introduced in class?
 - The app contains at least 2 models
 - The app contains at least 1 association
-- At least 1 model incorporates `GET`, `POST`, `PUT`, and `DELETE` routes 
+- At least 1 model incorporates `GET`, `POST`, `PUT`, and `DELETE` routes
 
 ## Creativity / Interface
 ##### How memorable and enjoyable to use is your app?

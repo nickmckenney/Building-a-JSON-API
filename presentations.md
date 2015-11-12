@@ -1,6 +1,6 @@
 # Presentations
 
-In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday morning - with popcorn!
+In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday afternoon - with popcorn!
 
 ### Hard Requirements
 
@@ -14,7 +14,7 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, November 19<sup>th</sup>, 11:00pm
+### Submission deadline: Friday, November 20<sup>th</sup>, 11:00am
 
 "But instructors, I won't be done with my project by then!"
 
