@@ -6,6 +6,5 @@ Take a break from your project, and ask the instructors anything that's been on 
 
 | When | Who | Where |
 |--------|---------------------|
-| Monday, 1:30-2:30pm | Nick, Adam & Adrian | Classroom 5 |
-| Wednesday, 1:30-2:30pm | John, Jesse & Andy | " |
-| Friday, 1:30-2:30pm | Erica, Matt & Robin | " |
+| Monday, 1:30-2:30pm | Robin, Nick, Adam & Adrian | Classroom 5 |
+| Wednesday, 1:30-2:30pm | Matt, Erica, John, Jesse & Andy | Classroom 5 |

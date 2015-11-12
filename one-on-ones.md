@@ -2,11 +2,6 @@
 
 You will have three one on ones. Your squad instructor will slack you to schedule all of them:
 
-
-## Friday (15 minutes)
-- Identify at least one topic to review or research over the weekend in preparation for Project 2
-- Discuss possible project ideas and identify strong candidates
-
 ## Monday (15 minutes)
 - Review planning documents for feasibility and completeness
 - Delineate the scope of "MVP" for the student's project
