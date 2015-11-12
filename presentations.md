@@ -8,6 +8,7 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 
 **Your video must include...**
 
+- ...your voice loud enough to be heard. Speak loudly and clearly when recording!
 - ...a website or e-mail address through which you can be contacted. This can be included either in the video itself or as the video description (the text beneath YouTube videos).
 - ...a description and demo of your app
 - ...a code sample explaining one thing you're proud of
@@ -18,8 +19,7 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 
 "But instructors, I won't be done with my project by then!"
 
-a) That's OK, the people viewing your video don't have to know that. Show off what does work!
-b) Go to sleep!
+That's OK, the people viewing your video don't have to know that. Show off what does work!
 
 ### Recording a video
 

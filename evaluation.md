@@ -15,12 +15,14 @@ They will also assign a **Total Score**, to serve as an overall gauge of whether
 ## Project Workflow
 ##### How effectively did you plan, execute, and present this project?
 - The `readme.md` file contains any necessary installation instructions
-- The `planning` folder contains a `wireframes` directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
-- The `planning` folder contains a `user_stories.md` file, which in turn contains at least 7 user stories (or a link to a Trello board or some other page containing at least 7 user stories)
+- The `planning` folder contains:
+  - a picture / screenshot of your ERD (up to date!)
+  - a `wireframes` directory, which in turn contains at least 2 drawings or photos of wireframes and ERDs
+  - a `user_stories.md` file, which in turn contains at least 7 user stories (or a link to a Trello board or equivalent)
 - A Github issue was submitted to the `project2` repository **by 11:00am on Friday, November 20th,** containing a link to a hosted video
 - The video itself and/or the site on which it can be found contains a website or e-mail address through which the creator can be contacted
 - The video is at least 3 minutes long, but **no more than** 5 minutes
-- The video's content contains:
+- The video contains:
   - A description and demo of the app
   - A code sample explaining one thing of which the creator is proud
   - One thing the creator would do differently next time
