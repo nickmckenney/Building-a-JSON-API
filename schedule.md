@@ -3,6 +3,11 @@
 > **NOTE:** The mini-lessons are optional during the week; however, your weekend homework for 11/21-22 will be to watch the screencasts of any mini-lessons you choose not to attend during the week.
 
 ## Friday 11/13
+
+| Time | Event |
+|------|-------|
+|*TBD*|*One-on-ones*|
+
 ### Homework:
 
 - Create a new repository on GitHub for your project.
@@ -14,23 +19,23 @@
 
 
 ## Monday 11/16
-**Attendance will be taken at one-on-ones.**
+**Attendance will be taken at your scheduled one-on-one time.**
 
 | Time | Event |
 |------|-------|
+|*10:00am-12:00pm*|*One-on-ones*|
 | 1:30-2:30pm  | [Instructor AMA (Nick, Adam & Adrian)](./amas.md)|
-
+|*2:30-3:30pm*|*One-on-ones*|
 
 ## Tuesday 11/17
 
-**Attendance will be taken at Outcomes (12:30pm).**
+**Attendance will be taken at Outcomes (12:30pm) AND at any scheduled one-on-ones.**
 
 | Time | Event |
 |------|-------|
-| 9:00am | Squad Scrum |
 | 12:30-2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
 | 3:00-4:00pm | Mini-lesson |
-
+|*4:00-5:00pm*|*One-on-ones*|
 
 ## Wednesday 11/18
 
@@ -38,19 +43,21 @@
 
 | Time | Event |
 |------|-------|
+|*10:00am-12:00pm*|*One-on-ones*|
 | 1:30-2:30pm  | [Instructor AMA (John, Jesse & Andy)](./amas.md)|
 | 3:00-4:00pm | Mini-lesson |
-
+|*4:00-5:00pm*|*One-on-ones*|
 
 ## Thursday 11/19
 
-**Attendance will be taken at Peer Code Review (11:00am) AND any scheduled one-on-ones.**
+**Attendance will be taken at Peer Code Review (4:00pm) AND at any scheduled one-on-ones.**
 
 | Time | Event |
 |------|-------|
-| 11:00am-12:30pm | Peer Code Review |
+|*10:00am-12:00pm*|*One-on-ones*|
 | 1:30-2:30pm  | [Instructor AMA (Erica, Matt & Robin)](./amas.md)|
 | 3:00-4:00pm | Mini-lesson |
+| 4:00-5:00pm | Peer Code Review |
 
 
 

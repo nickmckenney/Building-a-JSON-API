@@ -1,6 +1,6 @@
 # Presentations
 
-In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday afternoon - with popcorn!
+In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday afternoon!
 
 ### Hard Requirements
 
