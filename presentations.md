@@ -1,6 +1,6 @@
 # Presentations
 
-In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday morning - with popcorn!
+In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday afternoon!
 
 ### Hard Requirements
 
@@ -8,18 +8,18 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 
 **Your video must include...**
 
+- ...your voice loud enough to be heard. Speak loudly and clearly when recording!
 - ...a website or e-mail address through which you can be contacted. This can be included either in the video itself or as the video description (the text beneath YouTube videos).
 - ...a description and demo of your app
 - ...a code sample explaining one thing you're proud of
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, November 19<sup>th</sup>, 11:00pm
+### Submission deadline: Friday, November 20<sup>th</sup>, 11:00am
 
 "But instructors, I won't be done with my project by then!"
 
-a) That's OK, the people viewing your video don't have to know that. Show off what does work!
-b) Go to sleep!
+That's OK, the people viewing your video don't have to know that. Show off what does work!
 
 ### Recording a video
 
