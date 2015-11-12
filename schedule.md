@@ -19,8 +19,8 @@ See [homework](homework.md).
 | Time | Event |
 |------|-------|
 |*10:00am – 12:00pm*|*One-on-ones*|
-| 1:30-2:30pm  | [Instructor AMA (Nick, Adam & Adrian)](./amas.md)|
-|*2:30-3:30pm*|*One-on-ones*|
+| 1:30 – 2:30pm  | [Instructor AMA (Nick, Adam & Adrian)](./amas.md)|
+|*2:30 – 3:30pm*|*One-on-ones*|
 
 ## Tuesday 11/17
 
@@ -28,9 +28,9 @@ See [homework](homework.md).
 
 | Time | Event |
 |------|-------|
-| 12:30-2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
-| 3:00-4:00pm | Mini-lesson |
-|*4:00-5:00pm*|*One-on-ones*|
+| 12:30 – 2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
+| 3:00 – 4:00pm | Mini-lesson |
+|*4:00 – 5:00pm*|*One-on-ones*|
 
 ## Wednesday 11/18
 
@@ -38,10 +38,10 @@ See [homework](homework.md).
 
 | Time | Event |
 |------|-------|
-|*10:00am-12:00pm*|*One-on-ones*|
-| 1:30-2:30pm  | [Instructor AMA (John, Jesse & Andy)](./amas.md)|
-| 3:00-4:00pm | Mini-lesson |
-|*4:00-5:00pm*|*One-on-ones*|
+|*10:00am – 12:00pm*|*One-on-ones*|
+| 1:30 – 2:30pm  | [Instructor AMA (John, Jesse & Andy)](./amas.md)|
+| 3:00 – 4:00pm | Mini-lesson |
+|*4:00 – 5:00pm*|*One-on-ones*|
 
 ## Thursday 11/19
 
@@ -49,10 +49,10 @@ See [homework](homework.md).
 
 | Time | Event |
 |------|-------|
-|*10:00am-12:00pm*|*One-on-ones*|
+|*10:00am – 12:00pm*|*One-on-ones*|
 | 1:30-2:30pm  | [Instructor AMA (Erica, Matt & Robin)](./amas.md)|
-| 3:00-4:00pm | Mini-lesson |
-| 4:00-5:00pm | Peer Code Review |
+| 3:00 – 4:00pm | Mini-lesson |
+| 4:00 – 5:00pm | Peer Code Review |
 
 
 
@@ -63,7 +63,7 @@ See [homework](homework.md).
 | Time | Event |
 |------|-------|
 | 11:00am | **[Presentation Video](./presentations.md) due** |
-| 12:30-1:00pm | Catered Lunch |
-| 1:00-4:00pm  | [Project Presentations](presentations.md)|
-| 4:00-4:30pm | Feedback Survey |
-| 4:30-5:00pm | Squad Retros! |
+| 12:30 – 1:00pm | Catered Lunch |
+| 1:00 – 4:00pm  | [Project Presentations](presentations.md)|
+| 4:00 – 4:30pm | Feedback Survey |
+| 4:30 – 5:00pm | Squad Retros! |
