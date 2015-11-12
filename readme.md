@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #2: Building Your First Full-stack Application
-
+## *Currently undergoing revisions for WDI-7*
 ### Overview
 
 This project is your first foray into **building a full-stack application from the ground up.**
