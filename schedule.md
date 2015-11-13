@@ -17,7 +17,7 @@
 | Time | Event |
 |------|-------|
 | 12:30 – 2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
-| 3:00 – 4:00pm | Mini-lesson |
+| 3:00 – 4:00pm | Mini-lesson: Nested Resources & Forms Review |
 |*4:00 – 5:00pm*|*[One-on-ones](./one-on-ones.md)*|
 
 ## Wednesday 11/18
@@ -28,7 +28,7 @@
 |------|-------|
 |*10:00am – 12:00pm*|*[One-on-ones](./one-on-ones.md)*|
 | 1:30 – 2:30pm  | [Instructor AMA (Erica, Matt, John, Jesse & Andy)](./amas.md)|
-| 3:00 – 4:00pm | Mini-lesson |
+| 3:00 – 4:00pm | Mini-lesson: Self-referential joins |
 |*4:00 – 5:00pm*|*[One-on-ones](./one-on-ones.md)*|
 
 ## Thursday 11/19
@@ -38,7 +38,7 @@
 | Time | Event |
 |------|-------|
 |*10:00am – 12:00pm*|*[One-on-ones](./one-on-ones.md)*|
-| 3:00 – 4:00pm | Mini-lesson |
+| 3:00 – 4:00pm | Mini-lesson: [CanCanCan](https://github.com/CanCanCommunity/cancancan) |
 | 4:00 – 5:00pm | Peer Code Review |
 
 
