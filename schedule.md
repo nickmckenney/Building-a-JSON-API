@@ -12,11 +12,11 @@
 
 ## Tuesday 11/17
 
-**Attendance will be taken at Outcomes (12:30pm) AND at any scheduled one-on-ones.**
+**Attendance will be taken at Outcomes (12:00pm) AND at any scheduled one-on-ones.**
 
 | Time | Event |
 |------|-------|
-| 12:30 – 2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
+| 12:00 – 2:30pm | [Outcomes Studio Tours](https://docs.google.com/spreadsheets/u/1/d/15-qrBUoz72aJxQnNnlZfmG4Akhy25p-AYwtCXQKpGSY/edit#gid=0) |
 | 3:00 – 4:00pm | Mini-lesson: Nested Resources & Forms Review |
 |*4:00 – 5:00pm*|*[One-on-ones](./one-on-ones.md)*|
 
