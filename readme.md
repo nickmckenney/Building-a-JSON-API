@@ -49,6 +49,7 @@ Your app must...
 * **Don't hesitate to write throwaway code to solve short term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete code working code such that it can't be retrieved.**
 * **Read the docs for whatever technologies you use.** The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 * **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
+* **Deploy early, deploy often.** Addressing any deployment bugs early and incrementally will prevent last-minute scrambling.
 * **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use them as _todo lists_, but if you keep them small & focused on what a user cares about being able to do, it will help you prioritize your features and tasks.
 * **Write pseudocode before you write actual code.** Thinking through the logic of something helps streamline your process.
 
