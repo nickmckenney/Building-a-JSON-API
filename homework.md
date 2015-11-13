@@ -11,14 +11,14 @@ Note, if you create your project's folder first, and `git init` it, that's fine.
 Just note that when you go to create your rails app, instead of:
 
 ```bash
-rails new my_awesome_project
+rails new my_awesome_project -d postgresql
 ```
 
 do this:
 
 ```bash
 cd my_project_folder
-rails new my_awesome_project .
+rails new . -d postgresql
 ```
 
 Note the `.`, which has rails make the app in the current directory, rather than
