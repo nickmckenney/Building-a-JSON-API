@@ -50,7 +50,7 @@
 | Time | Event |
 |------|-------|
 | 11:00am | **[Presentation Video](./presentations.md) due** |
-| 12:30 – 1:00pm | Catered Lunch |
-| 1:00 – 4:00pm  | [Project Presentations](./presentations.md)|
+| 12:30 – 1:30pm | Catered Lunch |
+| 1:30 – 4:00pm  | [Project Presentations](./presentations.md)|
 | 4:00 – 4:30pm | Feedback Survey |
 | 4:30 – 5:00pm | Squad Retros! |
