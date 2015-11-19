@@ -41,9 +41,9 @@ Each student's video will be playing in their respective classroom. For referenc
 
 | Time | Event |
 |------|-------|
-| 1:30pm - 2:10pm | Presentations (Round I) |
-| 2:10pm - 2:20pm | Break |
-| 2:20pm - 3:00pm | Presentations (Round II) |
-| 3:00pm – 3:10pm | Break |
-| 3:10pm – 3:50pm | Presentations (Round III) |
-| 3:50pm – 4:00pm | Break |
+| 1:30 - 2:10pm | Presentations (Round I) |
+| 2:10 - 2:20pm | Break |
+| 2:20 - 3:00pm | Presentations (Round II) |
+| 3:00 – 3:10pm | Break |
+| 3:10 – 3:50pm | Presentations (Round III) |
+| 3:50 – 4:00pm | Break |
