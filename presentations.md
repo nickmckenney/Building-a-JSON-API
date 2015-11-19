@@ -34,3 +34,16 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 ### How to submit
 
 Include a link to your video as an issue on **this** repository.
+
+### Video Presentation
+
+Each student's video will be playing in their respective classroom. For reference, look at Unit 2 in [Classroom Rotation](https://github.com/ga-dc/wdi7/blob/master/classroom-rotation.md). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
+
+| Time | Event |
+|------|-------|
+| 1:30 - 2:10pm | Presentations (Round I) |
+| 2:10 - 2:20pm | Break |
+| 2:20 - 3:00pm | Presentations (Round II) |
+| 3:00 – 3:10pm | Break |
+| 3:10 – 3:50pm | Presentations (Round III) |
+| 3:50 – 4:00pm | Break |
