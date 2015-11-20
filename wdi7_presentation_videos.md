@@ -1,8 +1,29 @@
 # Videos
 
 ## CR 1
+- [Jordan B](https://youtu.be/k0vrkt3ZshI)
+- [Tory B](https://youtu.be/5g9l4Wy6nWk)
+- [Shawn C](https://youtu.be/iyq3yhrQrT8)
+- [Kory C](https://youtu.be/n9Ij2QlK8lw)
+- [Starr C](https://vimeo.com/sipofstarrshine/gobblr)
+- [Thomas C](https://youtu.be/Y_YOX4C3jSA)
+- [Josh C](https://www.youtube.com/watch?v=bong7TdNvsQ)
+- [Tyler C](https://youtu.be/U9797AwZW84)
+- [Wonsik J]
+- [Alexis J](https://www.youtube.com/watch?v=DbKaucDf9z8&feature=youtu.be)
+- [Andrew J]
+- [Elise K](https://vimeo.com/146351674)
+- [Negar K](https://youtu.be/2hxaLOyUe8o)
+- [Teddy K]
+- [J Moon](https://youtu.be/9pGE7usy8Fk)
+- [Matt M](https://youtu.be/w2sv41jC6QY)
+- [Ly N](https://youtu.be/gljZMWlufWg)
+- [Jared N](https://youtu.be/AjXpgQ-_RWo)
+- [John P](https://vimeo.com/146407349)
+- [Jen P](https://www.youtube.com/watch?v=d7BWhb3rNYE)
 
 ## CR 4
+
 [Daniel](https://youtu.be/XwXj5B-cLko)
 [Alea](https://youtu.be/ATPRXITxcDA)
 [Davis](https://youtu.be/yUi4s70v96M)
@@ -27,3 +48,21 @@ jorge
 Alex
 
 ## CR 5
+- [Britton W](https://www.youtube.com/watch?v=mws-ltvsehM&feature=youtu.be)
+- [Peter Z](https://www.youtube.com/watch?v=2JE2NFTtPsg)
+- [Eric S](https://youtu.be/0DBcu-vcKAY)
+- [Dennis T](https://youtu.be/6_jNkj7pPBs)
+- [Thomas S](https://youtu.be/EyrqdqShnYI)
+- [Qadriyyah T](https://youtu.be/ULcUpBbhojk)
+- [Roshana D](https://github.com/ga-dc/project2/issues/453)
+- [Rebecca E](https://youtu.be/Tl4IHAWDveo)
+- [Alice F]( https://youtu.be/QU3-fTdoqpU)
+- [Joe GZ](https://www.youtube.com/watch?v=u7D5A4q9eLU)
+- [Moe G](https://www.youtube.com/watch?v=5N9B3L8JJec)
+- [Dimitri](https://www.youtube.com/watch?v=tH17JguzvJU&feature=youtu.be)
+- [Chris K](https://youtu.be/Ua4pjrz9LE0)
+- [Brendan L]()
+- [Bryce L](https://youtu.be/RVsxQzW67iU)
+- [Brendan M](https://www.youtube.com/watch?v=y6ObYOAcvfE&feature=youtu.be)
+- [Chauncey M]()
+- [Samir M](https://youtu.be/9vtt-ZA3WKs)
