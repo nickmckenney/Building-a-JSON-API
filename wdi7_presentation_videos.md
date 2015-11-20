@@ -11,7 +11,7 @@
 - [Tyler C](https://youtu.be/U9797AwZW84)
 - [Wonsik J]
 - [Alexis J](https://www.youtube.com/watch?v=DbKaucDf9z8&feature=youtu.be)
-- [Andrew J]
+- [Andrew J](https://youtu.be/eQD_pMZIi64)
 - [Elise K](https://vimeo.com/146351674)
 - [Negar K](https://youtu.be/2hxaLOyUe8o)
 - [Teddy K]
