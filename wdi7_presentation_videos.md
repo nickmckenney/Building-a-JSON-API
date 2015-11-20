@@ -9,12 +9,12 @@
 - [Thomas C](https://youtu.be/Y_YOX4C3jSA)
 - [Josh C](https://www.youtube.com/watch?v=bong7TdNvsQ)
 - [Tyler C](https://youtu.be/U9797AwZW84)
-- [Wonsik J]
+- [Wonsik J]()
 - [Alexis J](https://www.youtube.com/watch?v=DbKaucDf9z8&feature=youtu.be)
 - [Andrew J](https://youtu.be/eQD_pMZIi64)
 - [Elise K](https://vimeo.com/146351674)
 - [Negar K](https://youtu.be/2hxaLOyUe8o)
-- [Teddy K]
+- [Teddy K]()
 - [J Moon](https://youtu.be/9pGE7usy8Fk)
 - [Matt M](https://youtu.be/w2sv41jC6QY)
 - [Ly N](https://youtu.be/gljZMWlufWg)
@@ -24,29 +24,28 @@
 
 ## CR 4
 
-[Daniel](https://youtu.be/XwXj5B-cLko)
-[Alea](https://youtu.be/ATPRXITxcDA)
-[Davis](https://youtu.be/yUi4s70v96M)
-[Chase](https://vimeo.com/146390337)
-[Mia](https://www.youtube.com/watch?v=IulKaOCzOFw)
-[Thom](https://youtu.be/t137KS8Oolc)
-[Cassidy](https://www.youtube.com/watch?v=O1W8MmfYdjA)
-[Sarah](https://www.youtube.com/watch?v=eXAU_U-txmw)
-[Rachel](https://www.youtube.com/watch?v=Oa0SeCfCIh4)
-[Matt](https://vimeo.com/146405675)
-[Armani](https://youtu.be/Sxw3j6EATOE)
-[Markham](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be) *
-[Becky](http://www.youtube.com/watch?v=Yhs82IStMls)
-[Tim](https://youtu.be/3zG9rLCDrqA)
-[Kelly](https://vimeo.com/146415507) *
-[Andre](https://www.youtube.com/watch?v=HcuCPKN4GNE) *
-[Aurelio](https://youtu.be/IKviZaKpGOM)
-[Chrystal](https://youtu.be/1Qe5Pkhqkcw)
-Fatai
-Mati
-jorge
-Alex
-
+- [Daniel A](https://youtu.be/XwXj5B-cLko)
+- [Alea Q](https://youtu.be/ATPRXITxcDA)
+- [Davis G](https://youtu.be/yUi4s70v96M)
+- [Chase G](https://vimeo.com/146390337)
+- [Mia G](https://www.youtube.com/watch?v=IulKaOCzOFw)
+- [Thom H](https://youtu.be/t137KS8Oolc)
+- [Cassidy H](https://www.youtube.com/watch?v=O1W8MmfYdjA)
+- [Sarah H](https://www.youtube.com/watch?v=eXAU_U-txmw)
+- [Rachel P](https://www.youtube.com/watch?v=Oa0SeCfCIh4)
+- [Matt P](https://vimeo.com/146405675)
+- [Armani H](https://youtu.be/Sxw3j6EATOE)
+- [Markham S](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be)
+- [Becky B](http://www.youtube.com/watch?v=Yhs82IStMls)
+- [Tim G](https://youtu.be/3zG9rLCDrqA)
+- [Kelly A](https://vimeo.com/146415507)
+- [Andre S](https://www.youtube.com/watch?v=HcuCPKN4GNE)
+- [Aurelio A](https://youtu.be/IKviZaKpGOM)
+- [Fatai A]
+- [Mati A]
+- [Chrystal B]
+- [Jorge P]
+- [Alex S]
 
 ## CR 5
 - [Britton W](https://www.youtube.com/watch?v=mws-ltvsehM&feature=youtu.be)
