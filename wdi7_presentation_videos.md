@@ -23,7 +23,7 @@
 - [Jen P](https://www.youtube.com/watch?v=d7BWhb3rNYE)
 
 ## CR 4
-- 
+
 - [Daniel](https://youtu.be/XwXj5B-cLko)
 - [Alea](https://youtu.be/ATPRXITxcDA)
 - [Davis](https://youtu.be/yUi4s70v96M)
@@ -43,8 +43,8 @@
 - [Aurelio](https://youtu.be/IKviZaKpGOM)
 - [Chrystal](https://youtu.be/1Qe5Pkhqkcw)
 - [Alex](https://www.youtube.com/watch?v=rOSgY5BUUwU)
+- [jorge](https://youtu.be/xAsAWEhZRtQ)
 - Mati
-- jorge
 
 ## CR 5
 - [Britton W](https://www.youtube.com/watch?v=mws-ltvsehM&feature=youtu.be)
