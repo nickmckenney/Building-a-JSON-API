@@ -9,12 +9,12 @@
 - [Thomas C](https://youtu.be/Y_YOX4C3jSA)
 - [Josh C](https://www.youtube.com/watch?v=bong7TdNvsQ)
 - [Tyler C](https://youtu.be/U9797AwZW84)
-- [Wonsik J]
+- [Wonsik J]()
 - [Alexis J](https://www.youtube.com/watch?v=DbKaucDf9z8&feature=youtu.be)
-- [Andrew J]
+- [Andrew J](https://youtu.be/eQD_pMZIi64)
 - [Elise K](https://vimeo.com/146351674)
 - [Negar K](https://youtu.be/2hxaLOyUe8o)
-- [Teddy K]
+- [Teddy K]()
 - [J Moon](https://youtu.be/9pGE7usy8Fk)
 - [Matt M](https://youtu.be/w2sv41jC6QY)
 - [Ly N](https://youtu.be/gljZMWlufWg)
@@ -38,14 +38,13 @@
 [Markham](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be)
 [Becky](http://www.youtube.com/watch?v=Yhs82IStMls)
 [Tim](https://youtu.be/3zG9rLCDrqA)
-[Kelly](https://vimeo.com/146415507) 
+[Kelly](https://vimeo.com/146415507)
 [Andre](https://www.youtube.com/watch?v=HcuCPKN4GNE)
 [Aurelio](https://youtu.be/IKviZaKpGOM)
 [Chrystal](https://youtu.be/1Qe5Pkhqkcw)
 [Alex](https://www.youtube.com/watch?v=rOSgY5BUUwU)
 Mati
 jorge
-
 
 ## CR 5
 - [Britton W](https://www.youtube.com/watch?v=mws-ltvsehM&feature=youtu.be)
