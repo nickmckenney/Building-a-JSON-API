@@ -35,15 +35,15 @@
 [Rachel](https://www.youtube.com/watch?v=Oa0SeCfCIh4)
 [Matt](https://vimeo.com/146405675)
 [Armani](https://youtu.be/Sxw3j6EATOE)
-[Markham](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be)
+[Markham](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be) *
 [Becky](http://www.youtube.com/watch?v=Yhs82IStMls)
 [Tim](https://youtu.be/3zG9rLCDrqA)
-[Kelly](https://vimeo.com/146415507)
-[Andre](https://www.youtube.com/watch?v=HcuCPKN4GNE)
+[Kelly](https://vimeo.com/146415507) *
+[Andre](https://www.youtube.com/watch?v=HcuCPKN4GNE) *
 [Aurelio](https://youtu.be/IKviZaKpGOM)
+[Chrystal](https://youtu.be/1Qe5Pkhqkcw)
 Fatai
 Mati
-Chrystal
 jorge
 Alex
 
