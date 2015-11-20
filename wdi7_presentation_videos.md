@@ -10,6 +10,7 @@
 [Eric S](https://youtu.be/0DBcu-vcKAY)
 [Dennis T](https://youtu.be/6_jNkj7pPBs)
 [Thomas S](https://youtu.be/EyrqdqShnYI)
+[Qadriyyah T](https://youtu.be/ULcUpBbhojk)
 [Roshana D](https://github.com/ga-dc/project2/issues/453)
 [Rebecca E](https://youtu.be/Tl4IHAWDveo)
 [Alice F]( https://youtu.be/QU3-fTdoqpU)
