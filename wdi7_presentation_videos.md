@@ -15,7 +15,7 @@
 [Alice F]( https://youtu.be/QU3-fTdoqpU)
 [Joe GZ](https://www.youtube.com/watch?v=u7D5A4q9eLU)
 [Moe G](https://www.youtube.com/watch?v=5N9B3L8JJec)
-[Dimitri]()
+[Dimitri](https://www.youtube.com/watch?v=tH17JguzvJU&feature=youtu.be)
 [Chris K](https://youtu.be/Ua4pjrz9LE0)
 [Brendan L]()
 [Bryce L](https://youtu.be/RVsxQzW67iU)
