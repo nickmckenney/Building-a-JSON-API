@@ -17,13 +17,13 @@
 [Markham](https://www.youtube.com/watch?v=4QE9xgNEKfY&feature=youtu.be)
 [Becky](http://www.youtube.com/watch?v=Yhs82IStMls)
 [Tim](https://youtu.be/3zG9rLCDrqA)
+[Kelly](https://vimeo.com/146415507)
+[Andre](https://www.youtube.com/watch?v=HcuCPKN4GNE)
+[Aurelio](https://youtu.be/IKviZaKpGOM)
 Fatai
 Mati
-Kelly
-Aurelio
 Chrystal
 jorge
 Alex
-Andre
 
 ## CR 5
