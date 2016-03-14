@@ -4,7 +4,7 @@
 
 This project is your first foray into **building a full-stack application from the ground up.**
 
-**You will be working individually for this project**, and you'll be designing the app yourself. You may work from home, except for mandatory one-on-ones with your pod instructor.
+**You will be working individually for this project**, and you'll be designing the app yourself. You may work from home, except for mandatory one-on-ones with your squad instructor, and mandatory mini-lessons.
 
 We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code!
 
@@ -21,8 +21,7 @@ Remember to keep things small and focus on mastering the fundamentals&mdash;**sc
 Your app must...
 
 * ...be build in **Rails**.
-* ...**have at least 2 models** with **at least 1 association** (more if it makes sense). One model should represent someone using your application.
-* ...**include sign up, log in, and log out functionality**, with encrypted passwords & an authorization flow.
+* ...**have at least 2 models** with **at least 1 association** (more if it makes sense).
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
 * ...**utilize an ORM to create a database table structure** and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
@@ -58,12 +57,15 @@ Your app must...
 ### Potential Project Ideas
 
 ##### Cheerups
+
 The world can be a depressing place. Your task is to create an app that will allow people to create and share "cheerups" - happy little quips to brighten other peoples' days. Cheerups will be small - limited to 141 characters. Members will be able to promote Cheerups that they like and maybe even boost the reputation of the Cheerupper.
 
 ##### Bookmarket
+
 You will create an application where users can bookmark links they want to keep. But what if users could trade bookmarks for other bookmarks? Or sell bookmarks for points? Or send bookmarks to your friends. Or something even crazier.
 
 ##### Photo Sha.re
+
 Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive. We encourage you to review the screencasts of [last week's mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
 
 ##### Something Else You Think Would Be Rad!
