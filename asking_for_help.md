@@ -1,8 +1,13 @@
 # How to Ask Questions
 
+## Genius Bar
+The instructors will be offering support each day during `Genius Bar`. The schedule is outlined here: [schedule](./schedule.md) and on the WDI8 Calendar as well [calendar](http://ga-dc.github.io/wdi8/calendar.html)
+
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during `Genius Bar`. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt solve your problem. 
+
 ## TLDR (Too Long; Didn't Read)
 
-The instructors will be using Github issues on the `project2` repository as the primary forum for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
+The instructors will be using Github issues on the `project2` repository as the primary forum for answering technical questions as well as offering support during `Genius Bar`
 
 Issues should follow this format:
 ```

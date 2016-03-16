@@ -1,6 +1,6 @@
 # Presentations
 
-In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Friday afternoon!
+In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Thursday afternoon!
 
 ### Hard Requirements
 
@@ -41,9 +41,8 @@ Each student's video will be playing in their respective classroom. For referenc
 
 | Time | Event |
 |------|-------|
-| 1:30 - 2:10pm | Presentations (Round I) |
-| 2:10 - 2:20pm | Break |
-| 2:20 - 3:00pm | Presentations (Round II) |
-| 3:00 – 3:10pm | Break |
-| 3:10 – 3:50pm | Presentations (Round III) |
-| 3:50 – 4:00pm | Break |
+| 2:00 - 2:40pm | Presentations (Round I) |
+| 2:40 - 2:50pm | Break |  
+| 2:50 – 3:30pm | Presentations (Round II) |
+| 3:30 – 3:40pm | Break |
+| 3:40 – 4:20pm |Presentations (Round III) |
