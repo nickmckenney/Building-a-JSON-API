@@ -1,9 +1,9 @@
 # How to Ask Questions
 
 ## Genius Bar
-The instructors will be offering support each day during `Genius Bar`. The schedule is outlined here: [schedule](./schedule.md) and on the WDI8 Calendar as well [calendar](http://ga-dc.github.io/wdi8/calendar.html)
+The instructors will be offering support each day during `Genius Bar`. The schedule is outlined here: [schedule](./schedule.md) and on the WDI8 Calendar: [calendar](http://ga-dc.github.io/wdi8/calendar.html)
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during `Genius Bar`. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt solve your problem. 
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during `Genius Bar`. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt solve your problem.
 
 ## TLDR (Too Long; Didn't Read)
 
