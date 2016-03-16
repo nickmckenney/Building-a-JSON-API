@@ -31,9 +31,7 @@
 | Time | Event |
 |------|-------|
 |10:00 – 11:00am | Mini Lesson: Sessions & User Auth |
-|11:00 - 12:00pm | Genius Bar |
-| 3:00 - 4:00pm | Genius Bar|
-| 4:00 – 5:00pm | Peer Code Review |
+| 3:00 - 5:00pm | Genius Bar|
 
 ## Thursday 3/24
 
