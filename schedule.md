@@ -24,7 +24,6 @@
 |------|-------|
 | 10:00 – 12:30pm | Outcomes |
 | 3:00 – 4:00pm | Mini Lesson: Many to Many Relationships |
-| 4:00 - 5:00pm | Genuis Bar |
 
 ## Wednesday 3/23
 
