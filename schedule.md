@@ -7,7 +7,7 @@
 | Time | Event |
 |------|-------|
 |10:00 – 12:00pm | Genius Bar |
-|3:00 – 5:00pm | Genius Bar |
+|2:30 – 4:30pm | Genius Bar |
 
 ## Monday 3/21
 
