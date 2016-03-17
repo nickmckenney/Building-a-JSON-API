@@ -63,5 +63,4 @@
 - [Brendan L](https://www.youtube.com/watch?v=zKxlfLlxmqs)
 - [Bryce L](https://youtu.be/RVsxQzW67iU)
 - [Brendan M](https://www.youtube.com/watch?v=y6ObYOAcvfE&feature=youtu.be)
-- [Chauncey M]()
 - [Samir M](https://youtu.be/9vtt-ZA3WKs)

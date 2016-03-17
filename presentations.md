@@ -15,7 +15,7 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Friday, November 20<sup>th</sup>, 11:00am
+### Submission deadline: Thursday, March 24<sup>th</sup>, 11:00am
 
 "But instructors, I won't be done with my project by then!"
 
@@ -37,7 +37,7 @@ Include a link to your video as an issue on **this** repository.
 
 ### Video Presentation
 
-Each student's video will be playing in their respective classroom. For reference, look at Unit 2 in [Classroom Rotation](https://github.com/ga-dc/wdi7/blob/master/classroom-rotation.md). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
+Each student's video will be playing in their respective classroom. For reference, look at Week 6 in [Classroom Rotation](https://github.com/ga-dc/wdi8/blob/master/classroom-rotation.md#unit-5-rails-31116). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
 
 | Time | Event |
 |------|-------|
