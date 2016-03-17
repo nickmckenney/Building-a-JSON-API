@@ -4,7 +4,7 @@
 
 This project is your first foray into **building a full-stack application from the ground up.**
 
-**You will be working individually for this project**, and you'll be designing the app yourself. You may work from home, except for mandatory one-on-ones with your squad instructor, and mandatory mini-lessons.
+**You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
 We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code!
 
@@ -25,7 +25,7 @@ Your app must...
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
 * ...**utilize an ORM to create a database table structure** and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
-* ...**be deployed online** and accessible to the public.
+* ...**be deployed online** and accessible to the public. ***We will be having a mandatory lesson on deployment Monday morning at 10:00am***
 
 ---
 
@@ -66,7 +66,7 @@ You will create an application where users can bookmark links they want to keep.
 
 ##### Photo Sha.re
 
-Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive. We encourage you to review the screencasts of [last week's mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
 
 ##### Something Else You Think Would Be Rad!
 
