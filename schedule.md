@@ -8,6 +8,7 @@
 |------|-------|
 |10:00 – 12:00pm | Genius Bar |
 |2:30 – 4:30pm | Genius Bar |
+|4:30 - 5:00pm | Squad Scrum: Review ideas/planning |
 
 ## Monday 3/21
 
