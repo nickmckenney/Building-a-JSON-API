@@ -6,7 +6,9 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code!
+We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app.
+
+**You will run these ideas by your squad at a Squad Scrum on the first day to get feedback.**
 
 **This is exciting!** It's a lot to take on, but we've given you the tools over the past few weeks to be able build what you need, and you get to decide what you do with it. And you get to be creative in choosing what sort of application you want to build!
 
