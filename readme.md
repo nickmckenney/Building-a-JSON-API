@@ -33,10 +33,10 @@ Your app must...
 
 ### Deliverables
 
-* By **Monday at 9:00am**, create an issue on *this* repository containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Monday at 9:00am**, create an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
-* A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku). 
+* A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku).
 * A **git repository hosted on Github**, with **frequent commits dating back to the very beginning** of the project.
 * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 * **A `planning` directory** in the root of your repo, containing...

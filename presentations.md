@@ -33,7 +33,7 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 
 ### How to submit
 
-Include a link to your video as an issue on **this** repository.
+Include a link to your video as an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery).
 
 ### Video Presentation
 
