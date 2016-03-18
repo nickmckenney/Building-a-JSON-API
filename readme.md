@@ -6,11 +6,11 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code!
+We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code!
 
 **This is exciting!** It's a lot to take on, but we've given you the tools over the past few weeks to be able build what you need, and you get to decide what you do with it. And you get to be creative in choosing what sort of application you want to build!
 
-Remember to keep things small and focus on mastering the fundamentals&mdash;**scope creep/feature creep is the biggest pitfall for any project!**
+Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
 ---
 ### [Schedule](./schedule.md)
@@ -81,3 +81,17 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 * **[Presenting Information Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)** _(for more insight into wireframing)_
 * **[W3 Validator](http://validator.w3.org)**
 * **[Seed Data Generator](https://www.mockaroo.com/)**
+
+---
+
+### Asking For Help
+
+**Please utilize Github issues** to get help from Instructors, as with Project 1. For more information look here:
+
+https://github.com/ga-dc/wdi8/blob/master/asking-for-help.md#during-project-weeks
+
+**Please utilize Slack** to get help from your classmates, who will be more readily-available than the instructors.
+
+The instructors will be offering support each day during `Genius Bar`. The schedule is outlined here: [schedule](./schedule.md) and on the WDI8 Calendar: [calendar](http://ga-dc.github.io/wdi8/calendar.html)
+
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during `Genius Bar`. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
