@@ -22,7 +22,7 @@ Remember to keep things small and focus on mastering the fundamentals &mdash; **
 
 Your app must...
 
-* ...be build in **Rails**.
+* ...be built in **Rails**.
 * ...**have at least 2 models** with **at least 1 association** (more if it makes sense).
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
 * ...**utilize an ORM to create a database table structure** and interact with your relationally-stored data.
