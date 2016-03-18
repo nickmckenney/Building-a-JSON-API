@@ -33,14 +33,14 @@ Your app must...
 
 ### Deliverables
 
-* A **working full-stack application, built by you**, that meets the technical requirements above.
+* A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku). 
 * A **git repository hosted on Github**, with **frequent commits dating back to the very beginning** of the project.
-* A **link to your hosted, working application** in the URL section of your Github repo.
-![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
 * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 * **A `planning` directory** in the root of your repo, containing...
   * A `wireframes` directory, inside of which are *at least* 2 photos or drawings of wireframes
   * A `user_stories.md` file, containing at least 7 user stories, *or* a link to Trello with at least 7 user stories.
+* A **link to your hosted, working application** in the URL section of your Github repo.
+![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
 
 ---
 
