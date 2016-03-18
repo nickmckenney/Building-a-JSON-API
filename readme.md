@@ -25,7 +25,7 @@ Your app must...
 * ...be built in **Rails**.
 * ...**have at least 2 models** with **at least 1 association** (more if it makes sense).
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
-* ...**utilize an ORM to create a database table structure** and interact with your relationally-stored data.
+* ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
 * ...**be deployed online** and accessible to the public. ***We will be having a mandatory lesson on deployment Monday morning at 10:00am***
 
