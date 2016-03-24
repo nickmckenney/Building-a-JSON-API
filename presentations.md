@@ -1,6 +1,12 @@
 # Presentations
 
-In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations on Thursday afternoon!
+You will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations together!
+
+### Warnings
+
+- **Do not put your video in your Github repository** or e-mail it to us, since it'll be at least 500MB.
+- **Record a quick test video first.** Otherwise you'll end up with [this](https://www.youtube.com/watch?v=dCukspxmNDs).
+- **Make sure your microphone is turned on.** See previous comment.
 
 ### Hard Requirements
 
@@ -21,21 +27,31 @@ Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do
 
 That's OK, the people viewing your video don't have to know that. Show off what does work!
 
-### Recording a video
+## Recording a video
 
-You may use any video-recording mechanism you wish. QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save your video to your computer and upload it to YouTube.
+You may use any video-recording mechanism you wish. Whichever you choose, we recommend that you **make a quick test video first**.
+
+Include a link to your video as an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery).
+
+### QuickTime
+
+QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save your video to your computer and upload it to YouTube.
+
+**Make sure you turn on the microphone before recording.**
+
+![Quicktime microphone](http://i.imgur.com/SBfletl.jpg)
+
+### iMovie
 
 If you're feeling really fancy you can use iMovie -- also in your Applications folder -- to swankify your video. However, this should be a priority far below actually completing your project. Having a snazzy-looking video isn't on the rubric!
+
+### YouTube
 
 Alternatively, you can also create a video using YouTube's own built-in recorder, which makes it easy to add basic effects, background music, and text to your videos.
 
 If you have a Gmail account, you already have a YouTube account. Just go to https://www.youtube.com/dashboard
 
-### How to submit
-
-Include a link to your video as an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery).
-
-### Video Presentation
+## Schedule
 
 Each student's video will be playing in their respective classroom. For reference, look at Week 6 in [Classroom Rotation](https://github.com/ga-dc/wdi8/blob/master/classroom-rotation.md#unit-5-rails-31116). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
 
@@ -43,6 +59,6 @@ Each student's video will be playing in their respective classroom. For referenc
 |------|-------|
 | 2:00 - 2:40pm | Presentations (Round I) |
 | 2:40 - 2:50pm | Break |  
-| 2:50 – 3:30pm | Presentations (Round II) |
-| 3:30 – 3:40pm | Break |
-| 3:40 – 4:20pm |Presentations (Round III) |
+| 2:50 - 3:30pm | Presentations (Round II) |
+| 3:30 - 3:40pm | Break |
+| 3:40 - 4:20pm |Presentations (Round III) |
