@@ -12,6 +12,8 @@ You will prepare a short (3 -5 minute) screencast demo of your project, which yo
 
 Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do not e-mail us your video or put it in a Github repository** since it will probably be at least 500MB.
 
+If you have a Gmail account, you already have a YouTube account. Just go to https://www.youtube.com/dashboard
+
 **Your video must include...**
 
 - ...your voice loud enough to be heard. Speak loudly and clearly when recording!
@@ -44,12 +46,6 @@ QuickTime Player is in the Applications folder of your Mac. Notice that if you g
 ### iMovie
 
 If you're feeling really fancy you can use iMovie -- also in your Applications folder -- to swankify your video. However, this should be a priority far below actually completing your project. Having a snazzy-looking video isn't on the rubric!
-
-### YouTube
-
-Alternatively, you can also create a video using YouTube's own built-in recorder, which makes it easy to add basic effects, background music, and text to your videos.
-
-If you have a Gmail account, you already have a YouTube account. Just go to https://www.youtube.com/dashboard
 
 ## Schedule
 
