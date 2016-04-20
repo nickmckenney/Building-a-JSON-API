@@ -63,7 +63,11 @@ Your app must...
 
 ##### Cheerups
 
-The world can be a depressing place. Your task is to create an app that will allow people to create and share "cheerups" - happy little quips to brighten other peoples' days. Cheerups will be small - limited to 141 characters. Members will be able to promote Cheerups that they like and maybe even boost the reputation of the Cheerupper.
+The world can be a depressing place. Your task is to create an app that will
+allow people to create and share "cheerups" - happy little quips to brighten
+other peoples' days. Cheerups will be small - limited to 141 characters. Members
+will be able to promote Cheerups that they like and maybe even boost the
+reputation of the Cheerupper.
 
 ##### Bookmarket
 
@@ -71,7 +75,13 @@ You will create an application where users can bookmark links they want to keep.
 
 ##### Photo Sha.re
 
-Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+Users will be able to register and create albums and photos. Albums and photos can be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+
+##### Other cool ideas
+
+- A stack overflow-style question/answer page
+- Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
+- Recipe / ingredients manager
 
 ##### Something Else You Think Would Be Rad!
 

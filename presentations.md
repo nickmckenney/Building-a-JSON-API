@@ -49,12 +49,4 @@ If you're feeling really fancy you can use iMovie -- also in your Applications f
 
 ## Schedule
 
-Each student's video will be playing in their respective classroom. For reference, look at Week 6 in [Classroom Rotation](https://github.com/ga-dc/wdi8/blob/master/classroom-rotation.md#unit-5-rails-31116). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
-
-| Time | Event |
-|------|-------|
-| 2:00 - 2:40pm | Presentations (Round I) |
-| 2:40 - 2:50pm | Break |  
-| 2:50 - 3:30pm | Presentations (Round II) |
-| 3:30 - 3:40pm | Break |
-| 3:40 - 4:20pm |Presentations (Round III) |
+More to follow!
