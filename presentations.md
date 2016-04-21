@@ -33,7 +33,7 @@ That's OK, the people viewing your video don't have to know that. Show off what 
 
 You may use any video-recording mechanism you wish. Whichever you choose, we recommend that you **make a quick test video first**.
 
-Include a link to your video as an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery).
+Include a link to your video as an issue on [the wdi9-Project2-Gallery repository](https://github.com/ga-dc/wdi9-project2-gallery).
 
 ### QuickTime
 
