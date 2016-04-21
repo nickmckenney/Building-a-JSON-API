@@ -4,13 +4,13 @@
 
 Genius bar 9:00 - 10:00am every morning
 
-## Friday 3/18
+## Friday 4/22
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
 | 2:00pm | Deadline for project idea to instructor |
 
-## Monday 3/21
+## Monday 4/25
 
 
 | Time            | Event                                                                               |
@@ -18,7 +18,7 @@ Genius bar 9:00 - 10:00am every morning
 | 9:00            | [Initial submission due](https://github.com/ga-wdi-exercises/project2#deliverables) |
 | 10:00 - 11:00pm | Many-to-many mini-lesson                                                            |
 
-## Tuesday 3/22
+## Tuesday 4/26
 
 **Deployment will be a mandatory lesson**
 
@@ -26,13 +26,13 @@ Genius bar 9:00 - 10:00am every morning
 |:----------------|:-----------------------|
 | 10:00 - 12:00pm | Deployment mini-lesson |
 
-## Wednesday 3/23
+## Wednesday 4/27
 
 | Time            | Event                |
 |:----------------|:---------------------|
 | 10:00 - 12:30pm | Outcomes Studio Tour |
 
-## Thursday 3/24
+## Thursday 4/28
 
 **Presentations will begin at 2:30pm.**
 

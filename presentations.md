@@ -23,7 +23,7 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, March 24<sup>th</sup>, 11:00am
+### Submission deadline: Thursday, April 28th <sup>th</sup>, 12:30pm
 
 "But instructors, I won't be done with my project by then!"
 
