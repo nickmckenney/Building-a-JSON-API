@@ -2,45 +2,42 @@
 
 **Attendance will be taken at 9:00am every morning**
 
-## Friday 3/18
+Genius bar 9:00 - 10:00am every morning
 
-| Time | Event |
-|------|-------|
-|10:00 - 12:00pm | Genius Bar |
-|2:30 - 4:30pm | Genius Bar |
-|4:30 - 5:00pm | Squad Scrum: Review ideas/planning |
+## Friday 4/22
 
-## Monday 3/21
+| Time   | Event                                   |
+|:-------|:----------------------------------------|
+| 2:00pm | Deadline for project idea to instructor |
 
-**Deployfest will be a mandatory lesson**
+## Monday 4/25
 
-| Time | Event |
-|------|-------|
-| 9:00 | [Initial submission due](https://github.com/ga-wdi-exercises/project2#deliverables) |
-| 10:00 - 12:30pm | *Deployfest* |
-| 3:00 - 5:00pm | Genius Bar |
 
-## Tuesday 3/22
+| Time            | Event                                                                               |
+|:----------------|:------------------------------------------------------------------------------------|
+| 9:00            | [Initial submission due](https://github.com/ga-wdi-exercises/project2#deliverables) |
+| 10:00 - 11:00pm | Many-to-many mini-lesson                                                            |
 
-| Time | Event |
-|------|-------|
-| 10:00 - 12:30pm | Outcomes |
-| 3:00 - 4:00pm | Mini Lesson: Many to Many Relationships |
+## Tuesday 4/26
 
-## Wednesday 3/23
+**Deployment will be a mandatory lesson**
 
-| Time | Event |
-|------|-------|
-|10:00 - 11:00am | Mini Lesson: Devise |
-| 3:00 - 5:00pm | Genius Bar|
+| Time            | Event                  |
+|:----------------|:-----------------------|
+| 10:00 - 12:00pm | Deployment mini-lesson |
 
-## Thursday 3/24
+## Wednesday 4/27
 
-**Presentations will begin at 2:00pm.**
+| Time            | Event                |
+|:----------------|:---------------------|
+| 10:00 - 12:30pm | Outcomes Studio Tour |
 
-| Time | Event |
-|------|-------|
-| 10:00 - 12:00pm | Genius Bar |
-| 11:00am | **[Presentation Video](./presentations.md) due** |
-| 2:00 - 4:20pm  | [Project Presentations](./presentations.md)|
-| 4:30 - 5:00pm | Squad Retros! |
+## Thursday 4/28
+
+**Presentations will begin at 2:30pm.**
+
+| Time          | Event                                            |
+|:--------------|:-------------------------------------------------|
+| 12:30pm       | **[Presentation Video](./presentations.md) due** |
+| 2:30 - 4:20pm | [Project Presentations](./presentations.md)      |
+| 4:30 - 5:00pm | Squad Retros!                                    |

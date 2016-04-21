@@ -23,7 +23,7 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, March 24<sup>th</sup>, 11:00am
+### Submission deadline: Thursday, April 28th <sup>th</sup>, 12:30pm
 
 "But instructors, I won't be done with my project by then!"
 
@@ -33,7 +33,7 @@ That's OK, the people viewing your video don't have to know that. Show off what 
 
 You may use any video-recording mechanism you wish. Whichever you choose, we recommend that you **make a quick test video first**.
 
-Include a link to your video as an issue on [the WDI8-Project2-Gallery repository](https://github.com/ga-dc/wdi8-project2-gallery).
+Include a link to your video as an issue on [the wdi9-Project2-Gallery repository](https://github.com/ga-dc/wdi9-project2-gallery).
 
 ### QuickTime
 
@@ -49,12 +49,4 @@ If you're feeling really fancy you can use iMovie -- also in your Applications f
 
 ## Schedule
 
-Each student's video will be playing in their respective classroom. For reference, look at Week 6 in [Classroom Rotation](https://github.com/ga-dc/wdi8/blob/master/classroom-rotation.md#unit-5-rails-31116). Feel free to sit in whichever classroom you would like. You can switch rooms during breaks too!
-
-| Time | Event |
-|------|-------|
-| 2:00 - 2:40pm | Presentations (Round I) |
-| 2:40 - 2:50pm | Break |  
-| 2:50 - 3:30pm | Presentations (Round II) |
-| 3:30 - 3:40pm | Break |
-| 3:40 - 4:20pm |Presentations (Round III) |
+More to follow!
