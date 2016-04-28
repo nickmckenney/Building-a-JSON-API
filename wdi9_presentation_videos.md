@@ -8,7 +8,7 @@
 * [Zaneh](https://www.youtube.com/watch?v=-9VKaUEqg6c)
 * [louis](https://youtu.be/6PoYdJt2HKc)
 * [habby](https://www.youtube.com/watch?v=YcgfRNRLSu4&feature=youtu.be)
-* [Leland](https://www.youtube.com/watch?v=LlnmfcMfTQo&feature=youtu.be)
+* [Leland](https://www.youtube.com/watch?v=IvynbFt4dEI&feature=youtu.be)
 * [Wes](https://www.youtube.com/watch?v=7SWwt-acaVU&feature=youtu.be)
 * [josh](https://www.youtube.com/watch?v=qd8rI1f0r9Q)
 * [james](https://www.youtube.com/watch?v=EGnwJeEcDVI&feature=youtu.be)
