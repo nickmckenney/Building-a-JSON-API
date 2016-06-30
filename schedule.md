@@ -8,7 +8,7 @@ Genius bar 9:00 - 10:00am every morning
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
-| 2:00pm | Deadline for project idea to instructor |
+| 5:00pm | Deadline for project idea to instructor |
 
 ## Tuesday 7/5
 
@@ -16,6 +16,8 @@ Genius bar 9:00 - 10:00am every morning
 | Time            | Event                                                                               |
 |:----------------|:------------------------------------------------------------------------------------|
 | 9:00            | [Initial submission due](https://github.com/ga-wdi-exercises/project2#deliverables) |
+| 10:00            | [Deployment Mini Lesson](https://github.com/ga-wdi-lessons/rails-deployment) |
+
 
 ## Thursday 7/7
 
