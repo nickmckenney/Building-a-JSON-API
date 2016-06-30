@@ -8,7 +8,7 @@ This project is your first foray into **building a full-stack application from t
 
 We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app.
 
-**You will run these ideas by your squad leader via slack by 2pm 4/22 to get feedback by 5pm.**
+**You will run these ideas by your squad leader via slack by 2pm 7/1 to get feedback by 5pm.**
 
 **This is exciting!** It's a lot to take on, but we've given you the tools over the past few weeks to be able build what you need, and you get to decide what you do with it. And you get to be creative in choosing what sort of application you want to build!
 
@@ -27,13 +27,13 @@ Your app must...
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
 * ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
-* ...**be deployed online** and accessible to the public. ***We will be having a mandatory lesson on deployment Tuesday morning at 10:00am***
+* ...**be deployed online** and accessible to the public.
 
 ---
 
 ### Deliverables
 
-* By **Monday at 9:00am**, create an issue on [the wdi9-Project2-Gallery repository](https://github.com/ga-dc/wdi9-project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Monday at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku).
@@ -102,10 +102,10 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 
 **Please utilize Github issues** to get help from Instructors, as with Project 1. For more information look here:
 
-https://github.com/ga-dc/wdi9/blob/master/asking-for-help.md#during-project-weeks
+https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks
 
 **Please utilize Slack** to get help from your classmates, who will be more readily-available than the instructors.
 
-The instructors will be offering support each day during `Genius Bar`. It will occur at 9am each morning for 1 hour.
+The instructors will be offering support each day during Office Hours.
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during `Genius Bar`. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
