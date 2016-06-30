@@ -2,6 +2,8 @@
 
 **Attendance will be taken at 9:00am every morning**
 
+**Please [submit an issue](https://github.com/ga-wdi-exercises/project2/issues/new) before coming to the Genius Bar**
+
 Genius bar 9:00 - 10:00am every morning
 
 ## Friday 7/1
