@@ -10,7 +10,7 @@ Genius bar 9:00 - 10:00am every morning
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
-| 5:00pm | Deadline for project idea to instructor |
+| 2:00pm | Deadline for project idea to instructor |
 
 ## Tuesday 7/5
 
