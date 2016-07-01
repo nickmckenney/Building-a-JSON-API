@@ -33,7 +33,7 @@ Your app must...
 
 ### Deliverables
 
-* By **Monday at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Tuesday at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku).
