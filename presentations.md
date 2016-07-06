@@ -23,7 +23,7 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, April 28th <sup>th</sup>, 12:30pm
+### Submission deadline: Thursday, July 6<sup>th</sup>, 12:30pm
 
 "But instructors, I won't be done with my project by then!"
 
@@ -35,7 +35,7 @@ You may use any video-recording mechanism you wish. Whichever you choose, we rec
 
 Include a link to your video as an issue on [the Project2-Gallery repository](https://github.com/ga-dc/project2-gallery).
 
-### QuickTime
+### QuickTimea
 
 QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save your video to your computer and upload it to YouTube.
 
