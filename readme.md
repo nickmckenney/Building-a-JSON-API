@@ -8,9 +8,9 @@ This project is your first foray into **building a full-stack application from t
 
 We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app.
 
-**You will run these ideas by your squad leader via slack by 2pm 7/1 to get feedback by 5pm.**
+<!-- **You will run these ideas by your squad leader via slack by 2pm 8/4 to get feedback by 5pm.** -->
 
-**This is exciting!** It's a lot to take on, but we've given you the tools over the past few weeks to be able build what you need, and you get to decide what you do with it. And you get to be creative in choosing what sort of application you want to build!
+**This is exciting!** We've given you the tools over the past few weeks to be able build what you need, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
 
 Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
@@ -25,6 +25,7 @@ Your app must...
 * ...be built in **Rails**.
 * ...**have at least 2 models** with **at least 1 association** (more if it makes sense).
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
+* ...**have error handling & validations** for all resources
 * ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
 * ...**be deployed online** and accessible to the public.
@@ -33,7 +34,7 @@ Your app must...
 
 ### Deliverables
 
-* By **Tuesday at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Thursday, 8/11 at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku).
