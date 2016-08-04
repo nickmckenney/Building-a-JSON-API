@@ -28,7 +28,6 @@ Your app must...
 * ...**have error handling & validations** for all resources
 * ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your relationally-stored data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
-* ...**be deployed online** and accessible to the public.
 
 ---
 
@@ -37,7 +36,7 @@ Your app must...
 * By **Thursday, 8/11 at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
-* A **working full-stack application, built by you**, that meets the technical requirements above (including being deployed on Heroku).
+* A **working full-stack application, built by you**, that meets the technical requirements above.
 * A **git repository hosted on Github**, with **frequent commits dating back to the very beginning** of the project.
 * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 * **A `planning` directory** in the root of your repo, containing...
@@ -107,6 +106,6 @@ https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-wee
 
 **Please utilize Slack** to get help from your classmates, who will be more readily-available than the instructors.
 
-The instructors will be offering support each day during Office Hours.
+The instructors will be offering support each day during Open Office Hours. This will occur for one hour once per day.
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
