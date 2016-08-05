@@ -100,12 +100,20 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 
 ### Asking For Help
 
-**Please utilize Github issues** to get help from Instructors, as with Project 1. For more information look here:
+On Friday, you'll meet with your instructors for a brief amount of time to discuss your project and its scope.  Then starting Monday, you'll have a 30 minute one-on-one project support with your squad-leader.
+
+The instructors will be offering support each day during Open Office Hours, 11:30-12:30 in classroom 5.
+
+Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
+
+Other than that, we will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror  "in-the-wild" practices; often devs will interact via GitHub issues, with each other or with DevOps/Senior Devs, and particularly in remote work settings.
+
+When you submit an issue please include the following: a screenshot or code snippet, a precise and specific description of your issue, what error you got, etc. Also be able to duplicate the error for demonstrative purposes [Check here for details on this process](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks).
+
+**Please utilize Github issues** to get help from Instructors, this will always be monitored by potentially 6 instructors. For more information look here:
 
 https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks
 
 **Please utilize Slack** to get help from your classmates, who will be more readily-available than the instructors.
 
-The instructors will be offering support each day during Open Office Hours. This will occur for one hour once per day.
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
