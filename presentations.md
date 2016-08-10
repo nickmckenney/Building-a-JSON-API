@@ -35,7 +35,7 @@ You may use any video-recording mechanism you wish. Whichever you choose, we rec
 
 Include a link to your video as an issue on [the Project2-Gallery repository](https://github.com/ga-dc/project2-gallery).
 
-### QuickTimea
+### QuickTime
 
 QuickTime Player is in the Applications folder of your Mac. Notice that if you go to the "File" menu you can create a "New Screen Recording"! This collects audio as well; it's how instructors screencast lessons. You can then save your video to your computer and upload it to YouTube.
 
