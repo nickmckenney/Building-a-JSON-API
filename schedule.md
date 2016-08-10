@@ -29,8 +29,8 @@ You ARE allowed to bring your labtop. We ask that you DO NOT work on your projec
 | 12:00pm        | **[Presentation Video](./presentations.md) due** |
 | 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi11_presentation_videos.md)      |
 | 1:30 - 2:20 pm | 1st 8 videos + 10 minute break                   |
-| 2:20 - 3:00 pm | 2nd 8 videos + 10 minute break                   |
-| 3:00 - 3:40 pm | Remaining 7 videos + 10 minute break             |
-| 3:40 - 4:00 pm | envelopes + break                                 |
+| 2:20 - 3:10 pm | 2nd 8 videos + 10 minute break                   |
+| 3:10 - 3:45 pm | Remaining 7 videos             |
+| 3:45 - 4:00 pm | envelopes + break                                 |
 | 4:00 - 4:30 pm | Mid Course Feedback && surprise!
 | 4:30 - 5:00 pm | Squad Retros!                                    |
