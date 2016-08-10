@@ -22,8 +22,15 @@
 
 **Presentations will begin at 1:30pm.**
 
-| Time          | Event                                            |
-|:--------------|:-------------------------------------------------|
-| 12:00pm       | **[Presentation Video](./presentations.md) due** |
-| 1:30 - 4:00pm | [Project Presentations](./presentations.md)      |
-| 4:30 - 5:00pm | Squad Retros!                                    |
+You ARE allowed to bring your labtop. We ask that you DO NOT work on your projects out of respect for your classmates. We DO encourage you to communicate on slack throughout presentations.
+
+| Time          | Event                                             |
+|:--------------|:--------------------------------------------------|
+| 12:00pm        | **[Presentation Video](./presentations.md) due** |
+| 1:30 - 4:00 pm | [Project Presentations](./presentations.md)      |
+| 1:30 - 2:20 pm | 1st 8 videos + 10 minute break                   |
+| 2:20 - 3:00 pm | 2nd 8 videos + 10 minute break                   |
+| 3:00 - 3:40 pm | Remaining 7 videos + 10 minute break             |
+| 3:40 - 4:00 pm | envelops + break                                 |
+| 4:00 - 4:30 pm | Mid Course Feedback && surprise!
+| 4:30 - 5:00 pm | Squad Retros!                                    |
