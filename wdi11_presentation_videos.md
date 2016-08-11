@@ -19,7 +19,7 @@ names.shuffle
 - [Sarah](https://www.youtube.com/watch?v=HxbYLOMbS-g&feature=youtu.be)
 - [Marc](https://www.youtube.com/watch?v=tADQfjdbHno) +
 - [Aubrey](https://www.youtube.com/watch?v=z_FHEHxOX18&feature=youtu.be) +
-- [Megan](https://www.youtube.com/watch?v=KQ6nNs1zK2Y)
+- [Megan](https://www.youtube.com/watch?v=kQqRfvS-nCc)
 - [Taylor](https://www.youtube.com/watch?v=wCYQ2dApwGA&feature=youtu.be) +
 - [Alex](https://www.youtube.com/watch?v=nRyIdmUjSos) +
 - [Michael](https://www.youtube.com/watch?v=RJ2yd_Z9EBc&feature=youtu.be&hd=1) +
