@@ -4,13 +4,11 @@
 
 This project is your first foray into **building a full-stack application from the ground up.**
 
+**This is exciting!** We've given you the tools over the past few weeks to be able build what you need, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
+
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-We hope you'll exercise creativity on this project. **You must** sketch some wireframes before you start, and write user stories to define what your users will want to do with the app.
-
-<!-- **You will run these ideas by your squad leader via slack by 2pm 8/4 to get feedback by 5pm.** -->
-
-**This is exciting!** We've given you the tools over the past few weeks to be able build what you need, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
+**You will submit your idea to your squad leader via Slack by 12:30pm today (Friday, October 14th) to get feedback by 5pm.**
 
 Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
@@ -33,15 +31,14 @@ Your app must...
 
 ### Deliverables
 
-* By **Thursday, 8/11 at 9:00am**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Friday, October 14th at 5:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above.
 * A **git repository hosted on Github**, with **frequent commits dating back to the very beginning** of the project.
 * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
-* **A `planning` directory** in the root of your repo, containing...
-  * A `wireframes` directory, inside of which are *at least* 2 photos or drawings of wireframes
-  * A `user_stories.md` file, containing at least 7 user stories, *or* a link to Trello with at least 7 user stories.
+* **A `planning` directory** in the root of your repo, containing an ERD mapping out your project domain.
+  - You are welcome to include other planning documents (e.g., wireframes, user stories)
 * A **link to your hosted, working application** in the URL section of your Github repo.
 ![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
 
@@ -78,7 +75,7 @@ be tricky and memory-intensive. We encourage you to review the screencasts of [P
 
 ##### Other cool ideas
 
-- A stack overflow-style question/answer page
+- A StackOverflow-style question/answer page
 - Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
 - Recipe / ingredients manager
 
@@ -100,20 +97,17 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 
 ### Asking For Help
 
-On Friday, you'll meet with your instructors for a brief amount of time to discuss your project and its scope.  Then starting Monday, you'll have a 30 minute one-on-one project support with your squad-leader.
-
-The instructors will be offering support each day during Open Office Hours, 11:30-12:30 in classroom 5.
+The instructors will be offering support each day during Open Office Hours, 10:00am - 12:00pm in Classroom 3.
 
 Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
 
-Other than that, we will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror  "in-the-wild" practices; often devs will interact via GitHub issues, with each other or with DevOps/Senior Devs, and particularly in remote work settings.
+Other than that, we will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes developers will interact with each other via GitHub issues, particularly in remote work settings.
 
-When you submit an issue please include the following: a screenshot or code snippet, a precise and specific description of your issue, what error you got, etc. Also be able to duplicate the error for demonstrative purposes [Check here for details on this process](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks).
+When you submit an issue please include the following...
+  1. A screenshot or code snippet
+  2. A precise and specific description of your issue
+  3. What error you got
 
-**Please utilize Github issues** to get help from Instructors, this will always be monitored by potentially 6 instructors. For more information look here:
+> [Check here for details on this process](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks).
 
-https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks
-
-**Please utilize Slack** to get help from your classmates, who will be more readily-available than the instructors.
-
-
+We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
