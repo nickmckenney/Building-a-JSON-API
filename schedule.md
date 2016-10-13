@@ -2,35 +2,25 @@
 
 **Attendance will be taken at 9:00am every morning**
 
-**Please [submit an issue](https://github.com/ga-wdi-exercises/project2/issues/new) before coming to the Genius Bar**
-
-## Friday 8/5
+## Friday, October 14th
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
-| 2:00pm | Deadline for project idea to instructor |
+| 2:30pm | Deadline for Project Idea to Instructor |
 
-## Mini Lessons
-
-| Date | Time | Event |
-|:-----|:--------|:-------|
-|08/08 | 10:00AM | Server Side API requests |
-|08/09 | 10:00AM | Devise |
-|08/09 | 11:00AM | Self Referential Associations |
-
-## Thursday 7/7
+## Thursday, October 16th
 
 **Presentations will begin at 1:30pm.**
 
-You ARE allowed to bring your labtop. We ask that you DO NOT work on your projects out of respect for your classmates. We DO encourage you to communicate on slack throughout presentations.
+You are allowed to bring your laptop to the presentations -- we encourage you to Slack questions and comments about the presentations while they're happening! You are not, however, allowed to work on your projects at that time, out of respect for your classmates.
 
 | Time          | Event                                             |
 |:--------------|:--------------------------------------------------|
 | 12:00pm        | **[Presentation Video](./presentations.md) due** |
-| 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi11_presentation_videos.md)      |
-| 1:30 - 2:20 pm | 1st 8 videos + 10 minute break                   |
-| 2:20 - 3:10 pm | 2nd 8 videos + 10 minute break                   |
-| 3:10 - 3:45 pm | Remaining 7 videos             |
-| 3:45 - 4:00 pm | envelopes + break                                 |
+| 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi12_presentation_videos.md)      |
+| 1:30 - 2:20 pm | 1st Round of Videos && 10 minute break                   |
+| 2:20 - 3:10 pm | 2nd Round of Videos && 10 minute break                   |
+| 3:10 - 3:45 pm | 3rd Round of Videos             |
+| 3:45 - 4:00 pm | Envelopes && Break                                 |
 | 4:00 - 4:30 pm | Mid Course Feedback && surprise!
-| 4:30 - 5:00 pm | Squad Retros!                                    |
+| 4:30 - 5:00 pm | Squad Retros                                    |

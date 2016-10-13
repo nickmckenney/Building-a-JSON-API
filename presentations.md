@@ -1,6 +1,6 @@
 # Presentations
 
-You will prepare a short (3 -5 minute) screencast demo of your project, which you will upload to YouTube/Vimeo. We'll watch the presentations together!
+You will prepare a short screencast (3-5 minutes) demonstrating your project, which you will upload to YouTube/Vimeo. We'll watch the presentations together!
 
 ### Warnings
 
@@ -10,9 +10,9 @@ You will prepare a short (3 -5 minute) screencast demo of your project, which yo
 
 ### Hard Requirements
 
-Your video must be uploaded to YouTube, Vimeo, or a similar service. **Please do not e-mail us your video or put it in a Github repository** since it will probably be at least 500MB.
+Your video must be uploaded to YouTube, Vimeo or a similar service. **Please do not e-mail us your video or put it in a Github repository** since it will probably be at least 500MB.
 
-If you have a Gmail account, you already have a YouTube account. Just go to https://www.youtube.com/dashboard
+If you have a Gmail account, you already have a YouTube account. Just go to https://www.youtube.com/dashboard.
 
 **Your video must include...**
 
@@ -23,13 +23,13 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission deadline: Thursday, July 6<sup>th</sup>, 12:30pm
+### Submission Deadline: Friday, October 20<sup>th</sup>, 12:30pm
 
 "But instructors, I won't be done with my project by then!"
 
 That's OK, the people viewing your video don't have to know that. Show off what does work!
 
-## Recording a video
+## Recording a Video
 
 You may use any video-recording mechanism you wish. Whichever you choose, we recommend that you **make a quick test video first**.
 
@@ -46,7 +46,3 @@ QuickTime Player is in the Applications folder of your Mac. Notice that if you g
 ### iMovie
 
 If you're feeling really fancy you can use iMovie -- also in your Applications folder -- to swankify your video. However, this should be a priority far below actually completing your project. Having a snazzy-looking video isn't on the rubric!
-
-## Schedule
-
-More to follow!
