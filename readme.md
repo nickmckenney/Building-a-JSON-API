@@ -108,6 +108,6 @@ When you submit an issue please include the following...
   2. A precise and specific description of your issue
   3. What error you got
 
-> [Check here for details on this process](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md#during-project-weeks).
+> [Check here for details on this process](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks).
 
 We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
