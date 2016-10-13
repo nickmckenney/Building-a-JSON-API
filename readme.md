@@ -8,7 +8,7 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You will submit your idea to your squad leader via Slack by 12:30pm today (Friday, October 14th) to get feedback by 5pm.**
+**You will submit your idea to your squad leader via Slack by 2:30pm today (Friday, October 14th) to get feedback by 5pm.**
 
 Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
