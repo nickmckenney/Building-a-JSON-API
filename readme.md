@@ -71,7 +71,7 @@ You will create an application where users can bookmark links they want to keep.
 Users will be able to register and create albums and photos. Albums and photos can be named and described by
 their owners. Users will be able to view other users' albums. Maybe users can
 comment on photos, or either up/down vote them. (Please note: file uploading can
-be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
 
 ##### Other cool ideas
 
