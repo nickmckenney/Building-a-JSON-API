@@ -8,7 +8,7 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You will submit your idea to your squad leader via Slack by 2:30pm today (Friday, October 14th) to get feedback by 5pm.**
+<!-- **You will submit your idea to your squad leader via Slack by 2:30pm today (Friday, October 14th) to get feedback by 5pm.** -->
 
 Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 
@@ -31,7 +31,7 @@ Your app must...
 
 ### Deliverables
 
-* By **Friday, October 14th at 5:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository. (Please do **not** fork this repo.) Your repo should contain:
+* By **Thursday, November 17th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.) Your repo should contain:
   - The skeleton of a Rails app (e.g. `rails new`)
   - Your `planning` folder (see below)
 * A **working full-stack application, built by you**, that meets the technical requirements above.
