@@ -17,10 +17,11 @@ You are allowed to bring your laptop to the presentations -- we encourage you to
 | Time          | Event                                             |
 |:--------------|:--------------------------------------------------|
 | 12:00pm        | **[Presentation Video](./presentations.md) due** |
-| 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi13_presentation_videos.md)      |
-| 1:30 - 2:20 pm | 1st Round of Videos && 10 minute break                   |
-| 2:20 - 3:10 pm | 2nd Round of Videos && 10 minute break                   |
-| 3:10 - 3:45 pm | 3rd Round of Videos             |
-| 3:45 - 4:00 pm | Envelopes && Break                                 |
-| 4:00 - 4:30 pm | Mid Course Feedback && surprise!
-| 4:30 - 5:00 pm | Squad Retros                                    |
+| 2:00 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi13_presentation_videos.md)      |
+| 2:00 - 2:40 pm | 1st Round of Videos && 10 minute break                   |
+| 2:40 - 3:20 pm | 2nd Round of Videos && 10 minute break                   |
+| 3:20 - 3:50 pm | 3rd Round of Videos             |
+| 3:50 - 4:00 pm | Non-ominous surprise |
+| 4:00 - 4:30 pm | Squad Retros && Envelopes |
+| 4:30 - 5:00 pm | Mid Course Feedback |
+
