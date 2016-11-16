@@ -2,13 +2,13 @@
 
 **Attendance will be taken at 9:00am every morning**
 
-## Friday, October 14th
+## Friday, November 11th, 2016
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
 | 2:30pm | Deadline for Project Idea to Instructor |
 
-## Thursday, October 16th
+## Thursday, November 17th, 2016
 
 **Presentations will begin at 1:30pm.**
 
@@ -17,7 +17,7 @@ You are allowed to bring your laptop to the presentations -- we encourage you to
 | Time          | Event                                             |
 |:--------------|:--------------------------------------------------|
 | 12:00pm        | **[Presentation Video](./presentations.md) due** |
-| 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi12_presentation_videos.md)      |
+| 1:30 - 4:00 pm | [Project Presentations - Watch Videos Here](./wdi13_presentation_videos.md)      |
 | 1:30 - 2:20 pm | 1st Round of Videos && 10 minute break                   |
 | 2:20 - 3:10 pm | 2nd Round of Videos && 10 minute break                   |
 | 3:10 - 3:45 pm | 3rd Round of Videos             |
