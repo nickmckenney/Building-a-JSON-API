@@ -23,11 +23,8 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission Deadline: Thursday, November 17th<sup>th</sup>, 12:30pm
+### Submission Deadline: Thursday, March 17th<sup>th</sup>, 12:00pm
 
-"But instructors, I won't be done with my project by then!"
-
-That's OK, the people viewing your video don't have to know that. Show off what does work, and talk about your process-- things you struggled with, obstacles you have surmounted, insights you've gained.
 
 ## Recording a Video
 
