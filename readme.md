@@ -11,11 +11,11 @@ This project is your first foray into **building a full-stack application from t
 **You will submit your idea complete with ERDs to your squad leader via Slack by 12:00pm Sunday, February 26 to get feedback by 9:00am Monday, February 27.**
 
 Remember to focus on your MVP first. &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
-
+<!-- 
 ---
 ### [Schedule](./schedule.md)
 
----
+--- -->
 ### Technical Requirements
 
 Your app must...
