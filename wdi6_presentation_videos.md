@@ -14,7 +14,6 @@
 - [Preston D](http://youtu.be/YEX-gR_jk_4)
 - [Karl D](https://www.youtube.com/watch?v=UKYUaxkQbW4)
 - [Paul D](https://www.youtube.com/watch?v=jMIVmezM8kk&feature=youtu.be)
-- [Nayana D](http://youtu.be/pRHmHZDnJdg)
 - [Phil E](https://www.youtube.com/watch?v=5uDp8VasRCg)
 - [Matt F](http://youtu.be/TZazD9lnxuQ)
 - [Cameron F](https://youtu.be/BxwiZQ1Kk_M)
