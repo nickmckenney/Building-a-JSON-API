@@ -8,37 +8,36 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-<!-- **You will submit your idea to your squad leader via Slack by 2:30pm today (Friday, October 14th) to get feedback by 5pm.** -->
+**You will submit your idea complete with ERDs to your squad leader via Slack by 12:00pm Sunday, February 26 to get feedback by 9:00am Monday, February 27.**
 
-Remember to keep things small and focus on mastering the fundamentals &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
-
+Remember to focus on your MVP first. &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
+<!-- 
 ---
 ### [Schedule](./schedule.md)
 
----
+--- -->
 ### Technical Requirements
 
 Your app must...
 
 * ...be built in **Rails**.
-* ...**have at least 2 models** with **at least 1 association** (more if it makes sense). 
+* ...**have at least 2 models** with **at least 1 association**.
 * ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
-* ...**have error handling & validations** for all resources
-* ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your relationally-stored data.
+* ...**have error handling** for all resources.
+* ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your stored relational data.
 * ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
 
 ---
 
 ### Deliverables
 
-* By **Thursday, November 17th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.) Your repo should contain:
-  - The skeleton of a Rails app (e.g. `rails new`)
-  - Your `planning` folder (see below)
+* By **Thursday, March 2nd at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.)
+
+Your repo should contain:
 * A **working full-stack application, built by you**, that meets the technical requirements above.
-* A **git repository hosted on Github**, with **frequent commits dating back to the very beginning** of the project.
-* **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
-* **A `planning` directory** in the root of your repo, containing an ERD mapping out your project domain.
-  - You are welcome to include other planning documents (e.g., wireframes, user stories)
+* **Frequent commits dating back to the very beginning** of the project.
+* **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.
+* **A `planning` directory** in the root of your repo containing an ERD mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
 * A **link to your hosted, working application** in the URL section of your Github repo.
 ![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
 
@@ -46,12 +45,11 @@ Your app must...
 
 ### Tips
 
-* **Begin with the end in mind.** Spend a dedicated block of time to planning with wireframes & user stories, so you don't waste time building things you don't need.
-* **Don't hesitate to write throwaway code to solve short term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete code working code such that it can't be retrieved.**
+* **Begin with the end in mind.** Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
+* **Don't hesitate to write throwaway code to solve short-term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete working code such that it can't be retrieved.**
 * **Read the docs for whatever technologies you use.** The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 * **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
-* **Deploy early, deploy often.** Addressing any deployment bugs early and incrementally will prevent last-minute scrambling.
-* **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use them as _todo lists_, but if you keep them small & focused on what a user cares about being able to do, it will help you prioritize your features and tasks.
+* **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a _todo list_, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your features and tasks.
 * **Write pseudocode before you write actual code.** Thinking through the logic of something helps streamline your process.
 
 ---
@@ -79,10 +77,6 @@ be tricky and memory-intensive. We encourage you to review the screencasts of [P
 - Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
 - Recipe / ingredients manager
 
-##### Something Else You Think Would Be Rad!
-
-You're not limited to the above ideas, feel free to come up with your own idea. Just make sure to run it by your instructor to make sure the idea is feasible within the time constraints of this project week.
-
 ---
 
 ### Useful Resources
@@ -97,16 +91,19 @@ You're not limited to the above ideas, feel free to come up with your own idea. 
 
 ### Asking For Help
 
-The instructors will be offering support each day during Open Office Hours, 10:00am - 12:00pm in Classroom 3.
+Instructors will be offering support on Monday, Tuesday and Wednesday during Open Office Hours, 10:00am - 12:00pm in Classroom 5.
 
-Students will be limited to `5 minutes` at a time with one-on-one instructor support during Office hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem. You may have additional time with instructors during a session after an attempt to solve your problem :)
+We will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
 
-Other than that, we will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes developers will interact with each other via GitHub issues, particularly in remote work settings.
+Students will be limited to `10 minutes` at a time with one-on-one instructor support during Open Office Hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
+
+Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance.
 
 When you submit an issue please include the following...
-  1. A screenshot or code snippet
+  1. A code snippet
   2. A precise and specific description of your issue
   3. What error you got
+  4. What you already tried to resolve your error and the result of those attempts
 
 > [Check here for details on this process](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks).
 

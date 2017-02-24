@@ -2,7 +2,7 @@
 
 **Attendance will be taken at 9:00am every morning**
 
-## Friday, November 11th, 2016
+<!-- ## Friday, November 11th, 2016
 
 | Time   | Event                                   |
 |:-------|:----------------------------------------|
@@ -24,4 +24,4 @@ You are allowed to bring your laptop to the presentations -- we encourage you to
 | 3:50 - 4:00 pm | Non-ominous surprise |
 | 4:00 - 4:30 pm | Squad Retros && Envelopes |
 | 4:30 - 5:00 pm | Mid Course Feedback |
-
+ -->
