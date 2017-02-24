@@ -46,7 +46,7 @@ Your repo should contain:
 ### Tips
 
 * **Begin with the end in mind.** Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
-* **Don't hesitate to write throwaway code to solve short-term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete code working code such that it can't be retrieved.**
+* **Don't hesitate to write throwaway code to solve short-term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete working code such that it can't be retrieved.**
 * **Read the docs for whatever technologies you use.** The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 * **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
 * **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a _todo list_, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your features and tasks.
