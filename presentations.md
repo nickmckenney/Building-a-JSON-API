@@ -48,7 +48,7 @@ If you're feeling really fancy you can use iMovie -- also in your Applications f
 
 ### Screencasts
 
-### CR5
+#### CR5
 
 1. Aaron Andrews - https://youtu.be/SO78IQprbds
 2. Travis Batts - https://www.youtube.com/watch?v=3Vo7EoBEm1I
@@ -72,7 +72,7 @@ If you're feeling really fancy you can use iMovie -- also in your Applications f
 20. Dan Lin - https://www.youtube.com/watch?v=ZCgXbDe8bm0
 21. Taylor Scott - https://www.youtube.com/watch?v=IK1sk--ZYIA
 
-### CR6
+#### CR6
 
 1. Gurpeet Gill - https://www.youtube.com/watch?v=WWFa7Azl1aY
 2. Dominick Houston - https://youtu.be/Zxs49l0XcuM
