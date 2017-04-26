@@ -8,7 +8,7 @@ This project is your first foray into **building a full-stack application from t
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You will submit your idea complete with ERDs to your squad leader via Slack by 12:00pm Sunday, February 26 to get feedback by 9:00am Monday, February 27.**
+**You will submit your idea complete with ERDs to your squad leader via Slack by 12:00pm Thursday, 27 April to get feedback by 9:00am Friday, April 28.**
 
 Remember to focus on your MVP first. &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
 <!-- 
@@ -31,7 +31,7 @@ Your app must...
 
 ### Deliverables
 
-* By **Thursday, March 2nd at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.)
+* By **Wednesday, 3 May at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.)
 
 Your repo should contain:
 * A **working full-stack application, built by you**, that meets the technical requirements above.
