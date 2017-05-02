@@ -17,7 +17,6 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 **Your video must include...**
 
 - ...your voice loud enough to be heard. Speak loudly and clearly when recording!
-- ...a website or e-mail address through which you can be contacted. This can be included either in the video itself or as the video description (the text beneath YouTube videos).
 - ...a description and demo of your app
 - ...a code sample explaining one thing you're proud of
 - ...one thing you would do differently next time
