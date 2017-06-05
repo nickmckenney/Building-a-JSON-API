@@ -2,17 +2,16 @@
 
 ### Overview
 
-This project is your first foray into **building a full-stack application from the ground up.**
+This project is your first **building a full-stack application from the ground up, entirely of your own design**.
 
 **This is exciting!** We've given you the tools over the past few weeks to be able build what you need, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You will submit your idea complete with ERDs to your squad leader via Slack by 12:00pm Thursday, 27 April to get feedback by 9:00am Friday, April 28.**
+**You must submit your idea, complete with ERDs, to your squad leader by 12:30pm Friday, June 9th.** After submitting your complete proposal with ERDs, you will receive feedback and/or approval for your project idea by 2:30pm.
 
-Remember to focus on your MVP first. &mdash; **scope creep/feature creep is the biggest pitfall for any project!**
-<!-- 
----
+Remember to focus on your MVP first. &mdash; **scope creep/feature creep is one of the biggest potential pitfalls for any app in development!** This is true not just for beginners, but for all developers.
+<!---
 ### [Schedule](./schedule.md)
 
 --- -->
@@ -20,39 +19,57 @@ Remember to focus on your MVP first. &mdash; **scope creep/feature creep is the 
 
 Your app must...
 
-* ...be built in **Rails**.
-* ...**have at least 2 models** with **at least 1 association**.
-* ...**have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE.
-* ...**have error handling** for all resources.
-* ...**utilize an ORM to create a database table structure** (e.g. ActiveRecord) and interact with your stored relational data.
-* ...have **semantically-clean HTML and CSS that passes the standard validators**. (See "Resources" below)
+  * be built in **Rails**
+  * **have at least 2 non-User models** with **at least 1 association**
+  * **have _complete_ RESTful routes for at least one of your resources**
+  * **have error handling, validations, and flash messages** for all modified and created resources
+  * **utilize an ORM and migrations** to create a database table structure and interact with your stored relational data
+  * have **semantically-clean HTML and CSS that passes the standard validators**
+    > See [Useful Resources](#useful-resources) below
 
 ---
 
 ### Deliverables
 
-* By **Wednesday, 3 May at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing a link to your Github repository **and** a link to your screencast presentation. (Please do **not** fork this repo.)
+By **Thursday, June 15th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
-Your repo should contain:
-* A **working full-stack application, built by you**, that meets the technical requirements above.
-* **Frequent commits dating back to the very beginning** of the project.
-* **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.
-* **A `planning` directory** in the root of your repo containing an ERD mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
-* A **link to your hosted, working application** in the URL section of your Github repo.
-![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
+  * a link to your project2 Github repository
+    > *Please do **not** fork this repo*
+
+  * a link to your screencast presentation
+
+Your repo should contain...
+
+  * A **working full-stack application, built by you**, that meets the technical requirements above.
+  * **Frequent commits dating back to the very beginning** of the project.
+  * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.
+  * **A `planning` directory** in the root of your repo containing an ERD mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
+  * A **link to your hosted, working application** in the URL section of your Github repo.
+    > ![The URL section of your Github repo](http://i.imgur.com/QQ7RsfR.gif)
 
 ---
 
 ### Tips
 
-* **Begin with the end in mind.** Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
-* **Don't hesitate to write throwaway code to solve short-term problems**. When we say "throwaway", we mean **commit**, **then** throw it away. **[Never, ever, ever](https://www.youtube.com/watch?v=WA4iX5D9Z64&ab_channel=TaylorSwiftVEVO) delete working code such that it can't be retrieved.**
-* **Read the docs for whatever technologies you use.** The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
-* **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
-* **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a _todo list_, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your features and tasks.
-* **Write pseudocode before you write actual code.** Thinking through the logic of something helps streamline your process.
+  * **Commit early, commit often.**
+    > Don't be afraid to break something because you can always go back in time to a previous version.
 
----
+#### Planning
+  * **If you aren't a planner, start now**
+  * **Begin with the end in mind**
+    > Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need
+  * **Write pseudocode before you write actual code**
+    > Thinking through the logic of something helps streamline your process
+  * **User stories define what a specific type of user wants to accomplish with your application**
+    > It's tempting to just use your list of user stories as a _todo list_, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build first.
+
+#### Getting Unstuck
+
+  * **Don't hesitate to write garbage code to solve short-term problems**
+    > Refactor later.
+  * **Read the docs for whatever technologies you use**
+    > The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
+
 
 ### Potential Project Ideas
 
@@ -66,10 +83,11 @@ You will create an application where users can bookmark links they want to keep.
 
 ##### Photo Sha.re
 
-Users will be able to register and create albums and photos. Albums and photos can be named and described by
-their owners. Users will be able to view other users' albums. Maybe users can
-comment on photos, or either up/down vote them. (Please note: file uploading can
-be tricky and memory-intensive. We encourage you to review the screencasts of [Previous mini-lesson on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+Users will be able to register and create albums and photos. Albums and photos can be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive.
+
+[Screencast of a previous mini-lesson a on file uploads with Carrier Wave & AWS](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws) or use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
+
+[Paperclip] is another ne
 
 ##### Other cool ideas
 
