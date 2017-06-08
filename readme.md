@@ -90,7 +90,7 @@ Users will be able to register and create albums and photos. Albums and photos c
 
   - Use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
   - [Paperclip](https://github.com/thoughtbot/paperclip) is Rails gem that handles attachments.
-  - CarrierWave is another such gem [Mini-Lesson Here](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws)
+  - CarrierWave is another such `gem`. [Mini-lesson here.](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws)
 
 #### Other Ideas
 
@@ -102,7 +102,7 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ### Useful Resources
 
-* **[Heroku](http://www.heroku.com)** _(for hosting your back-end)_
+* **[Heroku](http://www.heroku.com)**
 * **[Writing Good User Stories](http://www.mariaemerson.com/user-stories/)** _(for a few user story tips)_
 * **[Presenting Information Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)** _(for more insight into wireframing)_
 * **[W3 Validator](http://validator.w3.org)**
@@ -112,7 +112,7 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ### Asking For Help
 
-Instructors will be offering support on Monday, Tuesday and Wednesday during Open Office Hours, 10:00am - 12:00pm in Classroom 5.
+Instructors will be offering support on Monday, Tuesday, and Wednesday during Open Office Hours, 10:00am - 12:00pm in Classroom 5.
 
 We will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
 
