@@ -28,6 +28,7 @@ Your app must...
   * **Have _complete_ RESTful routes for at least one of your resources**
   * **Have error handling, validations, and flash messages** for all modified and created resources
   * **Utilize an ORM (such as Active Record) and migrations** to create a database table structure and interact with your stored relational data
+  * **Have your application deployed on Heroku**
   * Have **semantically-clean HTML and CSS that passes the standard validators**
     > See [Useful Resources](#useful-resources) below
 
