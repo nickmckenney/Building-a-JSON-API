@@ -8,7 +8,7 @@ For the first time, we will each be **building a full-stack application from the
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You must submit your idea, complete with ERDs, to your squad leader by 12:30pm Friday, June 9th.** After submitting your complete proposal with ERDs, you will receive feedback and/or approval for your project idea by 2:30pm.
+**You must submit your idea, complete with ERDs, to your squad leader by 12:30pm Friday, September 15th, at the latest.** After submitting your complete proposal with ERDs, you will receive feedback and/or approval for your project idea by 2:30pm.
 
 Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls for any app in development!** This is true not just for beginners, but for all developers.
 
@@ -22,21 +22,20 @@ Remember to focus on your MVP first &mdash; **scope creep/feature creep is one o
 
 Your app must...
 
-  * Be built in **Rails**
-  * **Have its own repository on your GitHub account** (do not fork this repo)
+  * Be built in **Rails**.
+  * **Have its own repository on your GitHub account** (do not fork this repo).
   * **Have at least 2 non-User models** with **at least 1 association**
-  * **Have _complete_ RESTful routes for at least one of your resources**
-  * **Have error handling, validations, and flash messages** for all modified and created resources
-  * **Utilize an ORM (such as Active Record) and migrations** to create a database table structure and interact with your stored relational data
-  * **Have your application deployed on Heroku**
-  * Have **semantically-clean HTML and CSS that passes the standard validators**
-    > See [Useful Resources](#useful-resources) below
-
+  * ***NOT use rails-CLI generated scaffolding***.
+  * **Have _complete_ RESTful routes for at least one of your resources**.
+  * **Have error handling, validations, and flash messages** for all modified and created resources.
+  * **Utilize an ORM (such as Active Record) and migrations** to create a database table structure and interact with your stored relational data.
+  * **Have your application deployed on Heroku**.
+  * Have **semantically-clean HTML and CSS that passes the standard validators**.
 ---
 
 ### Deliverables
 
-By **Thursday, June 15th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
+By **Thursday, September 21st at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
   * a link to your Project 2 Github repository
     > *Please do **not** fork this repo*
@@ -97,6 +96,27 @@ Users will be able to register and create albums and photos. Albums and photos c
   - A StackOverflow-style question/answer page
   - Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
   - Recipe / ingredients manager
+
+#### Bonus Features to Implement
+
+- Nest one of your resources inside another one
+  >Read more: https://git.generalassemb.ly/ga-wdi-lessons/rails-routing
+
+- Use all Devise's modules
+  > Read more: https://github.com/plataformatec/devise
+
+- Let users sign in with a third-party account (Facebook, Twitter, GitHub, ... etc.)
+  > Read more...
+  
+    - https://github.com/mkdynamic/omniauth-facebook
+    - https://github.com/arunagw/omniauth-twitter
+    - https://github.com/intridea/omniauth-github
+
+- Paginate your views
+  > Read more: https://github.com/mislav/will_paginate
+
+- Allow users to upload images to your application, and persist these images.
+  > Read more: https://github.com/rails/rails/tree/master/activestorage
 
 ---
 
