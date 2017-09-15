@@ -107,7 +107,7 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 - Let users sign in with a third-party account (Facebook, Twitter, GitHub, ... etc.)
   > Read more...
-  
+
     - https://github.com/mkdynamic/omniauth-facebook
     - https://github.com/arunagw/omniauth-twitter
     - https://github.com/intridea/omniauth-github
@@ -132,7 +132,7 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ### Asking For Help
 
-Instructors will be offering support on Monday, Tuesday, and Wednesday during Open Office Hours, 10:00am - 12:00pm in Classroom 5.
+Instructors will be offering support every week day during Open Office Hours, 10:00am - 12:00pm.
 
 We will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
 
