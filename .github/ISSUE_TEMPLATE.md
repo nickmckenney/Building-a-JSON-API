@@ -6,6 +6,10 @@ For detailed info on submitting an issue, please review the [documentation](http
 
 ## Code Snippet:
 
+```
+
+```
+
 
 ## Your Error:
 
