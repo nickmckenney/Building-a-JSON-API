@@ -22,7 +22,7 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission Deadline: Wednesday, May 3rd<sup>th</sup>, 12:00pm
+### Submission Deadline: Thursday, November 30th<sup>th</sup>, 12:00pm
 
 
 ## Recording a Video
