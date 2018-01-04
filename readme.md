@@ -11,27 +11,27 @@ For the first time, we will each be **building a full-stack application from the
 
 **You must submit your idea, complete with ERDs, to your squad leader by 12:30pm Friday, November 17th.** After submitting your completed proposal with ERDs, you will receive feedback.
 
-Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls of any app in development!** This is true not just for beginners, but for all developers.
+Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls of any app in development!** This is true not just for beginners, *but for all developers.*
 
 <!---
 ### [schedule](./schedule.md)
 
 --- -->
+## beep
 
 
 ### Technical Requirements
 
-Your app must:
+Your project must satisfy the following requirements..
 
-  * Be built in **Rails**.
-  * **Have its own repository under your GitHub account** (do not fork this repo).
-  * **Have at least 2 non-User models** with **at least 1 association**
-  * ***NOT use rails-CLI generated scaffolding***.
-  * **Have _complete_ RESTful routes for at least one of your resources**.
-  * **Have error handling, validations, and flash messages** for all modified and created resources.
-  * **Utilize an ORM (such as Active Record) and migrations** to create a database table structure and interact with your stored relational data.
-  * **Have your application deployed on Heroku**.
-  * Have **semantically-clean HTML and CSS that passes the standard validators**.
+  1. Be built using **Express**, **Handlebars**, and **Mongoose**.
+     > *You may request to use an alternative to Handlebars. Contact your squad leader for more information.*
+  2. **Have at least 2 non-User models**
+  3. **Have _complete_ CRUD functionality implemented with RESTful routes.**
+    > You may ***logically*** distribute up CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
+  - **Have its own repository under your GitHub account** (do not fork this repo).
+  - **Deploy your application on Heroku**.
+  - Have ***validated***, **semantically-clean HTML and CSS**.
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
 
@@ -50,7 +50,7 @@ Your repo should contain...
   * A **working full-stack application, built by you**, that meets the technical requirements above.
   * **Frequent commits dating back to the very beginning** of the project.
   * **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.
-  * **A `planning` directory** in the root of your repo containing an ERD mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
+  * **A `planning` directory** in the root of your repo containing a diagram mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
   * A **link to your hosted, working application** in the URL section of your Github repo.
 
     > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
