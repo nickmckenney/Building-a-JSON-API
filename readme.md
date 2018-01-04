@@ -22,14 +22,12 @@ Your project must satisfy the following requirements..
      > *You may request to use an alternative to Handlebars. Contact your squad leader for more information.*
   2. **Have at least 2 non-User models**
   3. **Have _complete_ CRUD functionality implemented with RESTful routes.**
-    > You may ***logically*** distribute up CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
+     > You may ***logically*** distribute CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
   - **Have its own repository under your GitHub account** (do not fork this repo).
   - **Deploy your application on Heroku**.
   - Have ***validated***, **semantically-clean HTML and CSS**.
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
-
-
 
 ## Deliverables
 
@@ -112,7 +110,8 @@ Users will be able to register and create albums and photos. Albums and photos c
 - Use information from a 3rd party API and integrate it with your mongoose models
 
 - Use Passport to add User Auth
-
+     - > https://github.com/jaredhanson/passport
+     - > https://git.generalassemb.ly/ga-wdi-lessons/express-passport
 - Let users sign in with a third-party account (Facebook, Twitter, GitHub, ... etc.)
 
   > Read more...
@@ -151,7 +150,7 @@ We will also be providing continuous support via GitHub, on the issues section o
 
 Students will be **limited to 10 minutes** at a time with one-on-one instructor support during Open Office Hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
 
-#### Maximizing ur time
+#### Maximizing Effectiveness of Support Sessions
 
 Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance.
 
