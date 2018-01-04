@@ -9,7 +9,7 @@ For the first time, we will each be **building a full-stack application from the
 
 **You are required to check in to Garnet by 9:00am every morning of project week, as usual.**
 
-**You must submit your idea, complete with entity diagrams, to your squad leader by 12:30pm Friday, November 17th.** After submitting your completed proposal with entity diagrams, you will receive feedback. Your diagrams should show what data your models contain.
+**You must submit your idea, complete with entity diagrams, to your squad leader by 9:00am Monday, January 8th.** After submitting your completed proposal with entity diagrams, you will receive feedback. Your diagrams should show what data your models contain.
 
 Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls of any app in development!** This is true not just for beginners, *but for all developers.*
 
@@ -20,7 +20,7 @@ Your project must satisfy the following requirements..
 
   1. Be built using **Express**, **Handlebars**, and **Mongoose**.
      > *You may request to use an alternative to Handlebars. Contact your squad leader for more information.*
-  2. **Have at least 2 non-User models**
+  2. **Have at least 1 non-User model**
   3. **Have _complete_ CRUD functionality implemented with RESTful routes.**
      > You may ***logically*** distribute CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
   - **Have its own repository under your GitHub account** (do not fork this repo).
@@ -31,7 +31,7 @@ Review the [Rubric](evaluation.md) for the specifics of how your project will be
 
 ## Deliverables
 
-Your project is due on **Thursday, November 30th at 12:00pm**. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
+Your project is due on **Thursday, Jan 11th at 2:00pm**. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
   * a link to your Project 2 Github repository
     > *Please do **not** fork this repo*
