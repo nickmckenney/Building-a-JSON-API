@@ -31,7 +31,7 @@ Review the [Rubric](evaluation.md) for the specifics of how your project will be
 
 ## Deliverables
 
-Your project is due on **Thursday, Jan 1th at 2:00pm**. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
+Your project is due on **Thursday, Jan 11th at 2:00pm**. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
   * a link to your Project 2 Github repository
     > *Please do **not** fork this repo*
