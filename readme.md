@@ -35,7 +35,7 @@ Your project is due on **Thursday, Jan 11th at 2:00pm**. Create an issue on [the
 
   * a link to your Project 2 Github repository
     > *Please do **not** fork this repo*
-  * a link to your screencast presentation
+  * a link to your [screencast presentation](https://git.generalassemb.ly/ga-wdi-exercises/project2/blob/master/presentations.md)
 
 Your repo should contain...
 
