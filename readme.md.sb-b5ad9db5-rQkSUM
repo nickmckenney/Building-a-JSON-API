@@ -1,8 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #2: Building Your First Full-stack Application
+### Overview
 
-## Overview
-
-For the first time, you will be **building a full-stack application from the ground up, entirely of our own designs**.
+For the first time, we will each be **building a full-stack application from the ground up, entirely of our own designs**.
 
 **This is exciting!** We've given you the tools over the past few weeks to be able to build what you want, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
 
@@ -14,7 +13,13 @@ For the first time, you will be **building a full-stack application from the gro
 
 Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls of any app in development!** This is true not just for beginners, but for all developers.
 
-## Technical Requirements
+<!---
+### [schedule](./schedule.md)
+
+--- -->
+
+
+### Technical Requirements
 
 Your app must:
 
@@ -30,7 +35,9 @@ Your app must:
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
 
-## Deliverables
+---
+
+### Deliverables
 
 Your project is due on **Thursday, November 30th at 12:00pm**. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
@@ -48,37 +55,39 @@ Your repo should contain...
 
     > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
-## Plagiarism
+---
+
+### Plagiarism
 
 Take a moment to re-familiarize yourself with the [plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md), specifically on using work you find online and on work you do with other students.
 
-## Tips
+### Tips
 
 * **Commit early, commit often.**  Don't be afraid to break something because you can always go back in time to a previous version.
 
-### Planning
+#### Planning
 
 * ***If you aren't a planner, start now***.
 * **Begin with the end in mind**. Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
 * **Write pseudocode before you write actual code**. Thinking through the logic of something helps streamline your process.
 * **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a _todo list_, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build first.
 
-### Getting Unstuck
+#### Getting Unstuck
 
 * **Don't hesitate to write garbage code to solve short-term problems**. *Refactor later.*
 * **Read the docs for whatever technologies you use**. The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 
-## Potential Project Ideas
+### Potential Project Ideas
 
-### Cheerups
+#### Cheerups
 
 The world can be a depressing place. Your task is to create an app that will allow people to create and share "cheerups" - happy little quips to brighten other peoples' days. Cheerups will be small - limited to 141 characters. Members will be able to promote Cheerups that they like and maybe even boost the reputation of the Cheerupper.
 
-### Bookmarket
+#### Bookmarket
 
 You will create an application where users can bookmark links they want to keep. But what if users could trade bookmarks for other bookmarks? Or sell bookmarks for points? Or send bookmarks to your friends. Or something even crazier.
 
-### Photo Sha.re
+#### Photo Sha.re
 
 Users will be able to register and create albums and photos. Albums and photos can be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive.)
 
@@ -86,13 +95,13 @@ Users will be able to register and create albums and photos. Albums and photos c
   - [Paperclip](https://github.com/thoughtbot/paperclip) is Rails gem that handles attachments.
   - CarrierWave is another such `gem`. [Mini-lesson here.](https://github.com/ga-dc/wdi6-formerly-curriculum/tree/3071663bc9aaac00fe5eee4b11c171af60f826b5/mini-lessons/file-uploads-with-carrier-wave-and-aws)
 
-### Other Ideas
+#### Other Ideas
 
 - A StackOverflow-style question/answer page
 - Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
 - Recipe / ingredients manager
 
-### Bonus Features to Implement
+#### Bonus Features to Implement
 
 - Nest one of your resources inside another one
 
@@ -118,7 +127,9 @@ Users will be able to register and create albums and photos. Albums and photos c
 
   > Read more: https://github.com/rails/rails/tree/master/activestorage
 
-## Useful Resources
+---
+
+### Useful Resources
 
 * **[Heroku](http://www.heroku.com)**
 * **[Writing Good User Stories](http://www.mariaemerson.com/user-stories/)** _(for a few user story tips)_
@@ -126,7 +137,9 @@ Users will be able to register and create albums and photos. Albums and photos c
 * **[W3 Validator](http://validator.w3.org)**
 * **[Seed Data Generator](https://www.mockaroo.com/)**
 
-## Asking For Help
+---
+
+### Asking For Help
 
 Instructors will be offering support every week day during Open Office Hours, 10:00am - 12:00pm.
 
