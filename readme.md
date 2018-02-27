@@ -12,62 +12,78 @@ Remember to focus on your MVP first &mdash; **scope creep/feature creep is one o
 
 ## Technical Requirements
 
-Your project must satisfy the following requirements..
+Your project must satisfy the following requirements:
 
-  1. Be built using **Express**, **Handlebars**, and **Mongoose**.
-     > *You may request to use an alternative to Handlebars. Contact your squad leader for more information.*
-  2. **Have at least 2 non-User model**
-  3. **Have _complete_ CRUD functionality implemented with RESTful routes.**
-     > You may ***logically*** distribute CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
-- **Have its own repository under your GitHub account** (do not fork this repo).
-- **Deploy your application on Heroku**.
-- Have ***validated***, **semantically-clean HTML and CSS**.
+1. Be built using Express, Handlebars, and Mongoose.
+2. Have at least 1 non-User model
+3. Have complete CRUD functionality implemented with RESTful routes.
+    > You may logically distribute CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
+4. Have its own repository under your GitHub account (do not fork this repo).
+5. Has at least 1 test.
+6. Deploy your application on Heroku.
+7. Have validated, semantically-clean HTML and CSS and a polished appearance.
+8. Demonstrate a good commit history.
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
 
 ## Deliverables
 
 ### Project Idea and Initial Planning
-By the end of Day 1 of Project week, you need to submit:
+
+By the end of Day 1 of Project Week, you need to submit:
 
 1. Your project idea (a brief 2-3 sentence description of your app)
 2. A list of your models, including their properties
 
+These and any other planning assets (wireframes, user stories, etc) should go inside a `planning` directory inside your Project 2 repository,
+
 ### Screencast
 
-You will be recording a screencast instead of presenting your app.
+You will be recording a screencast instead of presenting it like we did with Project 1. For more information on the screencast (including tips on how to make one), read through the [presentation](presentations.md) documentation. Your screencast is due with your final project (on the last day of Project Week).
 
-The due date for your project is in your course calendar. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
+### Final Project
 
-- a link to your Project 2 Github repository
-  > *Please do **not** fork this repo*
-- a link to your [screencast presentation](https://git.generalassemb.ly/ga-wdi-exercises/project2/blob/master/presentations.md)
+Your project is due on the last day of Project Week, the exact date for which will be in your course calendar. Create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing:
 
-Your repo should contain...
+- a link to your Project 2 Github repository (Do not fork this repo)
+- a link to your [screencast presentation](presentations.md)
 
-- A **working full-stack application, built by you**, that meets the technical requirements above.
-- **Frequent commits dating back to the very beginning** of the project.
-- **A ``readme.md`` file** in the root of your repo, with explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.
-- **A `planning` directory** in the root of your repo containing a diagram mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
-- A **link to your hosted, working application** in the URL section of your Github repo.
+Your repository should contain:
 
-  > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
+- A working full-stack application (built by you) that meets the technical requirements above.
+- Frequent commits dating back to the very beginning of the project.
+- A `readme.md` file in the root of your repo that follows [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown) (i.e. explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.)
+- A `planning` directory in the root of your repo containing a diagram mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
+- A link to your hosted, working application in the URL section of your Github repo:
+
+> ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
 ## Plagiarism
 
 Take a moment to re-familiarize yourself with the [plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md), specifically on using work you find online and on work you do with other students.
 
+We give assignments like this to give you the opportunity to review the material in class in a practical manner. By building something using what you've learned in class, you'll be reviewing the material and gaining a deeper understanding of it.
+
+These assignments are similar to those you can expect when applying for a job, either in the form of a take-home coding challenge or an in-person technical interview. So it's important that you put in your best effort now and challenge yourself to do this assignment on your own.
+
+If you are struggling with the material, that's alright! That's why you're here. First, try reviewing the previous lessons and exercises. Go easy on yourself, you're still learning! If you're still struggling after that, come to office hours and ask an instructor for help. They're here to help you!
+
+Don't copy and paste from another source or another student or the solution branch. That's just going to put you at a disadvantage when you're interviewing for a job.
+
 ## Tips
 
-- **Commit early, commit often.**  Don't be afraid to break something because you can always go back in time to a previous version.
+- Commit early, commit often. If you're committing often, you don't need to be afraid of breaking something because you can always go back in time to a previous version.
+- Plan. Think through each feature, wireframe it and write user stories.
+- Prototype. Don't just start adding packages or features to your project on the master branch! Create another branch to prototype it. If it works, great! Merge it in with master. If not, great! Delete the branch.
+- Work on one thing at a time. This goes in to committing early and often. Don't bounce from one feature to the next. At the end of the day, you'll have 3 half implemented features when you could have 1 well implemented feature.
+- Write tests. Write a lot of tests. How will you know if some code you added broke something? Run you tests.
 
 ## Planning
 
 1. [Watch this video on the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
-
-2. **Begin with the end in mind**. Spend a dedicated block of time to planning with ***wireframes*** and ***user stories*** so you don't waste time building things you don't need.
-3. **Write pseudocode before you write actual code**. Thinking through the logic of something helps streamline your process.
-4. **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a ***todo list***, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build first.
+2. Begin with the end in mind. Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
+3. Write pseudocode before you write actual code. Thinking through the logic of something helps streamline your process.
+4. User stories define what a specific type of user wants to accomplish with your application. It's tempting to just use your list of user stories as a todo list, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build.
 
 > [Definition of User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
 
@@ -82,18 +98,14 @@ After planning your app:
 
 ## Getting Unstuck
 
-- **Don't hesitate to write messy code to solve short-term problems**&mdash;***Refactor later***
-- **Read the docs for whatever technologies you use**. The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
+- Don't hesitate to write messy code to solve short-term problems &mdash; ***Refactor later***
+- Read the docs for whatever technologies you use. The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 
 ## Potential Project Ideas
 
-### Cheerups
+### Keep
 
-The world can be a depressing place. Your task is to create an app that will allow people to create and share "cheerups" - happy little quips to brighten other peoples' days. Cheerups will be small - limited to 141 characters. Members will be able to promote Cheerups that they like and maybe even boost the reputation of the Cheerupper.
-
-### Bookmarket
-
-You will create an application where users can bookmark links they want to keep. But what if users could trade bookmarks for other bookmarks? Or sell bookmarks for points? Or send bookmarks to your friends. Or something even crazier.
+Create an application that lets users save and bookmark links. Additionally, consider letting users add tags and/ord descriptions to their bookmarks. Maybe they can save more than just links, what about files and images?
 
 ### Photo Sha.re
 
@@ -101,6 +113,10 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 - Use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
 - After your app works with Imgur/Flickr/giphy links, you can try taking the additional step of storing images in a database. **This is a bonus, so do not start with this as an initial goal&mdash;it should be a stretch goal.** It's a smaller step to go from external links to stored images. See bonus section for details.
+
+### Gif Library
+
+Users want to be able to search for and save gifs to their library, so they can access them in a pinch (when a particularly whitty gif is called for). Let users search for gifs from their favorite gif provider (maybe Giphy) and save the links in their library. Could users maybe tag gifs? Or have a set of gifs that are their favorites?
 
 ### Other Ideas
 
@@ -110,30 +126,12 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ### Bonus Features to Implement
 
-- Nest one of your resources inside another one
-
+- Nest one of your resources inside another one using subdocuments
+- Relate two resources to each other using refs
 - Use information from a 3rd party API and integrate it with your mongoose models
-
-- Use Passport to add User Auth
-  - > https://github.com/jaredhanson/passport
-  - > https://git.generalassemb.ly/ga-wdi-lessons/express-passport
-- Let users sign in with a third-party account (Facebook, Twitter, GitHub, ... etc.)
-
-> Read more...
-
-  - https://github.com/mkdynamic/omniauth-facebook
-  - https://github.com/arunagw/omniauth-twitter
-  - https://github.com/intridea/omniauth-github
-
-- Paginate your views
-
-  > Read more: http://syskall.com/pagination-with-handlebars/
-
+- Let users sign in with a third-party account (Facebook, Twitter, GitHub, etc.)
+- Paginate your list views
 - Allow users to upload images to your application, and persist these images.
-
-  > Read more: 
-  > https://stackoverflow.com/questions/11442356/storing-some-small-under-1mb-files-with-mongodb-in-nodejs-without-gridfs
-  > https://stackoverflow.com/questions/4796914/store-images-in-a-mongodb-database
 
 ## Useful Resources
 
@@ -145,15 +143,15 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ## Asking For Help
 
-Instructors will be offering support every week day during Open Office Hours, 10:00am - 12:00pm. There will be 2 instructors on support during that time.
+Instructors will be offering support every week day during Open Office Hours, 10:00am - 12:00pm.
 
-We will also be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
+We will also be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues.
 
-Students will be **limited to 10 minutes** at a time with one-on-one instructor support during Open Office Hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
+Students will be limited to 10 minutes at a time with one-on-one instructor support during Open Office Hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through the problem yourself.
 
 ### Maximizing Effectiveness of Support Sessions
 
-Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance.
+Prior to a one-on-one during Open Office Hours, students must file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance.
 
 When you submit an issue please include the following:
 
@@ -162,6 +160,4 @@ When you submit an issue please include the following:
 3. What error you got
 4. What you already tried to resolve your error and the result of those attempts
 
-> [Check here for details on this process](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks).
-
-We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
+We also strongly recommend using Slack to get help from your classmates. Chances are you all will be running into similar problems.
