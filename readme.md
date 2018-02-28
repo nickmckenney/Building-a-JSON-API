@@ -6,9 +6,9 @@ For the first time, you will be building a full-stack application from the groun
 
 **You are required to check in to Garnet by 9:00am every morning of project week, as usual.**
 
-**You must submit your idea, complete with entity diagrams, to your squad leader by 9:00am Monday, January 8th.** After submitting your completed proposal with entity diagrams, you will receive feedback. Your diagrams should show what data your models contain.
+**You must submit your project idea and plan to your squad leader by 9:00am Monday, January 8th.** After submitting your completed proposal, you will receive feedback. Your plan should explain what data your model(s) contain.
 
-Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls of any app in development!** This is true not just for beginners, *but for all developers.*
+Remember to focus on your MVP first! **scope creep / feature creep is one of the biggest pitfalls of any app in development!** This is true not just for beginners, *but for all developers.*
 
 ## Technical Requirements
 
@@ -17,12 +17,11 @@ Your project must satisfy the following requirements:
 1. Be built using Express, Handlebars, and Mongoose.
 2. Have at least 1 non-User model
 3. Have complete CRUD functionality implemented with RESTful routes.
-    > You may logically distribute CRUD functionality across models. This is only permissable when it does not make sense in the context of your application to have full CRUD on one model.
+    > You may logically distribute CRUD functionality across models. This is only allowed when it does not make sense in the context of your application to have full CRUD on one model.
 4. Have its own repository under your GitHub account (do not fork this repo).
-5. Has at least 1 test.
-6. Deploy your application on Heroku.
-7. Have validated, semantically-clean HTML and CSS and a polished appearance.
-8. Demonstrate a good commit history.
+5. Deploy your application on Heroku.
+6. Have validated, semantically-clean HTML and CSS and a polished appearance.
+7. Demonstrate a good commit history.
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
 
@@ -105,18 +104,27 @@ After planning your app:
 
 ### Keep
 
-Create an application that lets users save and bookmark links. Additionally, consider letting users add tags and/ord descriptions to their bookmarks. Maybe they can save more than just links, what about files and images?
+Keep is an application that lets users save and bookmark links! Save articles, tutorials, GitHub repos - you name it!
+
+For this application, a user should be able to create an account (sign up) and sign in again later. They should have a page where they can see all of their saved bookmarks, be able to easily add new bookmarks and edit or delete existing bookmarks.
+
+As a possible bonus, users should be able to add tags to bookmarks, so they can group similar bookmarks together. There should be a way for users to see all the bookmarks they've created and find bookmarks based on a particular bookmark.
 
 ### Photo Sha.re
 
-Users will be able to register and create albums and photos. Albums and photos can be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them. (Please note: file uploading can be tricky and memory-intensive.)
+Photo Share lets users create albums of photos and share them with other users.
 
-- Use a separate image uploading service like Imgur or Flickr and only store the *URLs* of those images in your app itself.)
-- After your app works with Imgur/Flickr/giphy links, you can try taking the additional step of storing images in a database. **This is a bonus, so do not start with this as an initial goal&mdash;it should be a stretch goal.** It's a smaller step to go from external links to stored images. See bonus section for details.
+For this application, a user should be able register an account (sign up and sign in) and create albums of photos. At first, an album is just a collection of links to photos with a title and description.
+
+As a possible bonus, users can see the albums of other users and can comment on photos from other users.
+
+As a super bonus, users can upload images. Handling uploads can be tricky, so speak to an instructor about this first!
 
 ### Gif Library
 
-Users want to be able to search for and save gifs to their library, so they can access them in a pinch (when a particularly whitty gif is called for). Let users search for gifs from their favorite gif provider (maybe Giphy) and save the links in their library. Could users maybe tag gifs? Or have a set of gifs that are their favorites?
+Gif Library lets users save and bookmark their favorite gifs from Giphy for easy access when they need a witty gif in a pinch! Users can register an account (sign up and sign in) and save links to gifs.
+
+As a bonus, users can tag gifs, see all their tags and list all the gifs with a particular tag on a page.
 
 ### Other Ideas
 
