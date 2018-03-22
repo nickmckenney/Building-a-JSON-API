@@ -15,4 +15,7 @@ For detailed info on submitting an issue, please review the [documentation](http
 ## Your Error:
 
 
+## Why you think you're getting this error:
+
+
 ## Everything you've tried

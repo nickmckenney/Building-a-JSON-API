@@ -17,7 +17,8 @@ The following must be true of your project for it to be considered complete:
 
 ## Evaluation Requirements
 
-We will evaluate your project to the following requirements. You must at least achieve "Progressing" for each category.
+We will evaluate your project to the following requirements. You must at least
+achieve "Progressing" for each category.
 
 | Category                        | Incomplete                               | Progressing                              | Performing                               | Excelling                                |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
