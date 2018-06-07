@@ -1,24 +1,12 @@
 # ![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #2: Building Your First Full-stack Application
 
-For the first time, you will be building a full-stack application from the
-ground up, entirely of your own design. This means we will be choosing an idea,
-planning it out with diagrams and wireframes, and then building it. This is
-exciting! We've given you the tools to build what you want, and now **you** get
-to decide what you do with it. Now is your chance to exercise your own
-creativity in choosing what sort of application you want to build!
+For the first time, you will be building a full-stack application from the ground up, entirely of your own design. This means we will be choosing an idea, planning it out with diagrams and wireframes, and then building it. This is exciting! We've given you the tools to build what you want, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!
 
-**You will be working individually on this project**, and you'll be designing
-the app yourself.
+**You will be working individually on this project**, and you'll be designing the app yourself.
 
-**You are required to check in to Garnet by 9:00am every morning of project
-week, as usual.**
+**You must submit your project idea and plan to an instructor.** After submitting your completed proposal, you will receive feedback. Your plan should explain what data your model(s) contain.  
 
-**You must submit your project idea and plan to your squad leader by 9:00am
-Monday, January 8th.** After submitting your completed proposal, you will
-receive feedback. Your plan should explain what data your model(s) contain.
-
-Remember to focus on your MVP first! **scope creep / feature creep is one of the
-biggest pitfalls of any app in development!** This is true not just for
+Remember to focus on your MVP first! **scope creep / feature creep is one of the biggest pitfalls of any app in development!** This is true not just for
 beginners, *but for all developers.*
 
 ## Requirements
@@ -27,19 +15,15 @@ Your project must satisfy the following requirements:
 
 ### Technical Requirements
 
-* Be built using Express, Handlebars, and Mongoose.
-* Have at least 1 non-User model
-* Have complete CRUD functionality implemented with RESTful routes. (You may
-  logically distribute CRUD functionality across models. This is only allowed
-  when it does not make sense in the context of your application to have full
-  CRUD on one model.)
+* Be built using Express, Handlebars and Mongoose.
+* Have at least 2 non-User models
+* Have complete CRUD functionality implemented with RESTful routes. (You may logically distribute CRUD functionality across models. This is only allowed when it does not make sense in the context of your application to have full CRUD on one model.)
 * Have its own repository under your GitHub account (do not fork this repo).
 * Be deployed to Heroku.
 * Have validated, semantically-clean HTML and CSS and a polished appearance.
 * Demonstrate a good commit history.
 
-Review the [Rubric](evaluation.md) for the specifics of how your project will be
-graded.
+Review the [Rubric](evaluation.md) for the specifics of how your project will be graded.
 
 ## Submission
 
@@ -60,7 +44,7 @@ Your submission must include **all** of the following:
 
 ### Project Idea and Initial Planning
 
-By the end of Day 1 of Project Week, you need to submit:
+You need to submit:
 
 1. Your project idea (a brief 2-3 sentence description of your app)
 2. A list of your models and their properties
@@ -91,15 +75,9 @@ Your repository should contain:
 * A working full-stack application (built by you) that meets the technical
   requirements above.
 * Frequent commits dating back to the very beginning of the project.
-* A `readme.md` file in the root of your repo that follows [good standards of
-  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
-  (i.e. explanations of the technologies used, the approach taken, features,
-  installation instructions, unsolved problems, etc.)
-* A `planning/` directory in the root of your repo containing a diagram mapping
-  out your project domain. You are welcome to include other planning documents
-  (e.g., wireframes, user stories).
-* A link to your hosted, working application in the URL section of your Github
-  repo:
+* A `readme.md` file in the root of your repo that follows [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown) (i.e. explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.)
+* A `planning/` directory in the root of your repo containing a diagram mapping out your project domain. You are welcome to include other planning documents (e.g., wireframes, user stories).
+* A link to your hosted, working application in the URL section of your Github repo:
 
 > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
@@ -107,10 +85,7 @@ Your repository should contain:
 
 ### GitHub Issues
 
-Most of the support instructors will be offering during this project will be via
-GitHub, on the issues section of this repo. This is to mirror "in-the-wild"
-practices. Developers often interact with (and receive help from) each other via
-GitHub issues.
+Most of the support instructors will be offering during this project will be via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Developers often interact with (and receive help from) each other via GitHub issues.
 
 We've provided a template for you to fill in when posting an issue to receive help. The more detailed you make your issue, the easier it will be for us to help you. That, and the added benefit that the more you think through your issue, the more likely you are to solve it yourself!
 
@@ -150,31 +125,19 @@ are you all will be running into similar problems.
 
 ## Planning
 
-1. [Watch this video on the Minimum Viable
-   Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
-2. Begin with the end in mind. Spend a dedicated block of time planning with
-   wireframes and user stories so you don't waste time building things you don't
-   need.
-3. Write pseudocode before you write actual code. Thinking through the logic of
-   something helps streamline your process.
-4. User stories define what a specific type of user wants to accomplish with
-   your application. It's tempting to just use your list of user stories as a
-   todo list, but try to avoid this. If you keep your user stories small and
-   focused on what a user cares about being able to do. This will help you
-   prioritize your tasks and which features to build.
+1. [Watch this video on the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+2. Begin with the end in mind. Spend a dedicated block of time planning with wireframes and user stories so you don't waste time building things you don't need.
+3. Write pseudocode before you write actual code. Thinking through the logic of something helps streamline your process.
+4. User stories define what a specific type of user wants to accomplish with your application. It's tempting to just use your list of user stories as a todo list, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build.
 
-> [Definition of User
-> Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+> [Definition of User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
 
 ### Building Out from your Plan
 
 After planning your app:
 
-1. Start with building your models and linking them to the database. Create a
-   couple pieces of seed data so that can see data retrieved from your database
-   (by a mongoose model) show up on the page later.
-2. Build your controllers and routing, to 'funnel' or direct the data into your
-   handlebars views.
+1. Start with building your models and linking them to the database. Create a couple pieces of seed data so that can see data retrieved from your database (by a mongoose model) show up on the page later.
+2. Build your controllers and routing, to 'funnel' or direct the data into your handlebars views.
 3. Build your views and add CSS styling.
 4. Add new features!
 
@@ -182,9 +145,7 @@ After planning your app:
 
 * Don't hesitate to write messy code to solve short-term problems -
   ***Refactor later***
-* Read the docs for whatever technologies you use. The docs often include a
-  tutorial that can help you get started, and learning to read documentation is
-  crucial to your success as a developer.
+* Read the docs for whatever technologies you use. The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 
 ## Potential Project Ideas
 
@@ -195,41 +156,31 @@ tutorials, GitHub repos - you name it!
 
 For this application, a user should be able to create an account (sign up) and
 sign in again later. They should have a page where they can see all of their
-saved bookmarks, be able to easily add new bookmarks and edit or delete existing
-bookmarks.
+saved bookmarks, be able to easily add new bookmarks and edit or delete existing bookmarks.
 
-As a possible bonus, users should be able to add tags to bookmarks, so they can
-group similar bookmarks together. There should be a way for users to see all the
-bookmarks they've created and find bookmarks based on a particular bookmark.
+As a possible bonus, users should be able to add tags to bookmarks, so they can group similar bookmarks together. There should be a way for users to see all the bookmarks they've created and find bookmarks based on a particular bookmark.
 
 ### Photo Sha.re
 
 Photo Share lets users create albums of photos and share them with other users.
 
-For this application, a user should be able register an account (sign up and
-sign in) and create albums of photos. At first, an album is just a collection of
-links to photos with a title and description.
+For this application, a user should be able register an account (sign up and sign in) and create albums of photos. At first, an album is just a collection of links to photos with a title and description.
 
-As a possible bonus, users can see the albums of other users and can comment on
-photos from other users.
+As a possible bonus, users can see the albums of other users and can comment on photos from other users.
 
 As a super bonus, users can upload images. Handling uploads can be tricky, so
 speak to an instructor about this first!
 
 ### Gif Library
 
-Gif Library lets users save and bookmark their favorite gifs from Giphy for easy
-access when they need a witty gif in a pinch! Users can register an account
-(sign up and sign in) and save links to gifs.
+Gif Library lets users save and bookmark their favorite gifs from Giphy for easy access when they need a witty gif in a pinch! Users can register an account (sign up and sign in) and save links to gifs.
 
-As a bonus, users can tag gifs, see all their tags and list all the gifs with a
-particular tag on a page.
+As a bonus, users can tag gifs, see all their tags and list all the gifs with a particular tag on a page.
 
 ### Other Ideas
 
 * A StackOverflow-style question/answer page
-* Reddit / Hacker news style clone (maybe for specific topic like restaurants,
-  or political news articles)
+* Reddit / Hacker news style clone (maybe for specific topic like restaurants, or political news articles)
 * Recipe / ingredients manager
 
 ### Bonus Features to Implement
@@ -246,18 +197,12 @@ particular tag on a page.
 
 Here are some tips and best practices to follow while you build out your project:
 
-* **Commit early, commit often.** If you're committing often, you don't need to be
-  afraid of breaking something because you can always go back in time to a
-  previous version.
+* **One or two easy features, One really hard feature**. Don't try to build out a ton of features, instead focus on building a few features well. Of those features, some should be straightforward while one pushes you outside your comfort zone.
+* **Commit early, commit often.** If you're committing often, you don't need to be afraid of breaking something because you can always go back in time to a previous version.
 * **Plan.** Think through each feature, wireframe it and write user stories.
-* **Prototype.** Don't just start adding packages or features to your project on the
-  master branch! Create another branch to prototype it. If it works, great!
-  Merge it in with master. If not, great! Delete the branch.
-* **Work on one thing at a time.** This goes in to committing early and often. Don't
-  bounce from one feature to the next. At the end of the day, you'll have 3 half
-  implemented features when you could have 1 well implemented feature.
-* **Write tests.** Write a lot of tests. How will you know if some code you
-  added broke something? Run your tests.
+* **Prototype.** Don't just start adding packages or features to your project on the master branch! Create another branch to prototype it. If it works, great!  Merge it in with master. If not, great! Delete the branch.
+* **Work on one thing at a time.** This goes in to committing early and often. Don't bounce from one feature to the next. At the end of the day, you'll have 3 half implemented features when you could have 1 well implemented feature.
+* **Write tests.** Write a lot of tests. How will you know if some code you added broke something? Run your tests.
 
 ## Useful Resources
 
@@ -272,26 +217,12 @@ Here are some tips and best practices to follow while you build out your project
 
 ## Plagiarism
 
-Take a moment to re-familiarize yourself with the [plagiarism
-policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md),
-specifically on using work you find online and on work you do with other
-students.
+Take a moment to re-familiarize yourself with the [plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md), specifically on using work you find online and on work you do with other students.
 
-We give assignments like this to give you the opportunity to review the material
-in class in a practical manner. By building something using what you've learned
-in class, you'll be reviewing the material and gaining a deeper understanding of
-it.
+We give assignments like this to give you the opportunity to review the material in class in a practical manner. By building something using what you've learned in class, you'll be reviewing the material and gaining a deeper understanding of it.
 
-These assignments are similar to those you can expect when applying for a job,
-either in the form of a take-home coding challenge or an in-person technical
-interview. So it's important that you put in your best effort now and challenge
-yourself to do this assignment on your own.
+These assignments are similar to those you can expect when applying for a job, either in the form of a take-home coding challenge or an in-person technical interview. So it's important that you put in your best effort now and challenge yourself to do this assignment on your own.
 
-If you are struggling with the material, that's alright! That's why you're here.
-First, try reviewing the previous lessons and exercises. Go easy on yourself,
-you're still learning! If you're still struggling after that, come to office
-hours and ask an instructor for help. They're here to help you!
+If you are struggling with the material, that's alright! That's why you're here.  First, try reviewing the previous lessons and exercises. Go easy on yourself, you're still learning! If you're still struggling after that, come to office hours and ask an instructor for help. They're here to help you!
 
-Don't copy and paste from another source or another student or the solution
-branch. That's just going to put you at a disadvantage when you're interviewing
-for a job.
+Don't copy and paste from another source or another student or the solution branch. That's just going to put you at a disadvantage when you're interviewing for a job.
