@@ -204,16 +204,33 @@ Here are some tips and best practices to follow while you build out your project
 * **Work on one thing at a time.** This goes in to committing early and often. Don't bounce from one feature to the next. At the end of the day, you'll have 3 half implemented features when you could have 1 well implemented feature.
 * **Write tests.** Write a lot of tests. How will you know if some code you added broke something? Run your tests.
 
-## Useful Resources
+## Resources
 
-* **[Heroku](http://www.heroku.com)**
-* **[Writing Good User Stories](http://www.mariaemerson.com/user-stories/)**
-  _(for a few user story tips)_
-* **[Presenting Information
-  Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)**
-  _(for more insight into wireframing)_
-* **[W3 Validator](http://validator.w3.org)**
-* **[Seed Data Generator](https://www.mockaroo.com/)**
+* [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
+  thinking like a designer)
+* [UX Design for
+    Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
+* [Writing Good User Stories](http://www.mariaemerson.com/user-stories/)
+* [Presenting Information
+  Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
+* [Seed Data Generator](https://www.mockaroo.com/)
+
+## Pre-employment checklist
+
+Make sure you've completed each of these items, so your project looks
+professional and presentable when you go to apply for jobs:
+
+- [ ] Add the deployed URL to repo settings
+- [ ] Add a readme with:
+  - [ ] An embedded screenshot of the app
+  - [ ] Explanations of the **technologies** used
+  - [ ] **Installation instructions** for any dependencies
+  - [ ] Link to your **user stories** – who are your users, what do they want
+    and why?
+  - [ ] Link to your **wireframes** – sketches of major views / interfaces in
+    your application
+  - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
+    to overcome
 
 ## Plagiarism
 
