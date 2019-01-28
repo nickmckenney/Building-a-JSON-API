@@ -202,7 +202,6 @@ Here are some tips and best practices to follow while you build out your project
 * **Plan.** Think through each feature, wireframe it and write user stories.
 * **Prototype.** Don't just start adding packages or features to your project on the master branch! Create another branch to prototype it. If it works, great!  Merge it in with master. If not, great! Delete the branch.
 * **Work on one thing at a time.** This goes in to committing early and often. Don't bounce from one feature to the next. At the end of the day, you'll have 3 half implemented features when you could have 1 well implemented feature.
-* **Write tests.** Write a lot of tests. How will you know if some code you added broke something? Run your tests.
 
 ## Resources
 
