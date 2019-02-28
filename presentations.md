@@ -54,4 +54,4 @@ YouTube.
 
 **Make sure you turn on the microphone before recording.**
 
-![Quicktime microphone](http://i.imgur.com/SBfletl.jpg)
+![Quicktime microphone](https://i.imgur.com/SBfletl.jpg)
