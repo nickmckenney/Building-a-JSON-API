@@ -33,7 +33,7 @@ usual, if you have another idea in mind, just run it by an instructor for
 approval.
 
 Since you all have already built several JSON APIs in the last week, the focus
-on this project will be around **documentation** and **extra features**.
+of this project will be around **documentation** and **extra features**.
 
 In addition to building a project, you must document every route in your API.
 You can do this in the readme file of the project, or using a tool like Swagger
@@ -76,7 +76,7 @@ of these ideas:
   - Have your API render some HTML on the homepage, while also serving JSON on
     other routes.
   - Alternatively, you can use pug instead of HBS. The setup is very similar.
-- Authentication w/JSON web tokens
+- Authentication w/ JSON web tokens
   - Have your server require an auth token to accept requests.
   - http://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with-example-api
 
@@ -214,12 +214,11 @@ After planning your app:
    database (by a mongoose model) show up on the page later.
 1. Retrieve your data from the API.
 1. Seed the database using your models and newly retrieved data.
-1. Build your routes
+1. Build your routes.
 
 ## Getting Unstuck
 
-- Don't hesitate to write messy code to solve short-term problems - **_Refactor
-  later_**
+- Don't hesitate to write messy code to solve short-term problems - **_Refactor later_**
 - Read the docs for whatever technologies you use. The docs often include a
   tutorial that can help you get started, and learning to read documentation is
   crucial to your success as a developer.
