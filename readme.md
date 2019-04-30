@@ -73,6 +73,7 @@ of these ideas:
   - Artillery is a load-testing toolkit, which is a lot of fun to use.
 - [Handlebars](https://www.npmjs.com/package/hbs)
   - Handlebars is an HTML templating language, similar to pug
+  - [Here is a lesson on Handlebars that will be helpful](https://git.generalassemb.ly/dc-wdi-node-express/express-views)
   - Have your API render some HTML on the homepage, while also serving JSON on
     other routes.
   - Alternatively, you can use pug instead of HBS. The setup is very similar.
