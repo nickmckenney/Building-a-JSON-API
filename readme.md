@@ -115,6 +115,12 @@ one category by which we will be [evaluating your project](evaluation.md).
 
 ### Presentation
 
+Instead of presenting your project like we did with Project 1, you will be
+recording a screencast. For more information on the screencast (including tips
+on how to make one), read through the [presentation](presentations.md)
+documentation. Your screencast is due with your final project (on the last day
+of Project Week).
+
 You must prepare a 3-5 minute presentation for the class. Here are a few things
 you could include in your presentation:
 
