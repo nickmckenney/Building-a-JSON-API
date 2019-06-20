@@ -241,7 +241,8 @@ After planning your app:
 - https://www.wordsapi.com/
 - https://www.themoviedb.org/documentation/api
 - https://www.nutritionix.com/business/api
-- https://pypi.org/project/nba-api/
+
+You could also use one of the [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) data sets. Data is Plural is a weekly email newsletter of interesting and unique datasets and APIs. Their archive contains every dataset or API they've featured.
 
 ## Tips
 
