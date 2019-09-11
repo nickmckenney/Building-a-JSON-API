@@ -92,7 +92,7 @@ your project as an issue to this repo:
 [github.com/ga-dc/project2-gallery](https://github.com/ga-dc/project2-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
 
 You must turn in something before presentations begin. However, you're welcome
-to continue working on it over the course of WDI and beyond!
+to continue working on it over the course of SEI and beyond!
 
 With your submission please include any questions you'd like answered, or
 specific things on which you'd like us to focus when giving feedback.
@@ -225,7 +225,8 @@ After planning your app:
 
 ## Getting Unstuck
 
-- Don't hesitate to write messy code to solve short-term problems - **_Refactor later_**
+- Don't hesitate to write messy code to solve short-term problems - **_Refactor
+  later_**
 - Read the docs for whatever technologies you use. The docs often include a
   tutorial that can help you get started, and learning to read documentation is
   crucial to your success as a developer.
@@ -241,8 +242,12 @@ After planning your app:
 - https://www.wordsapi.com/
 - https://www.themoviedb.org/documentation/api
 - https://www.nutritionix.com/business/api
+- [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
-You could also use one of the [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) data sets. Data is Plural is a weekly email newsletter of interesting and unique datasets and APIs. Their archive contains every dataset or API they've featured.
+You could also use one of the
+[Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+data sets. Data is Plural is a weekly email newsletter of interesting and unique
+datasets and APIs. Their archive contains every dataset or API they've featured.
 
 ## Tips
 
@@ -266,6 +271,7 @@ project:
 
 ## Resources
 
+- [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
   thinking like a designer)
 - [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
