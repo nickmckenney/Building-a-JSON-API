@@ -272,6 +272,7 @@ project:
 ## Resources
 
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
+- [Lucidchart - great for making ERDs](https://www.lucidchart.com/pages/home)
 - [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
   thinking like a designer)
 - [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
