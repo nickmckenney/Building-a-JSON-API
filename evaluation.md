@@ -1,7 +1,7 @@
 # Project Evaluation
 
-We use the following rubric for our evaluation, but ultimately it is
-up to your instructors as to whether your project is complete or incomplete.
+We use the following rubric for our evaluation, but ultimately it is up to your
+instructors as to whether your project is complete or incomplete.
 
 ## Hard Requirements
 

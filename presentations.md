@@ -42,8 +42,8 @@ https://www.youtube.com/dashboard.
 You may use any video-recording software you wish. Whichever you choose, we
 recommend that you **make a quick test video first**.
 
-Include a link to your video as an issue on [the Project2-Gallery
-repository](https://github.com/ga-dc/project2-gallery).
+Include a link to your video as an issue on the
+[Project 2 Gallery repository](https://github.com/ga-dc/project2-gallery).
 
 ### QuickTime
 
