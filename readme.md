@@ -154,7 +154,7 @@ After planning your app:
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
 You could also use one of the
-[Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+[Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) or [Kaggle](https://www.kaggle.com/datasets)
 data sets. Data is Plural is a weekly email newsletter of interesting and unique
 datasets and APIs. Their archive contains every dataset or API they've featured.
 
