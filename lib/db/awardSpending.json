@@ -1,0 +1,813 @@
+{
+  "page_metadata": {
+    "count": 36611,
+    "page": 1,
+    "has_next_page": true,
+    "has_previous_page": false,
+    "next": "https://api.usaspending.gov/api/v2/award_spending/recipient/?awarding_agency_id=183&fiscal_year=2016&limit=100&page=2",
+    "current": "https://api.usaspending.gov/api/v2/award_spending/recipient/?awarding_agency_id=183&fiscal_year=2016&limit=100&page=1",
+    "previous": null
+  },
+  "results": [
+    {
+      "award_category": "contract",
+      "obligated_amount": "82250000.00",
+      "recipient": {
+        "recipient_id": 14078692,
+        "recipient_name": "T-REX CONSULTING CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "54735335.00",
+      "recipient": {
+        "recipient_id": 45997393,
+        "recipient_name": "HENSEL PHELPS CONSTRUCTION CO"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "50424860.00",
+      "recipient": {
+        "recipient_id": 40209051,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "28348968.93",
+      "recipient": {
+        "recipient_id": 49361840,
+        "recipient_name": "VION CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "27236680.00",
+      "recipient": {
+        "recipient_id": 38117168,
+        "recipient_name": "GREAT LAKES DREDGE & DOCK COMPANY, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "26318528.00",
+      "recipient": {
+        "recipient_id": 111838220,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "25000000.00",
+      "recipient": {
+        "recipient_id": 22929108,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "24938014.00",
+      "recipient": {
+        "recipient_id": 32209507,
+        "recipient_name": "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "24000000.00",
+      "recipient": {
+        "recipient_id": 11599750,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "24000000.00",
+      "recipient": {
+        "recipient_id": 14982761,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "23737478.00",
+      "recipient": {
+        "recipient_id": 78345513,
+        "recipient_name": "COASTAL PROTECTION AND RESTORATION AUTHORITY"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "23410748.00",
+      "recipient": {
+        "recipient_id": 71787539,
+        "recipient_name": "CALIFORNIA MANUFACTURING TECHNOLOGY CONSULTIN"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "22734079.00",
+      "recipient": {
+        "recipient_id": 163734608,
+        "recipient_name": "HERE NORTH AMERICA, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "21157738.00",
+      "recipient": {
+        "recipient_id": 111834416,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "20937992.95",
+      "recipient": {
+        "recipient_id": 111836841,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "18500000.00",
+      "recipient": {
+        "recipient_id": 76242278,
+        "recipient_name": "RECREATION AND CONSERVATION OFFICE, WASHINGTO"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "18192650.88",
+      "recipient": {
+        "recipient_id": 52414044,
+        "recipient_name": "2020 COMPANY, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "17557000.00",
+      "recipient": {
+        "recipient_id": 36849611,
+        "recipient_name": "SWINERTON BUILDERS"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "17420756.18",
+      "recipient": {
+        "recipient_id": 18686742,
+        "recipient_name": "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "16710100.00",
+      "recipient": {
+        "recipient_id": 111836840,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "15952600.00",
+      "recipient": {
+        "recipient_id": 13205816,
+        "recipient_name": "AMERICAN CHEMICAL SOCIETY"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "15260326.20",
+      "recipient": {
+        "recipient_id": 111838219,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "14947000.00",
+      "recipient": {
+        "recipient_id": 75119863,
+        "recipient_name": "CALIFORNIA DEPARTMENT OF FISH AND WILDLIFE"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "14851536.00",
+      "recipient": {
+        "recipient_id": 163539157,
+        "recipient_name": "SGT, INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "14800000.00",
+      "recipient": {
+        "recipient_id": 63979806,
+        "recipient_name": "WATERSHED ENHANCEMENT BOARD, OREGON"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "14025250.00",
+      "recipient": {
+        "recipient_id": 82923344,
+        "recipient_name": "STATE OF ILLINOIS EMERGENCY MANAGEMENT AGENCY"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "13975692.00",
+      "recipient": {
+        "recipient_id": 31772443,
+        "recipient_name": "DIVERSIFIED TECHNOLOGY & SERVICES OF VIRGINIA INC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "13846272.75",
+      "recipient": {
+        "recipient_id": 33828831,
+        "recipient_name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "13451252.00",
+      "recipient": {
+        "recipient_id": 41849531,
+        "recipient_name": "INFORMATION INTERNATIONAL ASSOCIATES, INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "13093467.00",
+      "recipient": {
+        "recipient_id": 87360364,
+        "recipient_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "12429000.00",
+      "recipient": {
+        "recipient_id": 111835396,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "11657000.00",
+      "recipient": {
+        "recipient_id": 53242579,
+        "recipient_name": "IMMIXGROUP, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "10578336.60",
+      "recipient": {
+        "recipient_id": 111834417,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "10538239.29",
+      "recipient": {
+        "recipient_id": 23819788,
+        "recipient_name": "BALDWIN GROUP, INC. (THE)"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "10076023.00",
+      "recipient": {
+        "recipient_id": 78454886,
+        "recipient_name": "UNIVERSITY OF WASHINGTON"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9842315.75",
+      "recipient": {
+        "recipient_id": 51470403,
+        "recipient_name": "CSC APPLIED TECHNOLOGIES, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9812594.09",
+      "recipient": {
+        "recipient_id": 5151359,
+        "recipient_name": "INFORMATION INTERNATIONAL ASSOCIATES, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9691394.33",
+      "recipient": {
+        "recipient_id": 38859530,
+        "recipient_name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9619164.80",
+      "recipient": {
+        "recipient_id": 8162683,
+        "recipient_name": "SEVATEC INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9582824.50",
+      "recipient": {
+        "recipient_id": 11932020,
+        "recipient_name": "DIVERSIFIED GLOBAL PARTNERS JV, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9516500.00",
+      "recipient": {
+        "recipient_id": 111836942,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9288400.44",
+      "recipient": {
+        "recipient_id": 17396933,
+        "recipient_name": "CONSOLIDATED SAFETY SERVICES,"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9274811.20",
+      "recipient": {
+        "recipient_id": 111824150,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "9069256.00",
+      "recipient": {
+        "recipient_id": 6975368,
+        "recipient_name": "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8999169.95",
+      "recipient": {
+        "recipient_id": 33499092,
+        "recipient_name": "SBD ALLIANT, LLC"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "8940507.00",
+      "recipient": {
+        "recipient_id": 80688165,
+        "recipient_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "8800960.00",
+      "recipient": {
+        "recipient_id": 81856411,
+        "recipient_name": "PA IRC NETWORK FOUNDATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8737687.00",
+      "recipient": {
+        "recipient_id": 41086273,
+        "recipient_name": "SECTEK, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8560823.68",
+      "recipient": {
+        "recipient_id": 111833111,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8520506.00",
+      "recipient": {
+        "recipient_id": 42325853,
+        "recipient_name": "RAYTHEON TECHNICAL SERVICES COMPANY LIMITED LIABILITY COMPANY (5772)"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8520506.00",
+      "recipient": {
+        "recipient_id": 48107801,
+        "recipient_name": "RAYTHEON TECHNICAL SERVICES COMPANY LIMITED LIABILITY COMPANY (5772)"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "8307468.00",
+      "recipient": {
+        "recipient_id": 72900399,
+        "recipient_name": "STATE OF OHIO, DEVELOPMENT SERVICES AGENCY"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8134897.00",
+      "recipient": {
+        "recipient_id": 14901484,
+        "recipient_name": "ACCENTURE NATIONAL SECURITY SERVICES LIMITED LIABILITY COMPANY"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8130523.77",
+      "recipient": {
+        "recipient_id": 37190815,
+        "recipient_name": "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "8117849.00",
+      "recipient": {
+        "recipient_id": 60651704,
+        "recipient_name": "NORTH PACIFIC RESEARCH BOARD"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8079681.29",
+      "recipient": {
+        "recipient_id": 26695893,
+        "recipient_name": "ACE INFO SOLUTIONS, INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "8058200.00",
+      "recipient": {
+        "recipient_id": 60639226,
+        "recipient_name": "GREAT LAKES COMMISSION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "8017440.00",
+      "recipient": {
+        "recipient_id": 31371467,
+        "recipient_name": "DIVERSIFIED TECHNOLOGY & SERVICES OF VIRGINIA INC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "7623490.43",
+      "recipient": {
+        "recipient_id": 99281005,
+        "recipient_name": "CYBERDATA TECHNOLOGIES INC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "7516400.00",
+      "recipient": {
+        "recipient_id": 44364165,
+        "recipient_name": "ASRC MANAGEMENT SERVICES INCORPORATED"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "7441595.00",
+      "recipient": {
+        "recipient_id": 2771428,
+        "recipient_name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "7304459.00",
+      "recipient": {
+        "recipient_id": 57304625,
+        "recipient_name": "VIRGINIA STATE POLICE"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "7175770.00",
+      "recipient": {
+        "recipient_id": 60651691,
+        "recipient_name": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEAR"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "7121500.00",
+      "recipient": {
+        "recipient_id": 99280672,
+        "recipient_name": "EXECUTIVE INFORMATION SYSTEMS,"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "7000000.00",
+      "recipient": {
+        "recipient_id": 135100502,
+        "recipient_name": "VETERANS MANAGEMENT SERVICES, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6879662.00",
+      "recipient": {
+        "recipient_id": 44314971,
+        "recipient_name": "CGI FEDERAL INC."
+      }
+    },
+    {
+      "award_category": "idv",
+      "obligated_amount": "6787595.68",
+      "recipient": {
+        "recipient_id": 140625598,
+        "recipient_name": "SERCO SERVICES INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "6700881.00",
+      "recipient": {
+        "recipient_id": 74003147,
+        "recipient_name": "THE UNIVERSITY OF TEXAS AT ARLINGTON"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "6602000.00",
+      "recipient": {
+        "recipient_id": 88496747,
+        "recipient_name": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6555921.84",
+      "recipient": {
+        "recipient_id": 1399269,
+        "recipient_name": "ARCTIC SLOPE TECHNICAL SERVICES, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6425000.00",
+      "recipient": {
+        "recipient_id": 143225338,
+        "recipient_name": "ACCENTURE NATIONAL SECURITY SERVICES LIMITED LIABILITY COMPANY"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "6370863.00",
+      "recipient": {
+        "recipient_id": 71787681,
+        "recipient_name": "NATIONAL FISH AND WILDLIFE FOUNDATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6344334.00",
+      "recipient": {
+        "recipient_id": 21279424,
+        "recipient_name": "DRT STRATEGIES INCORPORATED"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6325526.50",
+      "recipient": {
+        "recipient_id": 111830988,
+        "recipient_name": "REED TECHNOLOGY AND INFORMATION SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6233456.48",
+      "recipient": {
+        "recipient_id": 49906408,
+        "recipient_name": "DIVERSIFIED GLOBAL PARTNERS JV, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6210288.00",
+      "recipient": {
+        "recipient_id": 175702529,
+        "recipient_name": "LOCKHEED MARTIN SIPPICAN, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "6000000.00",
+      "recipient": {
+        "recipient_id": 6139701,
+        "recipient_name": "DIVERSIFIED TECHNOLOGY & SERVICES OF VIRGINIA INC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5998550.12",
+      "recipient": {
+        "recipient_id": 113653939,
+        "recipient_name": "GOVSMART, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5912362.00",
+      "recipient": {
+        "recipient_id": 5186935,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "5888416.00",
+      "recipient": {
+        "recipient_id": 84041763,
+        "recipient_name": "FISH AND WILDLIFE, OREGON DEPARTMENT OF"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5827527.34",
+      "recipient": {
+        "recipient_id": 115632095,
+        "recipient_name": "PRESIDIO NETWORKED SOLUTIONS, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5708069.46",
+      "recipient": {
+        "recipient_id": 159157356,
+        "recipient_name": "INNOVATIVE MANAGEMENT AND TECH"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5694680.68",
+      "recipient": {
+        "recipient_id": 3562983,
+        "recipient_name": "INSIGHT PUBLIC SECTOR, INC."
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "5575003.00",
+      "recipient": {
+        "recipient_id": 82906651,
+        "recipient_name": "GULF STATES MARINE FISHERIES COMMISSION"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "5513580.00",
+      "recipient": {
+        "recipient_id": 62876891,
+        "recipient_name": "FISH & WILDLIFE, WASHINGTON STATE DEPARTMENT"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "5500000.00",
+      "recipient": {
+        "recipient_id": 78471911,
+        "recipient_name": "UNIVERSITY OF SOUTHERN MISSISSIPPI, THE"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5463903.36",
+      "recipient": {
+        "recipient_id": 10703906,
+        "recipient_name": "AKIMA GLOBAL SERVICES, LLC"
+      }
+    },
+    {
+      "award_category": "idv",
+      "obligated_amount": "5429978.64",
+      "recipient": {
+        "recipient_id": 140624351,
+        "recipient_name": "SERCO SERVICES INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5412395.34",
+      "recipient": {
+        "recipient_id": 42229735,
+        "recipient_name": "ADVANCED DECISION VECTORS LLC"
+      }
+    },
+    {
+      "award_category": "grant",
+      "obligated_amount": "5397733.00",
+      "recipient": {
+        "recipient_id": 78454870,
+        "recipient_name": "UNIVERSITY OF MIAMI"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5370462.00",
+      "recipient": {
+        "recipient_id": 202304823,
+        "recipient_name": "I.M. SYSTEMS GROUP, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5351355.80",
+      "recipient": {
+        "recipient_id": 35986780,
+        "recipient_name": "AMDEX CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5323417.79",
+      "recipient": {
+        "recipient_id": 31408259,
+        "recipient_name": "SBD ALLIANT, LLC"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5259735.70",
+      "recipient": {
+        "recipient_id": 114668510,
+        "recipient_name": "FORCE 3, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5196718.22",
+      "recipient": {
+        "recipient_id": 16529185,
+        "recipient_name": "ACE INFO SOLUTIONS, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5185459.90",
+      "recipient": {
+        "recipient_id": 36822391,
+        "recipient_name": "UNISYS CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5143440.00",
+      "recipient": {
+        "recipient_id": 16998154,
+        "recipient_name": "HARRIS CORPORATION"
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5142011.20",
+      "recipient": {
+        "recipient_id": 157734997,
+        "recipient_name": "SOFTWARE CONSULTANTS, INC."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5098289.00",
+      "recipient": {
+        "recipient_id": 160217586,
+        "recipient_name": "ADVANCETEC, L.L.C."
+      }
+    },
+    {
+      "award_category": "contract",
+      "obligated_amount": "5092320.00",
+      "recipient": {
+        "recipient_id": 51919973,
+        "recipient_name": "PROQUEST LLC"
+      }
+    }
+  ]
+}
