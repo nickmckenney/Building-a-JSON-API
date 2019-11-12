@@ -1,4 +1,4 @@
-# ![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #2: Building a JSON API
+# ![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project: Building a JSON API
 
 This week, you will build a JSON API from the ground up!. This means we will be
 choosing an idea, planning it out with diagrams and notes, and then building it.
@@ -32,7 +32,7 @@ There are many great APIs you can use, we'll provide a list of suggestions. As
 usual, if you have another idea in mind, just run it by an instructor for
 approval.
 
-Since you all have already built several JSON APIs in the last week, the focus
+Since you all have already built a JSON API in the last week, the focus
 of this project will be around **documentation** and **extra features**.
 
 In addition to building a project, you must document every route in your API.
@@ -47,7 +47,7 @@ Your project must satisfy the following requirements:
 ### Technical Requirements
 
 - Be built using Express and Mongoose.
-- Have at least 3 models, with at least one relation between two of them.
+- Have at least one model.
 - Have complete CRUD functionality implemented with RESTful routes. (You may
   logically distribute CRUD functionality across models. This is only allowed
   when it does not make sense in the context of your application to have full
@@ -71,12 +71,6 @@ of these ideas:
     in your code and will generate documentation for them.
 - [Artillery](https://artillery.io/)
   - Artillery is a load-testing toolkit, which is a lot of fun to use.
-- [Handlebars](https://www.npmjs.com/package/hbs)
-  - Handlebars is an HTML templating language, similar to pug
-  - [Here is a lesson on Handlebars that will be helpful](https://git.generalassemb.ly/dc-wdi-node-express/express-views)
-  - Have your API render some HTML on the homepage, while also serving JSON on
-    other routes.
-  - Alternatively, you can use pug instead of HBS. The setup is very similar.
 - Authentication w/ JSON web tokens
   - Have your server require an auth token to accept requests.
   - http://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with-example-api
@@ -107,7 +101,7 @@ You need to submit:
 
 1. Your project idea (a brief 2-3 sentence description of your app). This should
    include the API you want to pull data from.
-2. A list of your models and their properties.
+2. Your model(s) including the specific properties you plan to include.
 
 These and any other planning assets (wireframes, etc) should go inside a
 `planning/` directory inside your Project 2 repository. Planning and Process is
@@ -136,12 +130,12 @@ course calendar). Create an issue on
 [the project2-gallery repository](https://github.com/ga-dc/project2-gallery)
 containing:
 
-- A link to your Project 2 Github repository (Do not fork this repo)
+- A link to your Github repository (Do not fork this repo)
 - A link to your project deployed on Heroku
 
 Your repository should contain:
 
-- A working full-stack application (built by you) that meets the technical
+- A working application (built by you) that meets the technical
   requirements above.
 - Frequent commits dating back to the very beginning of the project.
 - A `readme.md` file in the root of your repo that follows
@@ -155,55 +149,6 @@ Your repository should contain:
 
 > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
-## Asking For Help
-
-### GitHub Issues
-
-Most of the support instructors will be offering during this project will be via
-GitHub, on the issues section of this repo. This is to mirror "in-the-wild"
-practices. Developers often interact with (and receive help from) each other via
-GitHub issues.
-
-We've provided a template for you to fill in when posting an issue to receive
-help. The more detailed you make your issue, the easier it will be for us to
-help you. That, and the added benefit that the more you think through your
-issue, the more likely you are to solve it yourself!
-
-A good GitHub issue has the following:
-
-- A detailed explanation of what the issue or error is
-- An even more detailed explanation for why you think the error is happening
-  (remember that all bugs and errors happen for logical reasons!).
-
-### Open Office Hours
-
-Instructors will be offering in-person support every weekday during Open Office
-Hours (10:00am - 12:00pm).
-
-Students will be limited to 20 minutes at a time with one-on-one instructor
-support during Open Office Hours. We are doing this for two reasons:
-
-1. To ensure we can support ALL students during a session
-2. To give you the opportunity to work through the problem yourself
-
-### Maximizing Effectiveness of Support Sessions
-
-Prior to a one-on-one during Open Office Hours, students must file an issue on
-this repository in order to provide the instructor with a point of reference
-regarding your code and the issue you are having. This really helps us give you
-more effective guidance!
-
-When you submit an issue please include the following:
-
-1. A code snippet
-2. A precise and specific description of your issue
-3. What error you got
-4. Why you think the error is happening
-5. What you already tried to resolve your error and the result of those attempts
-
-We also strongly recommend using Slack to get help from your classmates. Chances
-are you all will be running into similar problems.
-
 ## Planning
 
 1. [Watch this video on the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
@@ -216,7 +161,7 @@ are you all will be running into similar problems.
 
 After planning your app:
 
-1. Start with building your models and linking them to the database. Create a
+1. Start with building your model(s) and linking them to the database. Create a
    couple pieces of seed data so that you can see data retrieved from your
    database (by a mongoose model) show up on the page later.
 1. Retrieve your data from the API.
