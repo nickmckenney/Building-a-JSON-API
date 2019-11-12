@@ -1,0 +1,450 @@
+[
+  {
+    "code": "ND",
+    "count": 76029,
+    "name": "North Dakota",
+    "amount": 71588296679.46,
+    "type": "state",
+    "fips": "38"
+  },
+  {
+    "code": "NV",
+    "count": 23103,
+    "name": "Nevada",
+    "amount": 19122955549.74,
+    "type": "state",
+    "fips": "32"
+  },
+  {
+    "code": "OH",
+    "count": 227624,
+    "name": "Ohio",
+    "amount": 78282554545.15,
+    "type": "state",
+    "fips": "39"
+  },
+  {
+    "code": "GU",
+    "count": 5394,
+    "name": "Guam",
+    "amount": 1438688994.3,
+    "type": "territory",
+    "fips": "66"
+  },
+  {
+    "code": "NY",
+    "count": 286960,
+    "name": "New York",
+    "amount": 171490153711.1,
+    "type": "state",
+    "fips": "36"
+  },
+  {
+    "code": "HI",
+    "count": 24026,
+    "name": "Hawaii",
+    "amount": 11063624439.83,
+    "type": "state",
+    "fips": "15"
+  },
+  {
+    "code": "IN",
+    "count": 142397,
+    "name": "Indiana",
+    "amount": 143517729386.56,
+    "type": "state",
+    "fips": "18"
+  },
+  {
+    "code": "WV",
+    "count": 35224,
+    "name": "West Virginia",
+    "amount": 16753892933.84,
+    "type": "state",
+    "fips": "54"
+  },
+  {
+    "code": "NE",
+    "count": 123157,
+    "name": "Nebraska",
+    "amount": 15117378679.53,
+    "type": "state",
+    "fips": "31"
+  },
+  {
+    "code": "FL",
+    "count": 252808,
+    "name": "Florida",
+    "amount": 189431081330.84,
+    "type": "state",
+    "fips": "12"
+  },
+  {
+    "code": "ME",
+    "count": 19220,
+    "name": "Maine",
+    "amount": 13870724172.71,
+    "type": "state",
+    "fips": "23"
+  },
+  {
+    "code": "AR",
+    "count": 84754,
+    "name": "Arkansas",
+    "amount": 23547850411.37,
+    "type": "state",
+    "fips": "05"
+  },
+  {
+    "code": "CT",
+    "count": 93803,
+    "name": "Connecticut",
+    "amount": 74675142869.14,
+    "type": "state",
+    "fips": "09"
+  },
+  {
+    "code": "SD",
+    "count": 77307,
+    "name": "South Dakota",
+    "amount": 6970472807.16,
+    "type": "state",
+    "fips": "46"
+  },
+  {
+    "code": "LA",
+    "count": 76397,
+    "name": "Louisiana",
+    "amount": 36585506923.08,
+    "type": "state",
+    "fips": "22"
+  },
+  {
+    "code": "WY",
+    "count": 15706,
+    "name": "Wyoming",
+    "amount": 4183497825.3,
+    "type": "state",
+    "fips": "56"
+  },
+  {
+    "code": "MT",
+    "count": 52105,
+    "name": "Montana",
+    "amount": 8741631652.79,
+    "type": "state",
+    "fips": "30"
+  },
+  {
+    "code": "MI",
+    "count": 385075,
+    "name": "Michigan",
+    "amount": 78284254929.9,
+    "type": "state",
+    "fips": "26"
+  },
+  {
+    "code": "NJ",
+    "count": 365210,
+    "name": "New Jersey",
+    "amount": 61244797327.0,
+    "type": "state",
+    "fips": "34"
+  },
+  {
+    "code": "MP",
+    "count": 2174,
+    "name": "Northern Mariana Islands",
+    "amount": 513495256.56,
+    "type": "territory",
+    "fips": "69"
+  },
+  {
+    "code": "UT",
+    "count": 50697,
+    "name": "Utah",
+    "amount": 15814138436.03,
+    "type": "state",
+    "fips": "49"
+  },
+  {
+    "code": "SC",
+    "count": 74159,
+    "name": "South Carolina",
+    "amount": 105913812520.52,
+    "type": "state",
+    "fips": "45"
+  },
+  {
+    "code": "VI",
+    "count": 2443,
+    "name": "U.S. Virgin Islands",
+    "amount": 1257945651.91,
+    "type": "territory",
+    "fips": "78"
+  },
+  {
+    "code": "DE",
+    "count": 14178,
+    "name": "Delaware",
+    "amount": 7531977104.13,
+    "type": "state",
+    "fips": "10"
+  },
+  {
+    "code": "CA",
+    "count": 610098,
+    "name": "California",
+    "amount": 287668631852.62,
+    "type": "state",
+    "fips": "06"
+  },
+  {
+    "code": "NH",
+    "count": 15001,
+    "name": "New Hampshire",
+    "amount": 10405348847.46,
+    "type": "state",
+    "fips": "33"
+  },
+  {
+    "code": "OR",
+    "count": 62201,
+    "name": "Oregon",
+    "amount": 32878690132.63,
+    "type": "state",
+    "fips": "41"
+  },
+  {
+    "code": "TX",
+    "count": 472836,
+    "name": "Texas",
+    "amount": 186032203077.89,
+    "type": "state",
+    "fips": "48"
+  },
+  {
+    "code": "PR",
+    "count": 49083,
+    "name": "Puerto Rico",
+    "amount": 28256551568.57,
+    "type": "territory",
+    "fips": "72"
+  },
+  {
+    "code": "KY",
+    "count": 106595,
+    "name": "Kentucky",
+    "amount": 97697340887.71,
+    "type": "state",
+    "fips": "21"
+  },
+  {
+    "code": "NM",
+    "count": 33569,
+    "name": "New Mexico",
+    "amount": 22482661652.69,
+    "type": "state",
+    "fips": "35"
+  },
+  {
+    "code": "MS",
+    "count": 81195,
+    "name": "Mississippi",
+    "amount": 26771864764.19,
+    "type": "state",
+    "fips": "28"
+  },
+  {
+    "code": "DC",
+    "count": 58220,
+    "name": "District of Columbia",
+    "amount": 32480327446.64,
+    "type": "district",
+    "fips": "11"
+  },
+  {
+    "code": "MO",
+    "count": 266730,
+    "name": "Missouri",
+    "amount": 54766049807.04,
+    "type": "state",
+    "fips": "29"
+  },
+  {
+    "code": "WI",
+    "count": 208061,
+    "name": "Wisconsin",
+    "amount": 90632189394.63,
+    "type": "state",
+    "fips": "55"
+  },
+  {
+    "code": "NC",
+    "count": 320477,
+    "name": "North Carolina",
+    "amount": 69788845631.23,
+    "type": "state",
+    "fips": "37"
+  },
+  {
+    "code": "OK",
+    "count": 103433,
+    "name": "Oklahoma",
+    "amount": 28374833240.2,
+    "type": "state",
+    "fips": "40"
+  },
+  {
+    "code": "RI",
+    "count": 24276,
+    "name": "Rhode Island",
+    "amount": 9473607420.31,
+    "type": "state",
+    "fips": "44"
+  },
+  {
+    "code": "ID",
+    "count": 44105,
+    "name": "Idaho",
+    "amount": 12599470578.02,
+    "type": "state",
+    "fips": "16"
+  },
+  {
+    "code": "GA",
+    "count": 252482,
+    "name": "Georgia",
+    "amount": 64831217358.42,
+    "type": "state",
+    "fips": "13"
+  },
+  {
+    "code": "MN",
+    "count": 215858,
+    "name": "Minnesota",
+    "amount": 112701460461.27,
+    "type": "state",
+    "fips": "27"
+  },
+  {
+    "code": "PA",
+    "count": 585306,
+    "name": "Pennsylvania",
+    "amount": 210890358579.97,
+    "type": "state",
+    "fips": "42"
+  },
+  {
+    "code": "AK",
+    "count": 19991,
+    "name": "Alaska",
+    "amount": 8811725147.12,
+    "type": "state",
+    "fips": "02"
+  },
+  {
+    "code": "MD",
+    "count": 174336,
+    "name": "Maryland",
+    "amount": 69993291916.28,
+    "type": "state",
+    "fips": "24"
+  },
+  {
+    "code": "IL",
+    "count": 741410,
+    "name": "Illinois",
+    "amount": 85390836454.11,
+    "type": "state",
+    "fips": "17"
+  },
+  {
+    "code": "TN",
+    "count": 114022,
+    "name": "Tennessee",
+    "amount": 79824615240.97,
+    "type": "state",
+    "fips": "47"
+  },
+  {
+    "code": "WA",
+    "count": 143388,
+    "name": "Washington",
+    "amount": 56127990032.92,
+    "type": "state",
+    "fips": "53"
+  },
+  {
+    "code": "MA",
+    "count": 174794,
+    "name": "Massachusetts",
+    "amount": 65239994504.63,
+    "type": "state",
+    "fips": "25"
+  },
+  {
+    "code": "AL",
+    "count": 117322,
+    "name": "Alabama",
+    "amount": 46880272870.77,
+    "type": "state",
+    "fips": "01"
+  },
+  {
+    "code": "IA",
+    "count": 177599,
+    "name": "Iowa",
+    "amount": 22913848550.17,
+    "type": "state",
+    "fips": "19"
+  },
+  {
+    "code": "VT",
+    "count": 14725,
+    "name": "Vermont",
+    "amount": 5282166465.97,
+    "type": "state",
+    "fips": "50"
+  },
+  {
+    "code": "CO",
+    "count": 111234,
+    "name": "Colorado",
+    "amount": 40015376246.43,
+    "type": "state",
+    "fips": "08"
+  },
+  {
+    "code": "AS",
+    "count": 814,
+    "name": "American Samoa",
+    "amount": 487915252.01,
+    "type": "territory",
+    "fips": "60"
+  },
+  {
+    "code": "VA",
+    "count": 477392,
+    "name": "Virginia",
+    "amount": 102715858121.5,
+    "type": "state",
+    "fips": "51"
+  },
+  {
+    "code": "AZ",
+    "count": 63140,
+    "name": "Arizona",
+    "amount": 72432806076.87,
+    "type": "state",
+    "fips": "04"
+  },
+  {
+    "code": "KS",
+    "count": 178994,
+    "name": "Kansas",
+    "amount": 17752324120.58,
+    "type": "state",
+    "fips": "20"
+  }
+]
