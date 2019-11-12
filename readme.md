@@ -1,7 +1,7 @@
 # ![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project: Building a JSON API
 
 This week, you will build a JSON API from the ground up!. This means we will be
-choosing an idea, planning it out with diagrams and notes, and then building it.
+choosing an idea, planning it out, and then building it.
 This is exciting! We've given you the tools to build what you want, and now
 **you** get to decide what you do with it. Now is your chance to exercise your
 own creativity in choosing what sort of application you want to build!
@@ -20,25 +20,24 @@ beginners, _but for all developers._
 ## Description
 
 You will be building a JSON API using Mongoose and Express. In addition, you
-will find an API online to pull data from. You'll use this retrieved data to
-build your own models, and also to seed your database with.
+will find a dataset online to pull data from. You'll use this retrieved data to
+build your own model(s), and also to seed your database with.
 
 We recommend you use [axios](https://github.com/axios/axios) and the node
 [filesystem](https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback)
 to get the data onto your computer. Axios is very similar to fetch, uses
 promises, and does an excellent job all around.
 
-There are many great APIs you can use, we'll provide a list of suggestions. As
+There are many great APIs you can use, and we'll provide a list of suggestions. As
 usual, if you have another idea in mind, just run it by an instructor for
 approval.
 
-Since you all have already built a JSON API in the last week, the focus
+Since you all have already built a JSON API, the additional focus
 of this project will be around **documentation** and **extra features**.
 
-In addition to building a project, you must document every route in your API.
-You can do this in the readme file of the project, or using a tool like Swagger
-or apidoc (see below). Every great API has good documentation! You can use the
-docs from other APIs as examples for how to write your own.
+In addition to building your API, you must document every route.
+You can do this in the Readme file of the project, or using a tool like Swagger
+or apidoc (see below). Every great API has great documentation to go with it! You can use the docs from other APIs as examples for how to write your own.
 
 ## Requirements
 
@@ -49,15 +48,15 @@ Your project must satisfy the following requirements:
 - Be built using Express and Mongoose.
 - Have at least one model.
 - Have complete CRUD functionality implemented with RESTful routes. (You may
-  logically distribute CRUD functionality across models. This is only allowed
+  logically distribute CRUD functionality across models, should you decide to implement more than one. This is only allowed
   when it does not make sense in the context of your application to have full
   CRUD on one model).
 - Have its own repository under your GitHub account (do not fork this repo).
-- Be deployed to Heroku.
+- Be deployed to Heroku (we will have a lesson on this later this week).
 - Have good, clean Javascript code. Only include comments for documentation,
-  don't include any non-functional code. Use the auto-formatter regularly!
+  and don't include any non-functional code. Use the auto-formatter regularly!
 - Demonstrate a good commit history.
-- Have well-documented API routes. You can do this in your readme, or using
+- Have well-documented API routes. You can do this in your Readme, or using
   Swagger or apidoc (see below).
 
 The above are minimum requirements. If you want some extra inspiration, try one
@@ -85,48 +84,15 @@ your project as an issue to this repo:
 
 [github.com/ga-dc/project2-gallery](https://github.com/ga-dc/project2-gallery/issues/new)
 
-You must turn in something before presentations begin. However, you're welcome
-to continue working on it over the course of SEI and beyond!
-
 With your submission please include any questions you'd like answered, or
 specific things on which you'd like us to focus when giving feedback.
 
-### Necessary Deliverables
-
 Your submission must include **all** of the following:
 
-### Project Idea and Initial Planning
+### Necessary Deliverables
 
-You need to submit:
-
-1. Your project idea (a brief 2-3 sentence description of your app). This should
-   include the API you want to pull data from.
-2. Your model(s) including the specific properties you plan to include.
-
-These and any other planning assets (wireframes, etc) should go inside a
-`planning/` directory inside your Project 2 repository. Planning and Process is
-one category by which we will be [evaluating your project](evaluation.md).
-
-### Presentation
-
-Instead of presenting your project like we did with Project 1, you will be
-recording a screencast. For more information on the screencast (including tips
-on how to make one), read through the [presentation](presentations.md)
-documentation. Your screencast is due with your final project (on the last day
-of Project Week).
-
-You must prepare a 3-5 minute presentation for the class. Here are a few things
-you could include in your presentation:
-
-- What API you chose and why
-- Your models and how you developed them
-- A Postman demonstration
-- A walkthrough or demonstration of the extra feature you chose
-
-### Final Application
-
-Your project is due on the last day of Project Week (the exact date is in your
-course calendar). Create an issue on
+Your project is due on the the date is in your
+course calendar. Create an issue on
 [the project2-gallery repository](https://github.com/ga-dc/project2-gallery)
 containing:
 
@@ -142,8 +108,6 @@ Your repository should contain:
   [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
-- A `planning/` directory in the root of your repo all of your planning notes
-  and any relevant diagrams (models, research notes, etc).
 - A link to your hosted, working application in the URL section of your Github
   repo:
 
@@ -218,9 +182,6 @@ project:
 
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 - [Lucidchart - great for making ERDs](https://www.lucidchart.com/pages/home)
-- [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
-  thinking like a designer)
-- [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
 - [Writing Good User Stories](http://www.mariaemerson.com/user-stories/)
 - [Presenting Information Architecture](http://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 - [Seed Data Generator](https://www.mockaroo.com/)
