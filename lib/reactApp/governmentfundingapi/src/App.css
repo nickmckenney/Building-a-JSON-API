@@ -26,3 +26,36 @@
 .mdl-layout__drawer {
   background: gainsboro;
 }
+.element {
+  width: 100%;
+  height: 100%;
+  animation: pulse 4s infinite;
+}
+
+/* @keyframes pulse {
+  from{
+    width:0%;
+  }
+  to{
+    width:100%;
+  }
+
+  0% {
+    transition: all 3000ms ease;
+      background-size: 100% 100%;
+    background-image: linear-gradient(#84fab0 0%, #8fd3f4 100%);
+  }
+  25% {
+    transition: all 3000ms ease;
+      background-size: 100% 100%;
+    background-image: linear-gradient(#84fab0 0%, #8fd3f4 100%);
+  }
+  50% {
+    transition: all 3000ms ease;
+      background-size: 100% 100%;
+background-image:linear-gradient(purple 0%, pink 100%);  }
+}
+  100% {
+    transition: all 3000ms ease;
+      background-size: 100% 100%;
+background-image:linear-gradient(black 0%, red 100%);  } */
