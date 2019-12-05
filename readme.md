@@ -6,7 +6,8 @@
 
 I Built this project to help people understand funding in their state as well as their respected agencies. This project is intended for all of the CRUD compatitbilities as well as inform people about their local congressional justification on the Budget. Another big reason I created this API was I wanted the public to know where there money is going and have all data to be as transparent as possible. 
 
-### Live URL: [https://governmentfundingapi.herokuapp.com/%3CPARAMS%3E]
+### Live URL: [https://governmentfundingapi.herokuapp.com/state/]
+### Live URL: [https://frontendapi-c6jjpsx8x.now.sh/]
 
 ## Installation Instructions
 
